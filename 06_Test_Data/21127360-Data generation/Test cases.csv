@@ -1,0 +1,1001 @@
+id,name,description,type,priority,project_id
+1,login_success,"Fragmentation in Bladder Neck, Via Opening",performance,low,1
+2,login_failure,"Destruction of Right Carpal Joint, Open Approach",other,low,2
+3,signup_success,"Transplantation of Mouth and Throat into POC, Via Opening",performance,hight,3
+4,signup_failure,"Bypass R Com Iliac Art to B Com Ilia w Autol Art, Open",other,low,4
+5,forgot_password_success,"Insertion of Stimulator Lead into Ureter, Endo",functional,medium,5
+6,forgot_password_failure,"Muscles, Extirpation",functional,hight,6
+7,add_to_cart_success,"Occlusion of Hemorr Plexus with Extralum Dev, Perc Approach",functional,low,7
+8,add_to_cart_failure,"Repair Face Artery, Percutaneous Approach",performance,hight,8
+9,checkout_success,"Dilate L Radial Art, Bifurc, w 3 Intralum Dev, Open",performance,low,9
+10,checkout_failure,"Resection of Right Carpal, Open Approach",performance,low,10
+11,search_product_success,Removal of Other Device on Left Finger,performance,low,1
+12,search_product_failure,"Excision of Left Ovary, Endo",functional,low,2
+13,view_product_details_success,"Repair Female Reproductive System in POC, Via Opening",functional,low,3
+14,view_product_details_failure,"Replace of R Thyroid Art with Nonaut Sub, Perc Endo Approach",performance,medium,4
+15,update_profile_success,"Fragmentation in Pericardium, Perc Endo Approach",other,medium,5
+16,update_profile_failure,"Excision of Thor Aorta Asc, Perc Endo Approach, Diagn",performance,medium,6
+17,change_password_success,Osteopathic Treatment of Pelvis w Muscle Isometric,functional,medium,7
+18,change_password_failure,"Release Right Lower Lung Lobe, Percutaneous Approach",other,hight,8
+19,delete_account_success,Plain Radiography of L Single Mamm Duct using L Osm Contrast,performance,hight,9
+20,delete_account_failure,"Radiation Therapy, Endocrine System, Other Radiation",functional,low,10
+21,create_post_success,"Replacement of Com Bile Duct with Nonaut Sub, Open Approach",other,low,1
+22,create_post_failure,"Supplement Pelvis Lymphatic with Nonaut Sub, Open Approach",functional,hight,2
+23,like_post_success,"Revision of Bone Growth Stimulator in Skull, Perc Approach",performance,hight,3
+24,like_post_failure,"Reposition R Humeral Shaft w Hybrid Ext Fix, Open",other,medium,4
+25,comment_post_success,"Reposition Right Femoral Shaft with Int Fix, Perc Approach",functional,low,5
+26,comment_post_failure,"Extirpation of Matter from R Subclav Art, Open Approach",other,low,6
+27,share_post_success,"Restrict of R Parotid Duct with Intralum Dev, Perc Approach",other,low,7
+28,share_post_failure,"Drainage of Sigmoid Colon with Drainage Device, Via Opening",other,low,8
+29,create_event_success,"Dilation of L Fem Art with Intralum Dev, Perc Endo Approach",performance,hight,9
+30,create_event_failure,"Excision of Right Colic Artery, Percutaneous Approach",performance,medium,10
+31,join_event_success,"Destruction of Appendix, Endo",functional,low,1
+32,join_event_failure,"Change Other Device in Nose, External Approach",performance,hight,2
+33,cancel_event_success,"Drainage of R Tunica Vaginalis, Perc Endo Approach, Diagn",functional,medium,3
+34,cancel_event_failure,"Division of L Low Extrem Bursa/Lig, Perc Approach",functional,hight,4
+35,create_group_success,"Drainage of Right Ulnar Artery, Perc Endo Approach, Diagn",functional,low,5
+36,create_group_failure,"Bypass Low Esophag to Jejunum with Synth Sub, Open Approach",functional,medium,6
+37,join_group_success,"Fusion C-thor Jt w Autol Sub, Post Appr A Col, Perc Endo",performance,medium,7
+38,join_group_failure,"Repair Left Lower Extremity, Open Approach",functional,low,8
+39,leave_group_success,"Supplement Post Neck Subcu/Fascia w Synth Sub, Open",functional,hight,9
+40,leave_group_failure,"Insertion of Monitoring Device into Trachea, Endo",functional,medium,10
+41,delete_group_success,"Release Right Breast, Endo",performance,medium,1
+42,delete_group_failure,"Dilate R Thyroid Art, Bifurc, w 2 Intralum Dev, Perc",performance,hight,2
+43,create_survey_success,"Restriction of Superior Mesenteric Vein, Perc Endo Approach",performance,low,3
+44,create_survey_failure,Contact Radiation of Salivary Glands,other,medium,4
+45,submit_survey_success,"Insert Intralum Dev in R Less Saphenous, Perc Endo",functional,low,5
+46,submit_survey_failure,"Extirpation of Matter from L Elbow Bursa/Lig, Open Approach",functional,low,6
+47,create_poll_success,"Occlusion of Right Brachial Vein, Open Approach",performance,hight,7
+48,create_poll_failure,Removal of Packing Material on Left Upper Arm,performance,medium,8
+49,vote_poll_success,"Drainage of Bladder, Percutaneous Endoscopic Approach, Diagn",performance,medium,9
+50,vote_poll_failure,"Replacement of Soft Palate with Nonaut Sub, Perc Approach",other,low,10
+51,create_task_success,"Restriction of Stomach, Pylorus, Perc Endo Approach",other,medium,1
+52,create_task_failure,"Revision of Intraluminal Device in Urethra, Via Opening",functional,low,2
+53,assign_task_success,"Drainage of Right Foot Tendon, Percutaneous Approach, Diagn",functional,hight,3
+54,assign_task_failure,"Removal of Feeding Device from Esophagus, Perc Approach",performance,low,4
+55,complete_task_success,"Drainage of Large Intestine, Perc Endo Approach, Diagn",other,medium,5
+56,complete_task_failure,"Dilate R Hand Art, Bifurc, w 2 Intralum Dev, Open",other,low,6
+57,create_project_success,"Dilate R Com Carotid, Bifurc, w 3 Intralum Dev, Perc Endo",other,medium,7
+58,create_project_failure,"Drainage of Right Temporal Bone, Perc Endo Approach",functional,medium,8
+59,assign_project_success,"Supplement L Subclav Art with Synth Sub, Perc Endo Approach",other,medium,9
+60,assign_project_failure,"Bypass Jejunum to Cecum, Open Approach",other,medium,10
+61,complete_project_success,"Insertion of Other Device into L Knee, Perc Approach",functional,medium,1
+62,complete_project_failure,"Bypass Left Femoral Artery to Low Ex Art, Open Approach",other,medium,2
+63,create_bug_report_success,"Excision of Anal Sphincter, Percutaneous Endoscopic Approach",performance,low,3
+64,create_bug_report_failure,"Bypass R Hand Vein to Up Vein with Synth Sub, Open Approach",performance,hight,4
+65,resolve_bug_report_success,"Repair Right Palatine Bone, External Approach",functional,low,5
+66,resolve_bug_report_failure,"MRI of Bi Testicle using Oth Contrast, Unenh, Enhance",functional,hight,6
+67,create_feature_request_success,"Replacement of Pulm Valve with Autol Sub, Perc Endo Approach",functional,medium,7
+68,create_feature_request_failure,"Dilation of L Ext Carotid, Bifurc, Perc Endo Approach",functional,medium,8
+69,approve_feature_request_success,"Insertion of Artificial Sphincter into Bladder, Via Opening",other,hight,9
+70,approve_feature_request_failure,"Transfer Hypogloss Nrv to Oculomotor N, Perc Endo Approach",other,low,10
+71,reject_feature_request_success,"Restrict Int Mamm, L Lymph w Intralum Dev, Perc Endo",functional,low,1
+72,reject_feature_request_failure,"Replacement of Splenic Artery with Synth Sub, Open Approach",functional,low,2
+73,create_document_success,"Release Thoracic Vertebra, Percutaneous Endoscopic Approach",performance,medium,3
+74,create_document_failure,"Introduce of Oth Diagn Subst into Periton Cav, Perc Approach",functional,hight,4
+75,edit_document_success,"Revision of Autol Sub in Vagina & Cul-de-sac, Endo",performance,medium,5
+76,edit_document_failure,"Inspection of Salivary Gland, Open Approach",other,low,6
+77,delete_document_success,"Occlusion of Thorax Lymph with Extralum Dev, Perc Approach",functional,low,7
+78,delete_document_failure,"Extirpation of Matter from R Low Eyelid, Extern Approach",performance,low,8
+79,create_invoice_success,"Transfer Left Hand Tendon, Percutaneous Endoscopic Approach",functional,low,9
+80,create_invoice_failure,"Dilation of R Parotid Duct with Intralum Dev, Perc Approach",performance,low,10
+81,send_invoice_success,"Removal of Feeding Device from Esophagus, Perc Endo Approach",functional,low,1
+82,send_invoice_failure,"Reposition L Temporomandib Jt with Int Fix, Extern Approach",other,low,2
+83,pay_invoice_success,"Supplement Left Knee Joint with Synth Sub, Perc Approach",performance,medium,3
+84,pay_invoice_failure,"Insertion of Monitoring Device into Urethra, Perc Approach",performance,medium,4
+85,generate_report_success,"Extirpation of Matter from Bilateral Breast, Endo",other,low,5
+86,generate_report_failure,"Ultrasonography of Multiple Coronary Arteries, Transesoph",functional,hight,6
+87,export_report_success,"Excision of Peroneal Nerve, Perc Endo Approach, Diagn",functional,hight,7
+88,export_report_failure,"Excision of Medulla Oblongata, Percutaneous Approach",performance,low,8
+89,import_data_success,"Supplement Esophagus with Autol Sub, Via Opening",performance,low,9
+90,import_data_failure,Fluoroscopy of Left External Carotid Artery,functional,hight,10
+91,login_success,"Reposition L Metatarsotars Jt w Ext Fix, Perc Endo",functional,hight,1
+92,login_failure,"Insert of Ring Ext Fix into R Humeral Shaft, Perc Approach",functional,low,2
+93,signup_success,"Supplement Left Tarsal Joint with Nonaut Sub, Perc Approach",functional,medium,3
+94,signup_failure,"Inspection of Cranial Cavity, Perc Endo Approach",performance,hight,4
+95,forgot_password_success,"Bypass Transverse Colon to Rectum, Open Approach",performance,hight,5
+96,forgot_password_failure,Environment Barriers Assessment using Assist Equipment,functional,low,6
+97,add_to_cart_success,Beam Radiation of Chest using Electrons,functional,medium,7
+98,add_to_cart_failure,Aural Rehab Treatment using Voice Analysis Equipment,performance,low,8
+99,checkout_success,CT Scan of R Elbow using H Osm Contrast,other,hight,9
+100,checkout_failure,"Inspection of Right Foot, Percutaneous Endoscopic Approach",performance,medium,10
+101,search_product_success,"Bypass L Ant Chamber to Sclera w Nonaut Sub, Perc",functional,medium,1
+102,search_product_failure,"Reposition Thoracic Vertebra, External Approach",functional,hight,2
+103,view_product_details_success,"Replacement of R Pulm Art with Zooplastic, Open Approach",other,hight,3
+104,view_product_details_failure,"Extraction of Endometrium, Via Natural or Artificial Opening",functional,low,4
+105,update_profile_success,"Measurement of Cardiac Sound, Percutaneous Approach",performance,low,5
+106,update_profile_failure,"Dilation of L Verteb Art with 4+ Intralum Dev, Open Approach",other,hight,6
+107,change_password_success,"Remove Autol Sub from Head & Neck Subcu/Fascia, Perc",performance,low,7
+108,change_password_failure,"Revision of Radioact Elem in Up Back, Perc Endo Approach",performance,low,8
+109,delete_account_success,"Drainage of Spleen, Open Approach",functional,medium,9
+110,delete_account_failure,"Drainage of Oculomotor Nerve, Percutaneous Approach, Diagn",other,medium,10
+111,create_post_success,"Revision of Intralum Dev in Thoracic Duct, Extern Approach",other,medium,1
+112,create_post_failure,"Excision of Ileum, Via Natural or Artificial Opening, Diagn",performance,hight,2
+113,like_post_success,"Replace R Hip Jt, Acetab w Synth Sub, Cement, Open",other,hight,3
+114,like_post_failure,"Replacement of L Hepatic Duct with Nonaut Sub, Open Approach",functional,low,4
+115,comment_post_success,Ultrasonography of Heart with Aorta,functional,low,5
+116,comment_post_failure,"Reposition Right Tibia, Open Approach",performance,low,6
+117,share_post_success,"Supplement Left 1st Toe with Synth Sub, Open Approach",functional,hight,7
+118,share_post_failure,"Dilate R Axilla Art w Drug-elut Intra, Perc Endo",functional,hight,8
+119,create_event_success,"Supplement Anus with Nonaut Sub, Open Approach",performance,medium,9
+120,create_event_failure,"Repair Left Upper Arm, External Approach",performance,medium,10
+121,join_event_success,Low Dose Rate (LDR) Brachytherapy of Brain using Iodine 125,functional,medium,1
+122,join_event_failure,"Replacement of Right Patella with Synth Sub, Perc Approach",performance,hight,2
+123,cancel_event_success,"Transfer Acoustic Nerve to Hypogloss Nrv, Perc Endo Approach",performance,hight,3
+124,cancel_event_failure,"Dilation of Left Brachial Artery, Bifurcation, Perc Approach",performance,hight,4
+125,create_group_success,"Restriction of Right Kidney Pelvis, Open Approach",performance,medium,5
+126,create_group_failure,"Excision of Right Upper Lung Lobe, Perc Endo Approach",other,medium,6
+127,join_group_success,"Destruction of Left Maxilla, Percutaneous Approach",other,hight,7
+128,join_group_failure,"Remove Infusion Dev from Up Intest Tract, Perc Endo",performance,medium,8
+129,leave_group_success,"Insertion of Monitoring Device into Bladder, Perc Approach",performance,low,9
+130,leave_group_failure,"Dilation of Upper Esophagus with Intraluminal Device, Endo",other,medium,10
+131,delete_group_success,"Supplement Ascending Colon with Autol Sub, Open Approach",functional,medium,1
+132,delete_group_failure,"Release Right Scapula, Open Approach",other,hight,2
+133,create_survey_success,"Division of Perineum Bursa and Ligament, Open Approach",other,hight,3
+134,create_survey_failure,"Revision of Drain Dev in C-thor Disc, Perc Endo Approach",other,hight,4
+135,submit_survey_success,Fluoroscopy of Left Pulmonary Vein using H Osm Contrast,other,hight,5
+136,submit_survey_failure,"CT Scan Trachea/Airway w L Osm Contrast, Unenh, Enhance",performance,hight,6
+137,create_poll_success,"Occlusion of Esophagogastric Junction, Perc Endo Approach",performance,medium,7
+138,create_poll_failure,"Insertion of Monitor Dev into Hepatobil Duct, Perc Approach",performance,medium,8
+139,vote_poll_success,"Drainage of Left Foot, Percutaneous Endoscopic Approach",performance,medium,9
+140,vote_poll_failure,"Upper Bones, Removal",performance,hight,10
+141,create_task_success,"Supplement R Shoulder Muscle with Autol Sub, Open Approach",functional,medium,1
+142,create_task_failure,"Drainage of Anus, Via Natural or Artificial Opening, Diagn",other,medium,2
+143,assign_task_success,"Inspection of Thoracolumbar Vertebral Disc, Perc Approach",other,medium,3
+144,assign_task_failure,"Dilate of R Int Mamm Art with Drug-elut Intra, Open Approach",other,medium,4
+145,complete_task_success,"Occlusion Ileocecal Valve w Intralum Dev, Perc Endo",functional,low,5
+146,complete_task_failure,"Reposition Right Subclavian Artery, Open Approach",functional,hight,6
+147,create_project_success,"Revision of Infusion Device in Spinal Canal, Open Approach",performance,low,7
+148,create_project_failure,"Occlusion of Left Axillary Vein, Perc Endo Approach",other,low,8
+149,assign_project_success,"Extirpation of Matter from Right Lower Eyelid, Perc Approach",functional,low,9
+150,assign_project_failure,Plaque Radiation of Nasopharynx,performance,hight,10
+151,complete_project_success,"Fluoroscopy of R Jugular Vein using L Osm Contrast, Guidance",functional,medium,1
+152,complete_project_failure,"Revision of Drainage Device in Salivary Gland, Open Approach",performance,hight,2
+153,create_bug_report_success,"Removal of Extralum Dev from Great Vessel, Perc Approach",functional,hight,3
+154,create_bug_report_failure,"Repair Right Hypogastric Vein, Open Approach",performance,low,4
+155,resolve_bug_report_success,"Excision of Abdominal Aorta, Percutaneous Approach, Diagn",performance,low,5
+156,resolve_bug_report_failure,"Release Intracranial Artery, Open Approach",functional,hight,6
+157,create_feature_request_success,"Supplement Coccyx with Synthetic Substitute, Open Approach",other,medium,7
+158,create_feature_request_failure,"Supplement Left Patella with Nonaut Sub, Perc Approach",other,medium,8
+159,approve_feature_request_success,"Destruction of Left Kidney, Via Opening",functional,hight,9
+160,approve_feature_request_failure,Removal of Cast on Neck,other,hight,10
+161,reject_feature_request_success,"Drainage of Hypoglossal Nerve, Percutaneous Approach",performance,low,1
+162,reject_feature_request_failure,"Drainage of Right Pleura with Drainage Device, Perc Approach",functional,medium,2
+163,create_document_success,"Release Right Upper Lung Lobe, Percutaneous Approach",functional,hight,3
+164,create_document_failure,"Reposition L Humeral Shaft w Monopln Ext Fix, Perc Endo",performance,low,4
+165,edit_document_success,"Dilate Inf Mesent Art, Bifurc, w 3 Drug-elut, Perc",functional,low,5
+166,edit_document_failure,"Removal of Nonaut Sub from R Fibula, Perc Endo Approach",performance,low,6
+167,delete_document_success,"Drainage of R Femur Shaft with Drain Dev, Perc Approach",functional,medium,7
+168,delete_document_failure,"Bypass L Com Iliac Art to B Com Ilia, Perc Endo Approach",functional,low,8
+169,create_invoice_success,"Occlusion of Right Fallopian Tube, Perc Endo Approach",functional,medium,9
+170,create_invoice_failure,"Drainage of Right Lung, Percutaneous Approach, Diagnostic",other,hight,10
+171,send_invoice_success,"Replacement of L Int Carotid with Synth Sub, Open Approach",other,medium,1
+172,send_invoice_failure,"Excision of Left Temporal Artery, Open Approach",functional,low,2
+173,pay_invoice_success,"Release Thyroid Gland, Percutaneous Endoscopic Approach",functional,low,3
+174,pay_invoice_failure,"Destruction of Thoracic Duct, Perc Endo Approach",performance,low,4
+175,generate_report_success,Fluoroscopy of Single Coronary Artery using L Osm Contrast,performance,medium,5
+176,generate_report_failure,"Reposition Left Hip Joint, Percutaneous Approach",other,low,6
+177,export_report_success,"Insertion of Infusion Dev into L Basilic Vein, Perc Approach",functional,low,7
+178,export_report_failure,"Extirpation of Matter from Olfactory Nerve, Open Approach",other,hight,8
+179,import_data_success,"Supplement Access Pancr Duct with Autol Sub, Open Approach",functional,medium,9
+180,import_data_failure,"Detachment at Left Upper Arm, Low, Open Approach",functional,hight,10
+181,login_success,Aural Rehabilitation Treatment using Audiovisual Equipment,other,medium,1
+182,login_failure,"Repair Right Inguinal Lymphatic, Open Approach",functional,hight,2
+183,signup_success,"Dilate L Ant Tib Art, Bifurc, w 3 Intralum Dev, Open",performance,medium,3
+184,signup_failure,"Drainage of Right Knee Joint, Open Approach, Diagnostic",performance,hight,4
+185,forgot_password_success,Removal of Pressure Dressing on Right Lower Arm,functional,hight,5
+186,forgot_password_failure,"Repair Left Lower Extremity, Percutaneous Approach",other,medium,6
+187,add_to_cart_success,"Restriction of R Innom Vein with Intralum Dev, Open Approach",functional,medium,7
+188,add_to_cart_failure,"Occlusion of Ileum with Intraluminal Device, Via Opening",performance,medium,8
+189,checkout_success,"Revision of Drainage Device in Thor Disc, Open Approach",other,medium,9
+190,checkout_failure,"Replacement of Peritoneum with Autol Sub, Perc Endo Approach",performance,medium,10
+191,search_product_success,"Replace of Nasal Septum with Autol Sub, Perc Endo Approach",performance,hight,1
+192,search_product_failure,"Dilation of Left Subclavian Artery, Percutaneous Approach",performance,low,2
+193,view_product_details_success,"Release Right Upper Leg Skin, External Approach",other,hight,3
+194,view_product_details_failure,"Replacement of Coccygeal Jt with Nonaut Sub, Open Approach",other,low,4
+195,update_profile_success,"Supplement Sup Mesent Art with Autol Sub, Perc Endo Approach",other,hight,5
+196,update_profile_failure,"Supplement Sup Mesent Vein with Autol Sub, Open Approach",performance,medium,6
+197,change_password_success,"Female Reproductive System, Extirpation",functional,hight,7
+198,change_password_failure,"Replace of L Renal Vein with Autol Sub, Perc Endo Approach",other,hight,8
+199,delete_account_success,"Occlusion of Right Femoral Vein, Perc Endo Approach",performance,low,9
+200,delete_account_failure,"Dilate L Peroneal Art w 2 Drug-elut, Perc Endo",functional,medium,10
+201,create_post_success,"Excision of Right Trunk Muscle, Open Approach",functional,low,1
+202,create_post_failure,Plain Radiography of Vasa Vasorum using H Osm Contrast,functional,low,2
+203,like_post_success,"Repair Multiple Parathyroid Glands, Open Approach",performance,hight,3
+204,like_post_failure,"Drainage of Left Mastoid Sinus, Perc Endo Approach, Diagn",other,hight,4
+205,comment_post_success,"Bypass 4+ Cor Art from Abd Art, Open Approach",other,low,5
+206,comment_post_failure,"Muscle Performance Treatment of Neuro Head, Neck",other,low,6
+207,share_post_success,"Fusion of Left Carpal Joint with Ext Fix, Open Approach",functional,low,7
+208,share_post_failure,Dichotic Stimuli Assessment using Sound Field / Booth,functional,low,8
+209,create_event_success,"Supplement R Ant Tib Art with Autol Sub, Perc Endo Approach",functional,medium,9
+210,create_event_failure,HDR Brachytherapy of Diaphragm using Oth Isotope,functional,medium,10
+211,join_event_success,"Extirpation of Matter from Left Hand Vein, Perc Approach",other,low,1
+212,join_event_failure,"Insertion of Ext Fix into L Radius, Perc Approach",other,hight,2
+213,cancel_event_success,"Supplement Right 5th Toe with Autol Sub, Perc Endo Approach",other,hight,3
+214,cancel_event_failure,"Revise of Int Fix in R Metatarsotars Jt, Perc Endo Approach",functional,hight,4
+215,create_group_success,"Supplement R Com Iliac Vein w Synth Sub, Perc Endo",performance,medium,5
+216,create_group_failure,"Pure Tone Audio, Air/Bone Assessment using Audiometer",functional,medium,6
+217,join_group_success,"Restrict of R Basilic Vein with Extralum Dev, Perc Approach",other,low,7
+218,join_group_failure,"Replace of Access Pancr Duct with Synth Sub, Open Approach",other,hight,8
+219,leave_group_success,"Dilation of R Axilla Art with 3 Intralum Dev, Open Approach",functional,hight,9
+220,leave_group_failure,"Removal of Infusion Device from Low Back, Perc Endo Approach",performance,medium,10
+221,delete_group_success,"Excision of Left Hand Vein, Open Approach",other,low,1
+222,delete_group_failure,"Removal of Intraluminal Device from Up Intest Tract, Endo",functional,medium,2
+223,create_survey_success,"Alteration of Right Knee Region, Percutaneous Approach",functional,medium,3
+224,create_survey_failure,Beam Radiation of Chest Wall using Heavy Particles,other,low,4
+225,submit_survey_success,"Bypass Pancreat Duct to Duoden w Intralum Dev, Open",other,medium,5
+226,submit_survey_failure,"Drainage of R Glenoid Cav with Drain Dev, Perc Endo Approach",other,low,6
+227,create_poll_success,"Insertion of Int Fix into L Finger Phalanx Jt, Open Approach",functional,medium,7
+228,create_poll_failure,"Release Right Humeral Shaft, Open Approach",other,hight,8
+229,vote_poll_success,"Insert Infusion Dev in L Finger Phalanx Jt, Perc",other,low,9
+230,vote_poll_failure,"Excision of Left Pulmonary Vein, Perc Approach, Diagn",functional,hight,10
+231,create_task_success,"Occlusion Bi Vas Deferens w Intralum Dev, Perc Endo",functional,medium,1
+232,create_task_failure,"Dilate R Ext Iliac Art, Bifurc, w 4 Drug-elut, Open",performance,low,2
+233,assign_task_success,"Restriction of R Ulnar Art with Extralum Dev, Open Approach",functional,low,3
+234,assign_task_failure,"Insertion of Int Fix into R Thumb Phalanx, Perc Approach",performance,medium,4
+235,complete_task_success,"Fusion Cerv Jt w Nonaut Sub, Post Appr A Col, Perc",performance,low,5
+236,complete_task_failure,"Reposition R Metacarpophal Jt with Ext Fix, Extern Approach",other,hight,6
+237,create_project_success,"Replace of R Ext Jugular Vein with Autol Sub, Open Approach",other,hight,7
+238,create_project_failure,Contact Radiation of Salivary Glands,other,medium,8
+239,assign_project_success,"Revise of Infusion Dev in Tracheobronc Tree, Extern Approach",other,medium,9
+240,assign_project_failure,"Excision of Back Subcu/Fascia, Open Approach",other,low,10
+241,complete_project_success,"Supplement Larynx with Synthetic Substitute, Via Opening",performance,hight,1
+242,complete_project_failure,"Drainage of Left Ankle Tendon, Open Approach",other,medium,2
+243,create_bug_report_success,"Bypass Thor Aorta Asc to L Pulm Art w Synth Sub, Open",other,medium,3
+244,create_bug_report_failure,"Bypass Bi Ureter to Ileum w Nonaut Sub, Perc Endo",performance,medium,4
+245,resolve_bug_report_success,"Drainage of Face Subcu/Fascia, Perc Approach, Diagn",performance,medium,5
+246,resolve_bug_report_failure,"Extirpation of Matter from R Pulm Vein, Perc Approach",functional,hight,6
+247,create_feature_request_success,"Revision of Autol Sub in R Up Extrem, Perc Approach",other,hight,7
+248,create_feature_request_failure,"Replace of R Less Saphenous with Autol Sub, Open Approach",performance,low,8
+249,approve_feature_request_success,"Dilate R Ant Tib Art, Bifurc, w 3 Intralum Dev, Perc Endo",other,hight,9
+250,approve_feature_request_failure,"Dilate of 1 Cor Art with 3 Intralum Dev, Perc Endo Approach",other,medium,10
+251,reject_feature_request_success,"Release Right External Carotid Artery, Perc Endo Approach",functional,medium,1
+252,reject_feature_request_failure,"Insertion of Endotracheal Airway into Trachea, Perc Approach",performance,medium,2
+253,create_document_success,"Excision of Uvula, Percutaneous Approach",performance,hight,3
+254,create_document_failure,Bathing/Showering Techniques Treatment using Other Equipment,functional,low,4
+255,edit_document_success,"Bypass L Com Iliac Art to R Renal A, Perc Endo Approach",functional,low,5
+256,edit_document_failure,"Bypass 2 Cor Art from Abd Art with Autol Art, Open Approach",functional,medium,6
+257,delete_document_success,"Reposition C-thor Jt, Perc Endo Approach",other,medium,7
+258,delete_document_failure,Change Traction Apparatus on Right Foot,performance,low,8
+259,create_invoice_success,"Dilate L Radial Art, Bifurc, w Drug-elut Intra, Perc Endo",functional,low,9
+260,create_invoice_failure,"Release Cervicothoracic Vertebral Disc, External Approach",other,low,10
+261,send_invoice_success,"Excision of Left Thyroid Artery, Open Approach, Diagnostic",other,hight,1
+262,send_invoice_failure,"Replacement of Uvula with Synth Sub, Open Approach",functional,hight,2
+263,pay_invoice_success,"Removal of Infusion Dev from L Up Extrem, Perc Endo Approach",other,low,3
+264,pay_invoice_failure,"Excision of Right Foot Artery, Open Approach, Diagnostic",functional,medium,4
+265,generate_report_success,"Drainage of Thor Spinal Cord with Drain Dev, Open Approach",functional,hight,5
+266,generate_report_failure,"Supplement Right Cornea with Autol Sub, Perc Approach",other,hight,6
+267,export_report_success,"Supplement L Trunk Tendon w Nonaut Sub, Perc Endo",functional,low,7
+268,export_report_failure,"Resection of Nasopharynx, Open Approach",functional,hight,8
+269,import_data_success,"Bypass Cecum to Transverse Colon, Open Approach",functional,medium,9
+270,import_data_failure,"Insertion of Int Fix into Hyoid Bone, Perc Endo Approach",functional,hight,10
+271,login_success,"Repair Left Pulmonary Artery, Perc Endo Approach",functional,hight,1
+272,login_failure,"Occlusion R Int Carotid w Bioact Intralum, Perc Endo",performance,hight,2
+273,signup_success,"Resection of Epiglottis, Endo",other,hight,3
+274,signup_failure,"Division of Right Abdomen Muscle, Perc Endo Approach",performance,medium,4
+275,forgot_password_success,"Excision of Right Carpal, Percutaneous Endoscopic Approach",functional,low,5
+276,forgot_password_failure,Fluoroscopy of Left Fallopian Tube using L Osm Contrast,other,medium,6
+277,add_to_cart_success,"Revise of Int Fix in L Metacarpophal Jt, Perc Endo Approach",functional,hight,7
+278,add_to_cart_failure,"Bypass R Axilla Vein to Up Vein w Synth Sub, Perc Endo",performance,low,8
+279,checkout_success,"Supplement Left Thumb with Nonaut Sub, Open Approach",performance,medium,9
+280,checkout_failure,"Reposition Left Patella, External Approach",functional,medium,10
+281,search_product_success,"Repair Left Inguinal Lymphatic, Perc Endo Approach",functional,medium,1
+282,search_product_failure,"Dilation of Coronary Artery, Three Arteries, Perc Approach",functional,hight,2
+283,view_product_details_success,"Revision of Autol Sub in Lumsac Disc, Extern Approach",performance,low,3
+284,view_product_details_failure,"Revision of Intraluminal Device in Right Eye, Open Approach",functional,hight,4
+285,update_profile_success,"Occlusion of L Int Carotid, Perc Endo Approach",performance,hight,5
+286,update_profile_failure,Stereotactic Particulate Radiosurgery of Ear,other,medium,6
+287,change_password_success,"Dilation of R Ext Carotid, Bifurc, Perc Endo Approach",functional,medium,7
+288,change_password_failure,"Replace of R Hand Tendon with Synth Sub, Perc Endo Approach",other,medium,8
+289,delete_account_success,"Drainage of Coccyx, Percutaneous Endoscopic Approach",performance,low,9
+290,delete_account_failure,"Occlusion of Left Common Iliac Artery, Open Approach",other,low,10
+291,create_post_success,"Fusion of L Carpal Jt with Synth Sub, Perc Endo Approach",performance,medium,1
+292,create_post_failure,"Dilate R Thyroid Art, Bifurc, w 4+ Intralum Dev, Open",other,hight,2
+293,like_post_success,"Release Right Internal Carotid Artery, Percutaneous Approach",other,low,3
+294,like_post_failure,Planar Nuclear Medicine Imaging of KUB using Iodine 123,performance,low,4
+295,comment_post_success,"Replacement of L Atrium with Autol Sub, Perc Endo Approach",other,hight,5
+296,comment_post_failure,"Excision of Left Epididymis, Perc Endo Approach",performance,low,6
+297,share_post_success,"Revise of Autol Sub in Scrotum & Tunica, Perc Endo Approach",performance,hight,7
+298,share_post_failure,"Insert of Intralum Dev into Tracheobronc Tree, Via Opening",performance,hight,8
+299,create_event_success,"Excision of L Low Extrem Bursa/Lig, Perc Approach",performance,low,9
+300,create_event_failure,"Destruction of R Post Tib Art, Perc Endo Approach",functional,low,10
+301,join_event_success,"Dilation of R Com Carotid with Intralum Dev, Perc Approach",other,medium,1
+302,join_event_failure,"Reposition Left Metacarpal, Percutaneous Endoscopic Approach",functional,hight,2
+303,cancel_event_success,"Revision of Nonaut Sub in R Scapula, Open Approach",functional,low,3
+304,cancel_event_failure,"Drainage of Left Ulna, Percutaneous Approach, Diagnostic",functional,low,4
+305,create_group_success,Removal of Traction Apparatus on Right Upper Extremity,performance,low,5
+306,create_group_failure,"Removal of Autol Sub from Testis, Via Opening",other,hight,6
+307,join_group_success,"Repair Right Metatarsal-Tarsal Joint, Percutaneous Approach",other,low,7
+308,join_group_failure,"Drainage of Cervicothoracic Vertebral Disc, Open Approach",other,medium,8
+309,leave_group_success,"Restrict L Foot Vein w Extralum Dev, Perc Endo",functional,hight,9
+310,leave_group_failure,LDR Brachytherapy of Chest Wall using Oth Isotope,other,medium,10
+311,delete_group_success,"Revision of Spacer in Sacrococcygeal Joint, Extern Approach",functional,hight,1
+312,delete_group_failure,"Revision of Int Fix in L Metatarsal, Perc Approach",performance,hight,2
+313,create_survey_success,"Bypass L Subclav Art to L Extracran Art, Open Approach",functional,hight,3
+314,create_survey_failure,"Release Left Brachial Vein, Open Approach",functional,medium,4
+315,submit_survey_success,"Removal of Synth Sub from Great Vessel, Perc Approach",other,medium,5
+316,submit_survey_failure,"Excision of Left Zygomatic Bone, Perc Endo Approach",other,low,6
+317,create_poll_success,"Excision of Left Face Vein, Open Approach, Diagnostic",performance,hight,7
+318,create_poll_failure,"Bypass L Kidney Pelvis to L Kid Pelv w Autol Sub, Open",functional,low,8
+319,vote_poll_success,"Dilation of R Peroneal Art, Bifurc, Perc Endo Approach",other,medium,9
+320,vote_poll_failure,"Revision of Int Fix in L Humeral Head, Perc Endo Approach",functional,medium,10
+321,create_task_success,"Inspection of Left Wrist Region, External Approach",other,low,1
+322,create_task_failure,"Release Left Carotid Body, Percutaneous Endoscopic Approach",performance,hight,2
+323,assign_task_success,"Dilate Gastric Art, Bifurc, w Intralum Dev, Open",functional,hight,3
+324,assign_task_failure,"Drainage of Lower Lip, Open Approach",performance,hight,4
+325,complete_task_success,"Dilate Low Art, Bifurc, w 2 Intralum Dev, Perc Endo",functional,low,5
+326,complete_task_failure,"Removal of Drainage Device from Right Eye, Perc Approach",functional,medium,6
+327,create_project_success,"Dilate 3 Cor Art, Bifurc, w Radioact Intralum, Open",performance,low,7
+328,create_project_failure,"Fusion of Left Elbow Joint with Autol Sub, Perc Approach",other,medium,8
+329,assign_project_success,"Dilate L Ant Tib Art w Drug-elut Intra, Perc Endo",functional,medium,9
+330,assign_project_failure,"Replacement of Thor Aorta Asc with Autol Sub, Open Approach",functional,low,10
+331,complete_project_success,"Replacement of R Foot Skin with Synth Sub, Extern Approach",functional,medium,1
+332,complete_project_failure,"Drainage of Left Common Iliac Vein, Percutaneous Approach",performance,medium,2
+333,create_bug_report_success,"Bypass L Vas Deferens to L Vas Def w Synth Sub, Perc Endo",performance,medium,3
+334,create_bug_report_failure,"Supplement Thor Aorta Asc with Zooplastic, Open Approach",other,medium,4
+335,resolve_bug_report_success,Laser Interstitial Thermal Therapy of Adrenal Glands,performance,medium,5
+336,resolve_bug_report_failure,"Removal of Drain Dev from L Up Extrem, Perc Endo Approach",functional,medium,6
+337,create_feature_request_success,"Repair Female Perineum, Percutaneous Endoscopic Approach",performance,low,7
+338,create_feature_request_failure,"Reposition Left Foot Bursa and Ligament, Open Approach",other,low,8
+339,approve_feature_request_success,"Release Thoracic Sympathetic Nerve, Open Approach",other,low,9
+340,approve_feature_request_failure,"Occlusion of Lingula Bronc with Intralum Dev, Perc Approach",functional,low,10
+341,reject_feature_request_success,"Supplement R Pulm Vein with Zooplastic, Perc Approach",functional,low,1
+342,reject_feature_request_failure,Stereotactic Gamma Beam Radiosurgery of Parathyroid Glands,functional,low,2
+343,create_document_success,"Excision of Esophagus, Endo",functional,low,3
+344,create_document_failure,"Repair Left Upper Arm Muscle, Perc Endo Approach",functional,hight,4
+345,edit_document_success,"Bypass Right Hypogastric Vein to Lower Vein, Open Approach",functional,hight,5
+346,edit_document_failure,"Dilation of Esophagus, Endo",other,medium,6
+347,delete_document_success,"Extraction of Right Foot Vein, Open Approach",performance,hight,7
+348,delete_document_failure,"Change Drainage Device in Lower Joint, External Approach",performance,medium,8
+349,create_invoice_success,"Bypass 2 Cor Art from Thor Art with Synth Sub, Open Approach",performance,hight,9
+350,create_invoice_failure,"Bypass L Atrium to R Pulm Vn with Autol Art, Open Approach",other,hight,10
+351,send_invoice_success,"Division of Right Neck Muscle, Perc Endo Approach",performance,medium,1
+352,send_invoice_failure,Acoust Reflex Pattern Assess w Acoust Immit/Reflex Equip,other,hight,2
+353,pay_invoice_success,"Excision of Left Axillary Lymphatic, Open Approach",performance,hight,3
+354,pay_invoice_failure,"Insertion of Radioactive Element into Pancreatic Duct, Endo",other,low,4
+355,generate_report_success,"Division of Chordae Tendineae, Percutaneous Approach",functional,hight,5
+356,generate_report_failure,Fluoroscopy of Bilateral Kidneys using Other Contrast,functional,hight,6
+357,export_report_success,"Revision of Infusion Device in Coccygeal Jt, Extern Approach",performance,medium,7
+358,export_report_failure,"Insertion of Infusion Dev into Coccygeal Jt, Perc Approach",functional,low,8
+359,import_data_success,"Transfer Olfactory Nerve to Olfact Nrv, Perc Endo Approach",other,hight,9
+360,import_data_failure,Planar Nuclear Medicine Imaging of Chest using Iodine 131,other,medium,10
+361,login_success,"Extirpation of Matter from Uterus, Perc Endo Approach",other,medium,1
+362,login_failure,CT Scan of Skull using L Osm Contrast,functional,low,2
+363,signup_success,"Removal of Nonaut Sub from Up Bursa/Lig, Perc Endo Approach",performance,medium,3
+364,signup_failure,"Extirpation of Matter from Liver, Open Approach",functional,low,4
+365,forgot_password_success,"Destruction of Left Atrium, Percutaneous Endoscopic Approach",other,low,5
+366,forgot_password_failure,"Transfer Head Muscle with Subcutaneous Tissue, Open Approach",performance,medium,6
+367,add_to_cart_success,"Drainage of Right Ovary with Drain Dev, Perc Endo Approach",functional,hight,7
+368,add_to_cart_failure,"Dilation of Low Art with 4 Drug-elut, Perc Endo Approach",performance,low,8
+369,checkout_success,"Bypass L Hepatic Duct to Sm Int w Intralum Dev, Open",functional,medium,9
+370,checkout_failure,"Release Left Hip Bursa and Ligament, Perc Endo Approach",functional,medium,10
+371,search_product_success,"Bypass L Axilla Art to L Up Leg Art w Nonaut Sub, Open",functional,low,1
+372,search_product_failure,Hyperthermia of Bone Marrow,other,hight,2
+373,view_product_details_success,"Repair Head Muscle, Percutaneous Endoscopic Approach",functional,hight,3
+374,view_product_details_failure,"Supplement Pelvic Subcu/Fascia w Autol Sub, Open",functional,hight,4
+375,update_profile_success,"Revision of Infusion Device in Kidney, Open Approach",functional,low,5
+376,update_profile_failure,Packing of Right Finger using Packing Material,performance,low,6
+377,change_password_success,"Revision of Synthetic Substitute in L Hip Jt, Open Approach",functional,hight,7
+378,change_password_failure,"Destruction of Left Toe Phalanx, Perc Endo Approach",functional,medium,8
+379,delete_account_success,"Insertion of Infusion Dev into R Brach Vein, Open Approach",performance,hight,9
+380,delete_account_failure,"Extirpate matter from Bi Adrenal Gland, Perc Endo",performance,low,10
+381,create_post_success,"Reposition Right Temporal Bone, External Approach",functional,medium,1
+382,create_post_failure,"Bypass R Ventricle to R Pulm Art w Autol Art, Perc Endo",other,medium,2
+383,like_post_success,"Revision of Monitoring Device in Low Intest Tract, Endo",performance,medium,3
+384,like_post_failure,"Revision of Int Fix in R Thumb Phalanx, Perc Endo Approach",performance,low,4
+385,comment_post_success,Fluoroscopy of Left Shoulder using Low Osmolar Contrast,functional,medium,5
+386,comment_post_failure,"Fusion of L Temporomandib Jt with Nonaut Sub, Perc Approach",functional,medium,6
+387,share_post_success,"Resection of Left Lung, Open Approach",functional,low,7
+388,share_post_failure,"Repair Right 4th Toe, Percutaneous Endoscopic Approach",other,low,8
+389,create_event_success,"Bypass L Com Iliac Art to Abd Aorta w Autol Vn, Perc Endo",performance,low,9
+390,create_event_failure,"Reposition Right Maxilla, Percutaneous Approach",functional,low,10
+391,join_event_success,"Dilate R Colic Art, Bifurc, w 2 Drug-elut, Perc Endo",performance,low,1
+392,join_event_failure,"Excision of Abd Symp Nrv, Perc Approach, Diagn",performance,hight,2
+393,cancel_event_success,"Bypass R Face Vein to Up Vein with Autol Vn, Open Approach",functional,medium,3
+394,cancel_event_failure,"Bypass R Renal Vein to Low Vein w Autol Sub, Perc Endo",functional,low,4
+395,create_group_success,"Dilate R Foot Art, Bifurc, w 3 Intralum Dev, Perc",other,low,5
+396,create_group_failure,"Replacement of Thor Disc with Nonaut Sub, Open Approach",functional,medium,6
+397,join_group_success,"Reposition L Metatarsophal Jt with Ext Fix, Extern Approach",performance,low,7
+398,join_group_failure,"Revise of Infusion Dev in Low Intest Tract, Extern Approach",other,medium,8
+399,leave_group_success,"Excision of Right Nipple, External Approach, Diagnostic",performance,hight,9
+400,leave_group_failure,"Division of Sacral Plexus, Percutaneous Approach",performance,medium,10
+401,delete_group_success,"Dilation of Right Axillary Vein, Open Approach",performance,low,1
+402,delete_group_failure,Planar Nucl Med Imag of Veins using Oth Radionuclide,other,medium,2
+403,create_survey_success,"Revision of Nonaut Sub in Low Tendon, Perc Approach",performance,medium,3
+404,create_survey_failure,"Transfer Right Foot Tendon, Open Approach",functional,hight,4
+405,submit_survey_success,"Bypass L Kidney Pelvis to Ileocutan w Nonaut Sub, Perc Endo",performance,hight,5
+406,submit_survey_failure,"Excision of Innominate Artery, Perc Endo Approach, Diagn",performance,medium,6
+407,create_poll_success,"Introduce Oth Antineoplastic in Central Vein, Perc",other,low,7
+408,create_poll_failure,"Removal of Nonaut Sub from Male Perineum, Perc Endo Approach",functional,low,8
+409,vote_poll_success,"Reposition Right Hip Bursa and Ligament, Open Approach",performance,medium,9
+410,vote_poll_failure,"Extirpation of Matter from Left Mandible, Open Approach",functional,hight,10
+411,create_task_success,"Replacement of Right Rib with Synth Sub, Perc Endo Approach",performance,medium,1
+412,create_task_failure,"Dilate R Ext Iliac Art, Bifurc, w Drug-elut Intra, Perc",functional,medium,2
+413,assign_task_success,"Destruction of Right Carotid Body, Percutaneous Approach",other,medium,3
+414,assign_task_failure,"Excision of Appendix, Open Approach, Diagnostic",other,low,4
+415,complete_task_success,"Resection of Epiglottis, Via Natural or Artificial Opening",performance,low,5
+416,complete_task_failure,Planar Nucl Med Imag of Brain using Technetium 99m,performance,medium,6
+417,create_project_success,"Remove Feeding Dev from Low Intest Tract, Perc Endo",functional,hight,7
+418,create_project_failure,"Insertion of Int Fix into L Femur Shaft, Perc Endo Approach",other,hight,8
+419,assign_project_success,"Drainage of Sacral Plexus, Percutaneous Approach",functional,low,9
+420,assign_project_failure,"Drainage of Right Buttock, Percutaneous Approach",performance,medium,10
+421,complete_project_success,HDR Brachytherapy of Bone Marrow using Oth Isotope,other,low,1
+422,complete_project_failure,"Bypass L Com Iliac Art to B Femor A w Autol Art, Perc Endo",other,medium,2
+423,create_bug_report_success,"Drainage of Right Ulnar Artery with Drain Dev, Perc Approach",other,hight,3
+424,create_bug_report_failure,"Repair Right Lower Eyelid, Open Approach",performance,low,4
+425,resolve_bug_report_success,"Bypass L Int Iliac Art to R Ext Ilia w Autol Art, Open",performance,low,5
+426,resolve_bug_report_failure,"Revision of Synth Sub in Low Muscle, Extern Approach",functional,hight,6
+427,create_feature_request_success,"Revision of Autol Sub in Low Vein, Open Approach",performance,hight,7
+428,create_feature_request_failure,"Restriction of Lower Artery with Intralum Dev, Perc Approach",other,medium,8
+429,approve_feature_request_success,"Replacement of Left Ulna with Synth Sub, Open Approach",other,low,9
+430,approve_feature_request_failure,"Release Lumbar Spinal Cord, Open Approach",other,hight,10
+431,reject_feature_request_success,"Reposition Left Common Iliac Artery, Percutaneous Approach",performance,medium,1
+432,reject_feature_request_failure,"Drainage of Right Hip Joint with Drain Dev, Open Approach",functional,hight,2
+433,create_document_success,"Fusion of L Metacarpophal Jt with Ext Fix, Perc Approach",performance,hight,3
+434,create_document_failure,"Removal of Radioact Elem from Cranial Cav, Perc Approach",other,low,4
+435,edit_document_success,"Assist w Cardiac Output w Puls Compression, Continuous",functional,low,5
+436,edit_document_failure,"Removal of Int Fix from Cerv Jt, Perc Endo Approach",performance,low,6
+437,delete_document_success,"Dilate L Peroneal Art, Bifurc, w Drug-elut Intra, Perc Endo",other,medium,7
+438,delete_document_failure,"Imaging, Anatomical Regions, Plain Radiography",performance,low,8
+439,create_invoice_success,"Replace of Perineum Tendon with Nonaut Sub, Open Approach",performance,hight,9
+440,create_invoice_failure,"Drainage of Left Upper Lobe Bronchus with Drain Dev, Endo",other,low,10
+441,send_invoice_success,"Removal of Nonaut Sub from Up Bursa/Lig, Open Approach",performance,medium,1
+442,send_invoice_failure,"Remove of Drain Dev from L Metacarpocarp Jt, Extern Approach",performance,hight,2
+443,pay_invoice_success,"Occlusion L Subclav Art w Intralum Dev, Perc Endo",other,low,3
+444,pay_invoice_failure,"Removal of Nonaut Sub from R Sternoclav Jt, Open Approach",functional,hight,4
+445,generate_report_success,"Removal of Other Device from L Up Extrem, Open Approach",performance,medium,5
+446,generate_report_failure,"Replacement of L Peroneal Art with Synth Sub, Open Approach",functional,low,6
+447,export_report_success,"Replacement of Nasal Bone with Synth Sub, Perc Approach",performance,low,7
+448,export_report_failure,"Drainage of Ileum, Percutaneous Endoscopic Approach, Diagn",functional,hight,8
+449,import_data_success,"Drain of L Humeral Shaft with Drain Dev, Perc Endo Approach",other,medium,9
+450,import_data_failure,"Revision of Int Fix in L Low Femur, Perc Endo Approach",other,low,10
+451,login_success,"Dilate of Sup Vena Cava with Drug-elut Intra, Perc Approach",functional,hight,1
+452,login_failure,"Restrict L Int Jugular Vein w Extralum Dev, Perc",functional,medium,2
+453,signup_success,"Reposition R Femur Shaft with Hybrid Ext Fix, Open Approach",functional,low,3
+454,signup_failure,"Supplement L Ext Jugular Vein w Nonaut Sub, Perc Endo",other,hight,4
+455,forgot_password_success,Acoustic Reflex Threshold Assessment using Tympanometer,other,medium,5
+456,forgot_password_failure,"Excision of Colic Vein, Open Approach, Diagnostic",performance,low,6
+457,add_to_cart_success,"Excision of Right Seminal Vesicle, Percutaneous Approach",performance,low,7
+458,add_to_cart_failure,"Drainage of Right Diaphragm, Percutaneous Approach",performance,hight,8
+459,checkout_success,"Bypass R Fem Art to R Femor A with Synth Sub, Open Approach",performance,medium,9
+460,checkout_failure,"Inspection of Right Shoulder Joint, Perc Endo Approach",functional,hight,10
+461,search_product_success,HDR Brachytherapy of Brain Stem using Iridium 192,other,low,1
+462,search_product_failure,"Control Bleeding in Pelvic Cavity, Percutaneous Approach",functional,medium,2
+463,view_product_details_success,"Drainage of Right Palatine Bone, Open Approach",other,low,3
+464,view_product_details_failure,"Alteration of Right Upper Leg with Nonaut Sub, Perc Approach",performance,low,4
+465,update_profile_success,"Occlusion R Temporal Art w Extralum Dev, Perc Endo",other,low,5
+466,update_profile_failure,"Supplement Inf Vena Cava with Synth Sub, Perc Endo Approach",functional,low,6
+467,change_password_success,"Extirpation of Matter from L Neck Lymph, Perc Endo Approach",other,low,7
+468,change_password_failure,"Reattachment of Left Foot Bursa and Ligament, Open Approach",other,medium,8
+469,delete_account_success,"Replace of L Verteb Vein with Nonaut Sub, Perc Endo Approach",functional,medium,9
+470,delete_account_failure,"Revision of Drain Dev in Endocrine Gland, Extern Approach",functional,hight,10
+471,create_post_success,"Removal of Spacer from Lumbosacral Joint, Open Approach",functional,hight,1
+472,create_post_failure,"Drainage of Pineal Body, Open Approach, Diagnostic",performance,medium,2
+473,like_post_success,Beam Radiation of Ovary using Neutrons,performance,low,3
+474,like_post_failure,"Replacement of Right Vocal Cord with Nonaut Sub, Endo",functional,hight,4
+475,comment_post_success,"Restriction of Lg Intest with Intralum Dev, Via Opening",other,hight,5
+476,comment_post_failure,"Excision of Right Epididymis, Perc Endo Approach",other,low,6
+477,share_post_success,"Insertion of Intralum Dev into R Ext Carotid, Open Approach",performance,medium,7
+478,share_post_failure,"Extirpation of Matter from L Subclav Art, Open Approach",other,low,8
+479,create_event_success,"Excision of Ileocecal Valve, Open Approach, Diagnostic",performance,medium,9
+480,create_event_failure,"Drainage of Right Upper Lobe Bronchus, Endo",functional,hight,10
+481,join_event_success,Dressing of Left Inguinal Region using Bandage,other,medium,1
+482,join_event_failure,"Bypass L Pulm Art from Innom Art w Autol Art, Perc Endo",other,medium,2
+483,cancel_event_success,"Dilation of Left Upper Lobe Bronchus, Open Approach",other,medium,3
+484,cancel_event_failure,"Supplement R Pulm Art with Synth Sub, Perc Endo Approach",other,hight,4
+485,create_group_success,"Replacement of Nasal Septum with Autol Sub, Perc Approach",performance,low,5
+486,create_group_failure,"Dilate R Foot Art, Bifurc, w 4 Drug-elut, Perc",functional,low,6
+487,join_group_success,"Repair Lung Lingula, Open Approach",functional,low,7
+488,join_group_failure,"Nuclear Medicine, Skin Subcu Breast, Planar Nucl Med Imag",performance,medium,8
+489,leave_group_success,"Occlusion of Sigmoid Colon, Percutaneous Endoscopic Approach",performance,medium,9
+490,leave_group_failure,"Reposition Coronary Artery, Two Arteries, Open Approach",other,medium,10
+491,delete_group_success,"Transfer Left Hip Tendon, Percutaneous Endoscopic Approach",functional,hight,1
+492,delete_group_failure,"Replacement of R Temporal Art with Synth Sub, Open Approach",functional,low,2
+493,create_survey_success,"Release Right Thumb Phalanx, Percutaneous Approach",functional,hight,3
+494,create_survey_failure,"Occlusion R Ext Jugular Vein w Intralum Dev, Perc",other,medium,4
+495,submit_survey_success,Planar Nucl Med Imag of Pelvic Region using Oth Radionuclide,performance,hight,5
+496,submit_survey_failure,"Alteration of Right Lower Extremity, Percutaneous Approach",functional,medium,6
+497,create_poll_success,"Replacement of R Radial Art with Autol Sub, Open Approach",performance,hight,7
+498,create_poll_failure,"Removal of Infusion Device from Abd Wall, Open Approach",functional,low,8
+499,vote_poll_success,"Repair Sacrococcygeal Joint, External Approach",functional,medium,9
+500,vote_poll_failure,"Occlusion of L Renal Art with Intralum Dev, Open Approach",functional,hight,10
+501,create_task_success,"Drainage of Right Lower Lung Lobe, Via Opening, Diagn",other,low,1
+502,create_task_failure,"Occlusion Lingula Bronc w Intralum Dev, Perc Endo",functional,hight,2
+503,assign_task_success,"Drainage of Left Lower Extremity, Open Approach, Diagnostic",performance,medium,3
+504,assign_task_failure,"Release Lumbosacral Plexus, Percutaneous Endoscopic Approach",functional,medium,4
+505,complete_task_success,"Division of Right Acetabulum, Perc Endo Approach",other,medium,5
+506,complete_task_failure,MRI of Bi Eye using Oth Contrast,other,hight,6
+507,create_project_success,Traction of Right Upper Arm using Traction Apparatus,performance,hight,7
+508,create_project_failure,"Restriction of Large Intestine, Endo",performance,hight,8
+509,assign_project_success,Change Splint on Right Finger,other,hight,9
+510,assign_project_failure,"Repair Right Neck Muscle, Percutaneous Endoscopic Approach",other,medium,10
+511,complete_project_success,"Release Right Lacrimal Duct, Percutaneous Approach",functional,hight,1
+512,complete_project_failure,"Supplement Papillary Muscle with Autol Sub, Perc Approach",performance,medium,2
+513,create_bug_report_success,"Alteration of R Knee with Synth Sub, Perc Endo Approach",functional,hight,3
+514,create_bug_report_failure,"Reattachment of Large Intestine, Perc Endo Approach",other,hight,4
+515,resolve_bug_report_success,"Occlusion Lingula Bronc w Extralum Dev, Perc Endo",performance,low,5
+516,resolve_bug_report_failure,"Revision of Spacer in Right Hip Joint, External Approach",functional,hight,6
+517,create_feature_request_success,"Extirpation of Matter from Cerv Jt, Perc Approach",performance,medium,7
+518,create_feature_request_failure,"Fusion of Left Hip Joint with Autol Sub, Perc Approach",performance,low,8
+519,approve_feature_request_success,"Removal of Synth Sub from Lum Vertebra, Open Approach",functional,low,9
+520,approve_feature_request_failure,"Extirpation of Matter from Lower Tooth, Sing, Open Approach",performance,medium,10
+521,reject_feature_request_success,Fluoroscopy of Right Pelvic (Iliac) Veins using Oth Contrast,performance,medium,1
+522,reject_feature_request_failure,"Removal of Monitoring Device from Low Art, Extern Approach",performance,low,2
+523,create_document_success,"Bypass L Atrium to R Pulm Art with Autol Vn, Open Approach",functional,hight,3
+524,create_document_failure,"Bypass R Hypogast Vein to Low Vein w Autol Sub, Perc Endo",functional,hight,4
+525,edit_document_success,"Replace of L Temporomandib Jt with Synth Sub, Open Approach",performance,low,5
+526,edit_document_failure,"Reposition Right Patella, Percutaneous Approach",functional,low,6
+527,delete_document_success,"Insert Infusion Dev in L Metacarpophal Jt, Open",performance,hight,7
+528,delete_document_failure,"Removal of Synth Sub from L Acetabulum, Perc Endo Approach",performance,low,8
+529,create_invoice_success,"Supplement Bilateral Breast with Autol Sub, Open Approach",other,hight,9
+530,create_invoice_failure,"Supplement Stomach with Autol Sub, Open Approach",other,low,10
+531,send_invoice_success,"Transfer Right Extraocular Muscle, Percutaneous Approach",other,medium,1
+532,send_invoice_failure,"Repair Brain, Open Approach",performance,medium,2
+533,pay_invoice_success,"Phototherapy, Circulatory, Multiple",performance,low,3
+534,pay_invoice_failure,"Drainage of Left Upper Leg, Perc Endo Approach, Diagn",other,hight,4
+535,generate_report_success,"Drainage of Left Tibia with Drainage Device, Open Approach",other,medium,5
+536,generate_report_failure,"Revision of Nonaut Sub in Penis, Extern Approach",performance,medium,6
+537,export_report_success,Fluoroscopy of Left Vertebral Artery using Other Contrast,other,medium,7
+538,export_report_failure,"Inspection of Coccygeal Joint, Perc Endo Approach",functional,low,8
+539,import_data_success,"Drainage of Right Mandible, Percutaneous Endoscopic Approach",other,low,9
+540,import_data_failure,"Replace of L Glenoid Cav with Autol Sub, Perc Endo Approach",functional,hight,10
+541,login_success,"Dilation of Celiac Artery with 4 Drug-elut, Open Approach",other,low,1
+542,login_failure,"Remove Infusion Dev from L Finger Phalanx Jt, Open",performance,low,2
+543,signup_success,"Remove Synth Sub from Epididymis/Sperm Cord, Perc Endo",functional,medium,3
+544,signup_failure,"Dilation of R Axilla Art with 2 Drug-elut, Perc Approach",other,medium,4
+545,forgot_password_success,"Extirpation of Matter from Pons, Percutaneous Approach",functional,medium,5
+546,forgot_password_failure,"Removal of Autol Sub from R Tarsal Jt, Perc Endo Approach",performance,low,6
+547,add_to_cart_success,"Occlusion of Right Internal Jugular Vein, Open Approach",functional,hight,7
+548,add_to_cart_failure,"Replace L Hip Jt, Acetab w Metal, Cement, Open",other,low,8
+549,checkout_success,"Excision of R Up Arm Muscle, Perc Endo Approach, Diagn",other,low,9
+550,checkout_failure,"Drainage of Right Lower Leg, Perc Endo Approach, Diagn",functional,hight,10
+551,search_product_success,"Ear, Nose, Sinus, Alteration",other,hight,1
+552,search_product_failure,"Transfer Optic Nerve to Trochlear Nerve, Open Approach",performance,low,2
+553,view_product_details_success,"Drainage of Left Upper Femur, Perc Endo Approach, Diagn",functional,hight,3
+554,view_product_details_failure,"Replacement of L Ethmoid Bone with Autol Sub, Perc Approach",functional,low,4
+555,update_profile_success,"Destruction of Right Carpal, Perc Endo Approach",performance,low,5
+556,update_profile_failure,"Resection of Right Fallopian Tube, Via Opening",functional,hight,6
+557,change_password_success,"Insertion of Monitoring Device into Pancreatic Duct, Endo",functional,medium,7
+558,change_password_failure,"Bypass Common Bile Duct to Duodenum, Perc Endo Approach",performance,low,8
+559,delete_account_success,"Insertion of Endobronch Valve into R Main Bronc, Via Opening",functional,low,9
+560,delete_account_failure,"Supplement Vagina with Synthetic Substitute, Endo",other,medium,10
+561,create_post_success,"Revision of Nonaut Sub in R Ankle Jt, Open Approach",other,hight,1
+562,create_post_failure,Fluoroscopy of Left Pulmonary Vein using H Osm Contrast,functional,low,2
+563,like_post_success,"Replacement of R Vocal Cord with Nonaut Sub, Open Approach",other,medium,3
+564,like_post_failure,"Release L Up Leg Subcu/Fascia, Perc Approach",other,hight,4
+565,comment_post_success,"Repair Right Neck Lymphatic, Perc Endo Approach",other,low,5
+566,comment_post_failure,"Dilation of Bi Vas Deferens with Intralum Dev, Perc Approach",functional,medium,6
+567,share_post_success,"Detachment at Left Foot, Partial 1st Ray, Open Approach",performance,medium,7
+568,share_post_failure,"Dilation of L Com Carotid with 3 Intralum Dev, Open Approach",other,hight,8
+569,create_event_success,"Bypass R Atrium to R Pulm Art w Autol Vn, Perc Endo",functional,low,9
+570,create_event_failure,"Remove Infusion Dev from R Temporomandib Jt, Perc Endo",performance,low,10
+571,join_event_success,"Measurement of Urinary Pressure, Via Opening",functional,medium,1
+572,join_event_failure,"Bypass L Fem Art to Post Tib Art w Autol Art, Open",functional,low,2
+573,cancel_event_success,"Repair Left Ethmoid Sinus, Percutaneous Approach",other,hight,3
+574,cancel_event_failure,Exercise Treatment of Musculosk Whole using Orthosis,performance,hight,4
+575,create_group_success,"Control Bleeding in Pericardial Cavity, Perc Endo Approach",functional,hight,5
+576,create_group_failure,"Revision of Spacer in L Finger Phalanx Jt, Extern Approach",functional,hight,6
+577,join_group_success,"Revision of Nonaut Sub in Coccyx, Perc Endo Approach",functional,medium,7
+578,join_group_failure,"Removal of Drainage Device from Facial Bone, Perc Approach",functional,low,8
+579,leave_group_success,"Bypass L Hand Vein to Up Vein with Autol Art, Open Approach",other,medium,9
+580,leave_group_failure,"Reposition Left Thumb Phalanx with Ext Fix, Perc Approach",functional,low,10
+581,delete_group_success,"Bypass Bilateral Vas Deferens to R Epidid, Open Approach",other,low,1
+582,delete_group_failure,"Removal of Oth Dev from R Pleural Cav, Perc Endo Approach",performance,low,2
+583,create_survey_success,"Restrict of L Int Mamm Art with Intralum Dev, Perc Approach",other,low,3
+584,create_survey_failure,"Repair Right Upper Extremity, Open Approach",functional,low,4
+585,submit_survey_success,"Division of Left Lower Femur, Percutaneous Approach",other,low,5
+586,submit_survey_failure,"Repair Right Nipple, Endo",functional,medium,6
+587,create_poll_success,Aural Rehab Status Assess w Acoust Immit/Reflex Equip,other,low,7
+588,create_poll_failure,"Removal of Nonaut Sub from L Carpal, Perc Approach",functional,low,8
+589,vote_poll_success,Planar Nucl Med Imag Male Reprod Sys w Oth Radionuclide,performance,medium,9
+590,vote_poll_failure,"Revision of Int Fix in L Tibia, Perc Approach",other,medium,10
+591,create_task_success,"Excision of Bilateral Carotid Bodies, Percutaneous Approach",functional,hight,1
+592,create_task_failure,"Bypass Periton Cav to Pelvic Cav w Synth Sub, Perc Endo",functional,hight,2
+593,assign_task_success,"Excision of Left Shoulder Muscle, Perc Approach, Diagn",performance,hight,3
+594,assign_task_failure,"Bypass R Subclav Art to L Low Arm Art w Synth Sub, Open",functional,medium,4
+595,complete_task_success,"Supplement R Verteb Vein with Synth Sub, Perc Approach",other,hight,5
+596,complete_task_failure,"Supplement Cecum with Nonaut Sub, Open Approach",other,low,6
+597,create_project_success,"Occlusion of L Neck Lymph with Extralum Dev, Open Approach",performance,hight,7
+598,create_project_failure,"Insertion of Infusion Dev into L Axilla Vein, Open Approach",other,hight,8
+599,assign_project_success,"Revision of Synth Sub in Prostate/Seminal Ves, Perc Approach",functional,low,9
+600,assign_project_failure,"Revision of Ext Fix in R Tibia, Perc Endo Approach",functional,low,10
+601,complete_project_success,"Replacement of Celiac Artery with Synth Sub, Open Approach",performance,medium,1
+602,complete_project_failure,"Fusion Lumsac Jt w Synth Sub, Post Appr A Col, Open",performance,hight,2
+603,create_bug_report_success,"Introduce of Liquid Brachy into Bil/Panc Tract, Via Opening",other,medium,3
+604,create_bug_report_failure,"Reattachment of R Low Arm & Wrist Tendon, Perc Endo Approach",other,hight,4
+605,resolve_bug_report_success,"Fusion of Right Tarsal Joint with Autol Sub, Open Approach",other,low,5
+606,resolve_bug_report_failure,"Revision of Nonaut Sub in Low Art, Open Approach",functional,low,6
+607,create_feature_request_success,LDR Brachytherapy of Kidney using Palladium 103,other,hight,7
+608,create_feature_request_failure,Binaural Hearing Aid Assessment using Audiovisual Equipment,other,medium,8
+609,approve_feature_request_success,"Extirpation of Matter from Right Knee Tendon, Perc Approach",other,hight,9
+610,approve_feature_request_failure,Fluoroscopy of Lower Extremity using Low Osmolar Contrast,functional,low,10
+611,reject_feature_request_success,"Drainage of Left Nipple, Percutaneous Approach, Diagnostic",other,low,1
+612,reject_feature_request_failure,"Removal of Autol Sub from L Metatarsophal Jt, Open Approach",performance,hight,2
+613,create_document_success,Osteopathic Treatment of Abd using H Velocity L Ampl Forces,other,low,3
+614,create_document_failure,"Insert of Infusion Dev into L Ankle Jt, Perc Endo Approach",other,hight,4
+615,edit_document_success,"Bypass R Ext Iliac Art to L Femor A w Autol Art, Open",performance,medium,5
+616,edit_document_failure,"Drainage of Left Greater Saphenous Vein, Perc Endo Approach",functional,hight,6
+617,delete_document_success,HDR Brachytherapy of Oropharynx using Oth Isotope,other,low,7
+618,delete_document_failure,"Bypass Abd Aorta to Low Art with Nonaut Sub, Open Approach",functional,hight,8
+619,create_invoice_success,"Restriction of L Axilla Art with Intralum Dev, Perc Approach",functional,medium,9
+620,create_invoice_failure,"Occlusion of Right Radial Artery, Perc Endo Approach",performance,medium,10
+621,send_invoice_success,"Removal of Synth Sub from Low Bursa/Lig, Open Approach",functional,hight,1
+622,send_invoice_failure,"Transfer Right Shoulder Tendon, Perc Endo Approach",functional,low,2
+623,pay_invoice_success,"Drainage of Thalamus, Percutaneous Approach",other,medium,3
+624,pay_invoice_failure,"Insert of Hybrid Ext Fix into L Humeral Shaft, Perc Approach",other,low,4
+625,generate_report_success,"Inspection of Vulva, External Approach",performance,medium,5
+626,generate_report_failure,"Drainage of Peritoneum with Drainage Device, Perc Approach",other,low,6
+627,export_report_success,"Extraction of Ova, Percutaneous",other,hight,7
+628,export_report_failure,"Repair Left Zygomatic Bone, Open Approach",performance,low,8
+629,import_data_success,"Removal of Infusion Device from Pericard Cav, Perc Approach",performance,hight,9
+630,import_data_failure,Removal of Splint on Right Lower Leg,functional,low,10
+631,login_success,"Drainage of Right Lung, Percutaneous Endoscopic Approach",other,hight,1
+632,login_failure,"Reposition Right Elbow Joint, Percutaneous Approach",other,hight,2
+633,signup_success,"Drainage of L Int Mamm Art with Drain Dev, Open Approach",performance,hight,3
+634,signup_failure,"Dilation of Right Middle Lobe Bronchus, Perc Endo Approach",functional,low,4
+635,forgot_password_success,"Fusion of Right Elbow Joint with Ext Fix, Perc Approach",performance,medium,5
+636,forgot_password_failure,"Restrict R Int Carotid w Bioact Intralum, Perc Endo",functional,low,6
+637,add_to_cart_success,Removal of Pressure Dressing on Right Finger,other,medium,7
+638,add_to_cart_failure,"Excision of Esophageal Vein, Open Approach, Diagnostic",functional,medium,8
+639,checkout_success,"Occlusion R Thyroid Art w Extralum Dev, Perc Endo",performance,medium,9
+640,checkout_failure,"Transfuse Nonaut Red Blood Cells in POC, Circ, Perc",functional,medium,10
+641,search_product_success,"Inspection of R Metatarsophal Jt, Extern Approach",functional,medium,1
+642,search_product_failure,"Extraction of Spinal Meninges, Percutaneous Approach",other,low,2
+643,view_product_details_success,Removal of Packing Material on Left Upper Leg,functional,low,3
+644,view_product_details_failure,"Replace of Sacrococcygeal Jt with Autol Sub, Open Approach",performance,hight,4
+645,update_profile_success,"Bypass 3 Cor Art from R Int Mammary w Autol Vn, Open",functional,hight,5
+646,update_profile_failure,"Revision of Drainage Device in Coccygeal Jt, Perc Approach",functional,low,6
+647,change_password_success,"Excision of L Hand Subcu/Fascia, Open Approach",functional,medium,7
+648,change_password_failure,"Bypass 3 Cor Art from R Int Mammary w Autol Vn, Open",functional,medium,8
+649,delete_account_success,"Bypass L Axilla Art to Low Arm Vein w Nonaut Sub, Open",other,hight,9
+650,delete_account_failure,"Release Descending Colon, Open Approach",performance,low,10
+651,create_post_success,"Repair Respiratory System in POC, Open Approach",functional,hight,1
+652,create_post_failure,"Revision of Bone Growth Stimulator in Up Bone, Open Approach",other,medium,2
+653,like_post_success,"Release Perineum Subcu/Fascia, Perc Approach",performance,medium,3
+654,like_post_failure,"Resection of Ectopic POC, Perc Endo Approach",other,low,4
+655,comment_post_success,"Revision of Nonaut Sub in Trachea, Extern Approach",functional,medium,5
+656,comment_post_failure,"Revision of Int Fix in R Metatarsotars Jt, Perc Approach",functional,low,6
+657,share_post_success,"Supplement Left Iris with Synth Sub, Open Approach",other,medium,7
+658,share_post_failure,"Muscles, Reposition",performance,low,8
+659,create_event_success,"Alteration of Abd Subcu/Fascia, Perc Approach",other,low,9
+660,create_event_failure,"Supplement L Com Carotid with Autol Sub, Open Approach",other,low,10
+661,join_event_success,Planar Nuclear Medicine Imaging of Myocardium,other,medium,1
+662,join_event_failure,"Drainage of Median Nerve, Perc Endo Approach, Diagn",other,medium,2
+663,cancel_event_success,"Bypass L Ext Iliac Art to Low Ex Art, Perc Endo Approach",other,medium,3
+664,cancel_event_failure,"Heart and Great Vessels, Removal",functional,medium,4
+665,create_group_success,"Removal of Nonaut Sub from R Breast, Open Approach",other,medium,5
+666,create_group_failure,"Revision of Synthetic Substitute in Trachea, Extern Approach",performance,medium,6
+667,join_group_success,"Dilation of R Foot Art with Intralum Dev, Open Approach",performance,medium,7
+668,join_group_failure,"Revision of Infusion Device in T-lum Disc, Extern Approach",functional,hight,8
+669,leave_group_success,"Destruction of Prostate, Percutaneous Endoscopic Approach",other,hight,9
+670,leave_group_failure,"Insertion of Ext Fix into R Metatarsotars Jt, Open Approach",performance,low,10
+671,delete_group_success,"Monitor R Knee Jt w Intraop Knee Sens, Open, New Tech 1",other,low,1
+672,delete_group_failure,"Dilation of R Ext Carotid with 2 Drug-elut, Perc Approach",other,low,2
+673,create_survey_success,"Drainage of L Low Arm Skin with Drain Dev, Extern Approach",functional,hight,3
+674,create_survey_failure,"Removal of Spacer from Thor Jt, Perc Endo Approach",functional,hight,4
+675,submit_survey_success,"Excision of L Knee Bursa/Lig, Perc Endo Approach, Diagn",performance,hight,5
+676,submit_survey_failure,"Alteration of Neck with Autol Sub, Perc Approach",performance,medium,6
+677,create_poll_success,"Alteration of Left Buttock with Synth Sub, Perc Approach",other,hight,7
+678,create_poll_failure,"Revision of Synth Sub in L Metatarsophal Jt, Extern Approach",functional,low,8
+679,vote_poll_success,Voice Assessment,performance,medium,9
+680,vote_poll_failure,"Removal of Infusion Device from R Lung, Perc Endo Approach",functional,hight,10
+681,create_task_success,"Release Left Patella, Open Approach",functional,hight,1
+682,create_task_failure,Fluoroscopy of Left Ureter using High Osmolar Contrast,other,low,2
+683,assign_task_success,"Extirpation of Matter from Splenic Artery, Perc Approach",performance,hight,3
+684,assign_task_failure,"Occlusion of R Thyroid Art with Intralum Dev, Open Approach",performance,low,4
+685,complete_task_success,"Revision of Autol Sub in L Extraoc Muscle, Open Approach",functional,medium,5
+686,complete_task_failure,"Restrict of L Up Lobe Bronc with Intralum Dev, Open Approach",other,hight,6
+687,create_project_success,"Revision of Int Fix in R Tibia, Perc Approach",other,medium,7
+688,create_project_failure,"Restriction of Left Pulmonary Vein, Perc Endo Approach",performance,hight,8
+689,assign_project_success,"Insertion of Monopln Ext Fix into R Low Femur, Perc Approach",other,hight,9
+690,assign_project_failure,"Release Carina, Percutaneous Endoscopic Approach",functional,low,10
+691,complete_project_success,"Bypass L Axilla Art to R Up Leg Art w Nonaut Sub, Open",other,hight,1
+692,complete_project_failure,"Excision of Mitral Valve, Percutaneous Approach",other,medium,2
+693,create_bug_report_success,"Repair Right External Ear, External Approach",functional,low,3
+694,create_bug_report_failure,"Fusion of Left Sacroiliac Joint with Int Fix, Open Approach",performance,hight,4
+695,resolve_bug_report_success,Fluoroscopy of L Temporomand Jt using L Osm Contrast,performance,hight,5
+696,resolve_bug_report_failure,Fluoroscopy of Right Fallopian Tube using L Osm Contrast,performance,low,6
+697,create_feature_request_success,"Supplement Mitral Valve with Autol Sub, Perc Approach",other,medium,7
+698,create_feature_request_failure,"Resection of Coccygeal Glomus, Open Approach",other,medium,8
+699,approve_feature_request_success,"Revision of Radioact Elem in Up Back, Perc Endo Approach",functional,medium,9
+700,approve_feature_request_failure,"Supplement Left Toe Phalanx with Nonaut Sub, Open Approach",performance,medium,10
+701,reject_feature_request_success,"Drainage of Right Colic Artery, Percutaneous Approach, Diagn",performance,medium,1
+702,reject_feature_request_failure,"Drainage of Left Ovary, Percutaneous Endoscopic Approach",performance,low,2
+703,create_document_success,"Dilate R Ext Jugular Vein w Intralum Dev, Open",performance,medium,3
+704,create_document_failure,"Fusion of Right Carpal Joint with Nonaut Sub, Perc Approach",functional,medium,4
+705,edit_document_success,"Supplement L Hypogast Vein with Autol Sub, Perc Approach",functional,hight,5
+706,edit_document_failure,"CT Scan R Tracheobronc Tree w Oth Contrast, Unenh, Enhance",other,hight,6
+707,delete_document_success,"Reposition Left Toe Phalangeal Joint, Percutaneous Approach",performance,low,7
+708,delete_document_failure,"Extirpate of Matter from Pituitary Gland, Perc Endo Approach",performance,low,8
+709,create_invoice_success,"Reposition Right Hip Joint with Ext Fix, Perc Endo Approach",other,low,9
+710,create_invoice_failure,"Release Left Hand Tendon, External Approach",functional,low,10
+711,send_invoice_success,"Drainage of Bi Fallopian Tube with Drain Dev, Perc Approach",other,hight,1
+712,send_invoice_failure,"Removal of Autol Sub from R Low Femur, Perc Approach",performance,hight,2
+713,pay_invoice_success,"Dilation of L Popl Art with Intralum Dev, Perc Approach",functional,low,3
+714,pay_invoice_failure,"Excision of Chordae Tendineae, Open Approach, Diagnostic",functional,medium,4
+715,generate_report_success,Fluoroscopy of Intracranial Sinuses using Other Contrast,other,low,5
+716,generate_report_failure,"Destruction of Right Parotid Gland, Percutaneous Approach",functional,low,6
+717,export_report_success,Fluoroscopy of Left Knee using Low Osmolar Contrast,performance,medium,7
+718,export_report_failure,"Extirpation of Matter from R Toe Phalanx Jt, Perc Approach",functional,hight,8
+719,import_data_success,"Cereb Filtr, Brach L Carotid Art, Perc, New Tech 2",functional,low,9
+720,import_data_failure,"Drainage of Left External Ear, Perc Endo Approach, Diagn",functional,medium,10
+721,login_success,"Release Right Internal Carotid Artery, Open Approach",functional,medium,1
+722,login_failure,"Supplement R Metacarpocarp Jt with Nonaut Sub, Open Approach",functional,low,2
+723,signup_success,"Bursae and Ligaments, Division",other,hight,3
+724,signup_failure,"Replacement of R Ankle Tendon with Autol Sub, Open Approach",functional,medium,4
+725,forgot_password_success,"Extirpation of Matter from Thorax Lymph, Perc Endo Approach",functional,medium,5
+726,forgot_password_failure,"Bypass Left Popliteal Artery to Foot Artery, Open Approach",performance,medium,6
+727,add_to_cart_success,"Destruction of Prostate, Percutaneous Approach",functional,low,7
+728,add_to_cart_failure,"Dilate Sup Mesent Art w 2 Intralum Dev, Perc Endo",other,hight,8
+729,checkout_success,"Occlusion of Splenic Artery, Percutaneous Approach",performance,hight,9
+730,checkout_failure,Beam Radiation of Adrenal Glands using Photons 1 - 10 MeV,performance,medium,10
+731,search_product_success,"Supplement Perineum Subcu/Fascia w Autol Sub, Open",performance,medium,1
+732,search_product_failure,"Dilation of Right Foot Artery, Percutaneous Approach",performance,hight,2
+733,view_product_details_success,"Extirpation of Matter from Large Intestine, Perc Approach",other,medium,3
+734,view_product_details_failure,"Fusion Cerv Jt w Nonaut Sub, Post Appr P Col, Perc Endo",other,medium,4
+735,update_profile_success,"Excision of Left Trunk Muscle, Percutaneous Approach, Diagn",performance,medium,5
+736,update_profile_failure,"Bypass R Subclav Art to L Low Leg Art, Open Approach",performance,low,6
+737,change_password_success,"Replacement of R Up Eyelid with Synth Sub, Extern Approach",performance,low,7
+738,change_password_failure,"Drain of L Sacroiliac Jt with Drain Dev, Perc Endo Approach",other,hight,8
+739,delete_account_success,"Dilate 4+ Cor Art, Bifurc, w Radioact Intralum, Perc",performance,medium,9
+740,delete_account_failure,"Dilation of Bladder Neck, Percutaneous Endoscopic Approach",performance,hight,10
+741,create_post_success,HDR Brachytherapy of Duodenum using Cesium 137,functional,medium,1
+742,create_post_failure,Tomo Nucl Med Imag of Myocardium using Indium 111,performance,low,2
+743,like_post_success,"Supplement Upper Lip with Autol Sub, Perc Approach",other,hight,3
+744,like_post_failure,"Drainage of Thor Symp Nrv with Drain Dev, Perc Endo Approach",other,hight,4
+745,comment_post_success,"Repair Left Hip Joint, Percutaneous Approach",other,low,5
+746,comment_post_failure,"Repair Right Pulmonary Vein, Percutaneous Approach",functional,medium,6
+747,share_post_success,"Bypass Right Femoral Artery to L Femor A, Open Approach",functional,medium,7
+748,share_post_failure,"Insert Contracept Dev in Abd Subcu/Fascia, Open",other,low,8
+749,create_event_success,Removal of Splint on Left Upper Extremity,other,medium,9
+750,create_event_failure,"Extirpation of Matter from Left Metatarsal, Open Approach",performance,medium,10
+751,join_event_success,"Extirpate of Matter from R Basilic Vein, Perc Endo Approach",functional,low,1
+752,join_event_failure,"Bypass Left Ureter to Bladder with Autol Sub, Open Approach",other,medium,2
+753,cancel_event_success,"Insertion of Int Fix into R Up Femur, Open Approach",performance,hight,3
+754,cancel_event_failure,"Release Right Ovary, Percutaneous Approach",functional,medium,4
+755,create_group_success,"Remove Synth Sub from Sacrococcygeal Jt, Perc Endo",functional,medium,5
+756,create_group_failure,"Repair Larynx, Percutaneous Approach",performance,hight,6
+757,join_group_success,"Extirpation of Matter from L Low Arm Skin, Extern Approach",functional,hight,7
+758,join_group_failure,"Drainage of Right Breast, Via Natural or Artificial Opening",functional,medium,8
+759,leave_group_success,"Restriction of Azygos Vein, Percutaneous Endoscopic Approach",performance,low,9
+760,leave_group_failure,"Bypass Common Bile Duct to Cystic Duct, Open Approach",performance,hight,10
+761,delete_group_success,"Removal of Spacer from Cerv Jt, Open Approach",performance,hight,1
+762,delete_group_failure,Stereotactic Particulate Radiosurgery of Sinuses,performance,medium,2
+763,create_survey_success,"Revision of Synth Sub in R Low Extrem, Perc Endo Approach",performance,hight,3
+764,create_survey_failure,"MRI of Nasophar/Orophar using Oth Contrast, Unenh, Enhance",performance,medium,4
+765,submit_survey_success,"Repair Transverse Colon, Percutaneous Endoscopic Approach",functional,hight,5
+766,submit_survey_failure,"Alteration of Right Axilla with Autol Sub, Perc Approach",other,hight,6
+767,create_poll_success,"Removal of Drainage Device from T-lum Disc, Perc Approach",functional,medium,7
+768,create_poll_failure,"Release Stomach, Via Natural or Artificial Opening",functional,medium,8
+769,vote_poll_success,"Division of Right Lower Arm Skin, External Approach",other,low,9
+770,vote_poll_failure,"Replace of L Less Saphenous with Autol Sub, Open Approach",other,medium,10
+771,create_task_success,"Occlusion of L Uter A with Intralum Dev, Perc Approach",performance,low,1
+772,create_task_failure,"Release Abducens Nerve, Open Approach",functional,low,2
+773,assign_task_success,"Replacement of Gastric Artery with Synth Sub, Open Approach",performance,medium,3
+774,assign_task_failure,MRI of R Knee using Oth Contrast,functional,hight,4
+775,complete_task_success,"Bypass Inf Mesent Vein to Low Vein w Synth Sub, Open",other,low,5
+776,complete_task_failure,"Replacement of Greater Omentum with Synth Sub, Open Approach",performance,hight,6
+777,create_project_success,"Supplement Left Upper Eyelid with Autol Sub, Open Approach",functional,medium,7
+778,create_project_failure,"Supplement Clitoris with Nonaut Sub, Open Approach",performance,low,8
+779,assign_project_success,"Supplement L Ext Iliac Vein with Nonaut Sub, Open Approach",performance,low,9
+780,assign_project_failure,"Reposition Pulmonary Trunk, Open Approach",performance,low,10
+781,complete_project_success,HDR Brachytherapy of Bile Ducts using Palladium 103,other,medium,1
+782,complete_project_failure,"Insertion of Int Fix into R Tarsal, Open Approach",performance,low,2
+783,create_bug_report_success,"Transfer Perineum Subcu/Fascia w Skin, Subcu, Fascia, Open",other,hight,3
+784,create_bug_report_failure,"Dilation of Right Brachial Artery, Percutaneous Approach",performance,low,4
+785,resolve_bug_report_success,"Replacement of Intracran Vein with Autol Sub, Open Approach",other,hight,5
+786,resolve_bug_report_failure,Osteopathic Treatment of Sacrum using Other Method,functional,medium,6
+787,create_feature_request_success,"Destruction of Right Lower Lobe Bronchus, Endo",performance,hight,7
+788,create_feature_request_failure,"Dilate 4+ Cor Art, Bifurc, w Drug-elut Intra, Open",functional,medium,8
+789,approve_feature_request_success,"Replace of Gastric Art with Synth Sub, Perc Endo Approach",performance,hight,9
+790,approve_feature_request_failure,"Revision of Nonautologous Tissue Substitute in Ureter, Endo",performance,low,10
+791,reject_feature_request_success,"Drainage of Lower Vein, Percutaneous Approach",performance,medium,1
+792,reject_feature_request_failure,"Dilation of Mid Colic Art with 3 Drug-elut, Perc Approach",other,medium,2
+793,create_document_success,"Replacement of Right Eye with Synth Sub, Open Approach",functional,medium,3
+794,create_document_failure,CT Scan of L Up Arm using H Osm Contrast,other,low,4
+795,edit_document_success,"Introduce of Analg/Hypnot/Sedat into GU Tract, Perc Approach",functional,hight,5
+796,edit_document_failure,"Drainage of Cul-de-sac, Percutaneous Approach",other,low,6
+797,delete_document_success,"Excision of R Abd Bursa/Lig, Perc Approach, Diagn",other,hight,7
+798,delete_document_failure,"Release Left Epididymis, Percutaneous Endoscopic Approach",performance,medium,8
+799,create_invoice_success,"Destruction of Left Foot Skin, External Approach",other,medium,9
+800,create_invoice_failure,"Restriction of R Mid Lobe Bronc with Intralum Dev, Endo",other,low,10
+801,send_invoice_success,"Fusion of L Metatarsotars Jt with Ext Fix, Perc Approach",other,medium,1
+802,send_invoice_failure,"Beam Radiation of Humerus using Electrons, Intraoperative",functional,hight,2
+803,pay_invoice_success,"Repair Aortic Valve, Open Approach",functional,medium,3
+804,pay_invoice_failure,"Ultrasonography of Bi Int Carotid, Intravasc",performance,medium,4
+805,generate_report_success,"Excision of Mitral Valve, Percutaneous Approach",other,hight,5
+806,generate_report_failure,"Dilate of L Com Iliac Art with 2 Intralum Dev, Open Approach",performance,medium,6
+807,export_report_success,Beam Radiation of Pleura using Photons 1 - 10 MeV,other,medium,7
+808,export_report_failure,Magnetic Resonance Imaging (MRI) of Celiac Artery,performance,low,8
+809,import_data_success,"Revision of Int Fix in L Low Femur, Perc Endo Approach",other,low,9
+810,import_data_failure,"Excision of Left Renal Vein, Open Approach, Diagnostic",functional,low,10
+811,login_success,"Replacement of L Palatine Bone with Synth Sub, Perc Approach",performance,medium,1
+812,login_failure,"Removal of Int Fix from Cerv Jt, Open Approach",performance,low,2
+813,signup_success,"Release Left Nipple, Percutaneous Approach",other,hight,3
+814,signup_failure,"Introduction of Radioact Subst into Ear, Perc Approach",performance,medium,4
+815,forgot_password_success,"Alteration of Abdominal Wall with Nonaut Sub, Open Approach",functional,hight,5
+816,forgot_password_failure,"Drainage of Right Lower Lung Lobe, Via Opening",functional,low,6
+817,add_to_cart_success,"Excision of Ileocecal Valve, Via Opening, Diagn",performance,hight,7
+818,add_to_cart_failure,"Supplement R Metatarsophal Jt with Nonaut Sub, Open Approach",performance,low,8
+819,checkout_success,"Insert Bone Condct Hear Dev in R Inner Ear, Perc Endo",functional,medium,9
+820,checkout_failure,"Excision of Left Radius, Open Approach",other,hight,10
+821,search_product_success,"Destruction of Left Subclavian Artery, Percutaneous Approach",functional,low,1
+822,search_product_failure,"Bypass R Fallopian Tube to R Fallop w Autol Sub, Open",other,low,2
+823,view_product_details_success,"Repair Cervical Vertebral Disc, Percutaneous Approach",other,low,3
+824,view_product_details_failure,"Supplement L Low Leg Subcu/Fascia w Nonaut Sub, Open",functional,low,4
+825,update_profile_success,"Revision of Nonaut Sub in Low Art, Open Approach",performance,medium,5
+826,update_profile_failure,"Supplement Esophagast Junct with Autol Sub, Open Approach",functional,hight,6
+827,change_password_success,"Destruction of Right Thyroid Gland Lobe, Perc Endo Approach",performance,low,7
+828,change_password_failure,"Introduce Blinatumomab in Periph Vein, Perc, New Tech 1",functional,low,8
+829,delete_account_success,"Insertion of Artif Sphincter into Bladder, Open Approach",other,medium,9
+830,delete_account_failure,"Extirpation of Matter from Anal Sphincter, Open Approach",other,low,10
+831,create_post_success,"Excision of Coccygeal Joint, Percutaneous Approach",functional,medium,1
+832,create_post_failure,"Drainage of Right Finger Phalanx, Perc Approach, Diagn",functional,hight,2
+833,like_post_success,"Destruction of Right Lower Arm Skin, Mult, Extern Approach",performance,low,3
+834,like_post_failure,"Fusion Sacrococcygeal Jt w Synth Sub, Perc Endo",functional,medium,4
+835,comment_post_success,"Fusion of L Temporomandib Jt with Int Fix, Open Approach",other,low,5
+836,comment_post_failure,"Reposition L Low Arm & Wrist Muscle, Perc Endo Approach",performance,low,6
+837,share_post_success,"Dilation of Right Common Carotid Artery, Perc Endo Approach",functional,medium,7
+838,share_post_failure,"Bypass Asc Colon to Asc Colon w Synth Sub, Perc Endo",functional,low,8
+839,create_event_success,"Dilation of Pancreatic Duct, Perc Endo Approach",functional,hight,9
+840,create_event_failure,"Dilate Inf Mesent Art w Intralum Dev, Perc Endo",other,hight,10
+841,join_event_success,"Revision of Drainage Device in Kidney, Endo",functional,medium,1
+842,join_event_failure,"Occlusion of Left Kidney Pelvis, Via Opening",performance,medium,2
+843,cancel_event_success,"Drainage of Neck, Open Approach",functional,low,3
+844,cancel_event_failure,"Transfer Acoustic Nerve to Trochlear Nrv, Perc Endo Approach",other,hight,4
+845,create_group_success,"Dilate R Post Tib Art, Bifurc, w 4 Drug-elut, Perc",performance,hight,5
+846,create_group_failure,"Supplement Thor Aorta Asc with Zooplastic, Perc Approach",other,hight,6
+847,join_group_success,"Change Drainage Device in Pituitary Gland, External Approach",performance,hight,7
+848,join_group_failure,"Supplement L Com Iliac Art with Autol Sub, Open Approach",functional,low,8
+849,leave_group_success,"Insert of Infusion Dev into Coccygeal Jt, Perc Endo Approach",performance,medium,9
+850,leave_group_failure,"Supplement Aortic Valve with Synth Sub, Perc Endo Approach",other,medium,10
+851,delete_group_success,"Occlusion of Right Main Bronchus, Percutaneous Approach",other,hight,1
+852,delete_group_failure,"Destruction of Right Vertebral Artery, Percutaneous Approach",functional,hight,2
+853,create_survey_success,"Excision of Right Lower Lobe Bronchus, Via Opening",functional,low,3
+854,create_survey_failure,"Revision of Infusion Device in Vas Deferens, Via Opening",functional,low,4
+855,submit_survey_success,"Bypass Cystic Duct to Sm Int w Intralum Dev, Open",performance,medium,5
+856,submit_survey_failure,"Bypass 3 Cor Art from L Int Mammary, Open Approach",functional,low,6
+857,create_poll_success,"Removal of Nonaut Sub from Vas Deferens, Perc Endo Approach",performance,low,7
+858,create_poll_failure,"Repair Right Colic Artery, Open Approach",performance,medium,8
+859,vote_poll_success,Nonimaging Nuclear Medicine Assay of Blood using Cobalt 57,other,low,9
+860,vote_poll_failure,"Supplement Left Tarsal with Synth Sub, Perc Approach",functional,hight,10
+861,create_task_success,"Replacement of R Hand Tendon with Synth Sub, Open Approach",functional,hight,1
+862,create_task_failure,"Dilation of L Int Mamm Art with 4 Drug-elut, Perc Approach",functional,low,2
+863,assign_task_success,"Replacement of R Fibula with Autol Sub, Perc Endo Approach",functional,medium,3
+864,assign_task_failure,"Bypass R Int Iliac Art to L Int Ilia, Perc Endo Approach",functional,low,4
+865,complete_task_success,"Bypass L Pleural Cav to L Pleural Cav w Synth Sub, Perc Endo",other,hight,5
+866,complete_task_failure,"Dilation of L Ext Iliac Art, Bifurc, Perc Approach",performance,hight,6
+867,create_project_success,"Revision of Extralum Dev in Vas Deferens, Perc Endo Approach",functional,hight,7
+868,create_project_failure,"Insertion of Stim Lead into Anal Sphincter, Perc Approach",other,medium,8
+869,assign_project_success,"Drainage of Para-aortic Body, Open Approach, Diagnostic",functional,hight,9
+870,assign_project_failure,"Fragmentation in Uterus, Percutaneous Approach",performance,medium,10
+871,complete_project_success,"Excision of Left Knee Tendon, Open Approach, Diagnostic",functional,hight,1
+872,complete_project_failure,"Destruction of Left Wrist Joint, Open Approach",other,low,2
+873,create_bug_report_success,"Repair Right External Iliac Vein, Open Approach",other,medium,3
+874,create_bug_report_failure,"Bypass L Great Saphenous to Low Vein w Autol Sub, Open",other,hight,4
+875,resolve_bug_report_success,"Bypass Ileum to Cutaneous, Endo",performance,low,5
+876,resolve_bug_report_failure,"Supplement Access Pancr Duct with Nonaut Sub, Perc Approach",functional,low,6
+877,create_feature_request_success,Caregiver Train in Applic/Use/Care Orthoses using Orthosis,other,low,7
+878,create_feature_request_failure,"Replacement of Right Clavicle with Autol Sub, Perc Approach",functional,low,8
+879,approve_feature_request_success,"Replacement of Left Fibula with Nonaut Sub, Perc Approach",performance,hight,9
+880,approve_feature_request_failure,"Replace R Great Saphenous w Nonaut Sub, Perc Endo",functional,hight,10
+881,reject_feature_request_success,"Drainage of Right Lower Eyelid with Drain Dev, Open Approach",other,low,1
+882,reject_feature_request_failure,Ultrasonography of Upper Extremity,other,hight,2
+883,create_document_success,"Drainage of R Com Carotid, Perc Endo Approach, Diagn",other,hight,3
+884,create_document_failure,"Extirpation of Matter from Left Pleura, Perc Approach",other,medium,4
+885,edit_document_success,Exercise Treatment of Neuro Body using Aerobic Equipment,other,low,5
+886,edit_document_failure,"Excision of Left Knee Bursa and Ligament, Perc Approach",other,medium,6
+887,delete_document_success,"Insertion of Ext Fix into R Tarsal Jt, Open Approach",performance,low,7
+888,delete_document_failure,"Supplement Right Upper Eyelid with Autol Sub, Perc Approach",other,medium,8
+889,create_invoice_success,"Occlusion Inf Mesent Art w Extralum Dev, Perc Endo",functional,low,9
+890,create_invoice_failure,"Supplement Com Bile Duct with Synth Sub, Perc Endo Approach",functional,medium,10
+891,send_invoice_success,"Release Right Subclavian Artery, Open Approach",other,hight,1
+892,send_invoice_failure,"Supplement R Hand Bursa/Lig with Nonaut Sub, Open Approach",functional,hight,2
+893,pay_invoice_success,"Restriction of Common Bile Duct with Intralum Dev, Endo",functional,low,3
+894,pay_invoice_failure,"Replacement of R Vocal Cord with Autol Sub, Open Approach",performance,hight,4
+895,generate_report_success,"Replace L Hip Jt, Acetab w Polyeth, Uncement, Open",functional,medium,5
+896,generate_report_failure,"Replacement of R Up Femur with Synth Sub, Perc Endo Approach",other,medium,6
+897,export_report_success,"Excision of Greater Omentum, Percutaneous Approach",performance,medium,7
+898,export_report_failure,"Occlusion of Cystic Duct, Percutaneous Approach",functional,medium,8
+899,import_data_success,"Supplement L Abd Muscle with Nonaut Sub, Open Approach",functional,medium,9
+900,import_data_failure,Plain Radiography of Oth Low Art using L Osm Contrast,other,medium,10
+901,login_success,"Removal of Drainage Device from Nasal Bone, Open Approach",other,hight,1
+902,login_failure,"Removal of Drain Dev from Vas Deferens, Perc Endo Approach",functional,hight,2
+903,signup_success,"Supplement R Temporomandib Jt with Synth Sub, Perc Approach",performance,low,3
+904,signup_failure,"Excision of Right Abdomen Tendon, Perc Endo Approach, Diagn",performance,hight,4
+905,forgot_password_success,"Inspection of Right Upper Arm, Open Approach",other,hight,5
+906,forgot_password_failure,"Dilation of L Kidney Pelvis with Intralum Dev, Open Approach",performance,low,6
+907,add_to_cart_success,"Reposition Lumbosacral Joint, Percutaneous Approach",performance,low,7
+908,add_to_cart_failure,"Removal of Int Fix from R Up Femur, Perc Approach",other,hight,8
+909,checkout_success,"Transfuse Allo Unsp Cord Bld Stem Cell in Periph Vein, Open",other,hight,9
+910,checkout_failure,"Release Right Ankle Tendon, Open Approach",performance,medium,10
+911,search_product_success,"Release Brachial Plexus, Open Approach",functional,medium,1
+912,search_product_failure,"Drainage of Right Lobe Liver, Open Approach",performance,low,2
+913,view_product_details_success,"Revision of Other Device in Male Perineum, External Approach",performance,hight,3
+914,view_product_details_failure,"Revision of Infusion Device in T-lum Disc, Perc Approach",functional,hight,4
+915,update_profile_success,"Supplement L Int Jugular Vein w Nonaut Sub, Perc Endo",other,low,5
+916,update_profile_failure,"Insert Infusion Dev in R Subclav Vein, Perc Endo",other,low,6
+917,change_password_success,"Removal of Synth Sub from R Tarsal Jt, Perc Approach",other,low,7
+918,change_password_failure,"Supplement Right Colic Artery with Synth Sub, Perc Approach",functional,medium,8
+919,delete_account_success,"Excision of Right Spermatic Cord, Open Approach, Diagnostic",other,low,9
+920,delete_account_failure,"Insert of Infusion Dev into L Com Iliac Art, Open Approach",performance,medium,10
+921,create_post_success,"Dilate R Hand Art, Bifurc, w 4+ Intralum Dev, Perc Endo",performance,hight,1
+922,create_post_failure,"Excision of Left Foot Artery, Open Approach",functional,low,2
+923,like_post_success,"Dilate R Thyroid Art, Bifurc, w 4 Drug-elut, Perc Endo",performance,medium,3
+924,like_post_failure,Exercise Treatment of Circ Up Back/UE using Mech Equipment,other,low,4
+925,comment_post_success,"Destruction of Anus, Via Natural or Artificial Opening",other,low,5
+926,comment_post_failure,"Supplement R Abd Tendon with Autol Sub, Perc Endo Approach",performance,medium,6
+927,share_post_success,"Repair Right Elbow Bursa and Ligament, Percutaneous Approach",performance,medium,7
+928,share_post_failure,"Drainage of Left Vocal Cord with Drain Dev, Via Opening",functional,hight,8
+929,create_event_success,"Destruction of Left Choroid, Percutaneous Approach",functional,hight,9
+930,create_event_failure,Hyperthermia of Rectum,other,medium,10
+931,join_event_success,"Drainage of Facial Muscle with Drain Dev, Open Approach",functional,medium,1
+932,join_event_failure,"Destruction of Tricuspid Valve, Percutaneous Approach",performance,medium,2
+933,cancel_event_success,"Bypass L Femor Vein to Low Vein w Autol Art, Open",other,low,3
+934,cancel_event_failure,"Removal of Radioact Elem from R Pleural Cav, Perc Approach",functional,hight,4
+935,create_group_success,"Destruction of Left Lower Leg Muscle, Percutaneous Approach",performance,hight,5
+936,create_group_failure,"Division of Left Sphenoid Bone, Perc Endo Approach",other,hight,6
+937,join_group_success,"Drain L Shoulder Bursa/Lig w Drain Dev, Perc Endo",functional,low,7
+938,join_group_failure,"Resection of L Thorax Bursa/Lig, Perc Endo Approach",performance,medium,8
+939,leave_group_success,"Supplement Coccyx with Synthetic Substitute, Perc Approach",performance,hight,9
+940,leave_group_failure,"Bypass Thor Aorta Desc to R Pulm Art w Zooplastic, Perc Endo",performance,hight,10
+941,delete_group_success,"Destruction of Left Lung, Percutaneous Endoscopic Approach",other,medium,1
+942,delete_group_failure,"Supplement L Kidney Pelvis w Synth Sub, Perc Endo",performance,low,2
+943,create_survey_success,"Release Right Main Bronchus, Open Approach",performance,medium,3
+944,create_survey_failure,"Bypass Abd Aorta to L Int Ilia w Autol Art, Perc Endo",performance,low,4
+945,submit_survey_success,"Supplement Hepatic Vein with Nonaut Sub, Perc Endo Approach",functional,medium,5
+946,submit_survey_failure,"Restriction of Abd Aorta with Extralum Dev, Open Approach",functional,medium,6
+947,create_poll_success,"Revision of Ext Fix in L Radius, Perc Endo Approach",functional,hight,7
+948,create_poll_failure,"Repair Right Radius, Open Approach",performance,hight,8
+949,vote_poll_success,"Dilate of L Int Carotid with 4+ Intralum Dev, Perc Approach",other,low,9
+950,vote_poll_failure,"Dilation of L Popl Art using Drug Blln, Perc Endo Approach",other,hight,10
+951,create_task_success,"Extirpation of Matter from Left Radius, Open Approach",functional,hight,1
+952,create_task_failure,"Revision of Int Fix in L Acetabulum, Perc Endo Approach",functional,hight,2
+953,assign_task_success,"Revise of Autol Sub in R Finger Phalanx, Perc Endo Approach",functional,medium,3
+954,assign_task_failure,Tomo Nucl Med Imag of Cerv Spine using Technetium 99m,other,low,4
+955,complete_task_success,LDR Brachytherapy of Hard Palate using Palladium 103,other,medium,5
+956,complete_task_failure,"Revision of Radioact Elem in Resp Tract, Extern Approach",performance,hight,6
+957,create_project_success,"Removal of Autol Sub from Up Muscle, Perc Approach",other,low,7
+958,create_project_failure,"Dilation of L Int Mamm Art with 4 Drug-elut, Open Approach",other,medium,8
+959,assign_project_success,"Dilation of 4+ Cor Art with 4+ Intralum Dev, Open Approach",functional,low,9
+960,assign_project_failure,"Reposition Left Lens, Percutaneous Approach",functional,medium,10
+961,complete_project_success,"Drainage of Left Thorax Muscle, Perc Endo Approach, Diagn",performance,low,1
+962,complete_project_failure,"Insertion of Monitor Dev into Ileum, Perc Endo Approach",other,medium,2
+963,create_bug_report_success,"Occlusion of Hemiazygos Vein, Percutaneous Approach",other,low,3
+964,create_bug_report_failure,"Release Superior Mesenteric Vein, Perc Endo Approach",other,medium,4
+965,resolve_bug_report_success,"Alteration of R Low Arm with Autol Sub, Perc Endo Approach",functional,low,5
+966,resolve_bug_report_failure,"Occlusion of Left Cephalic Vein, Open Approach",other,medium,6
+967,create_feature_request_success,"Drainage of Ileum, Endo, Diagn",functional,low,7
+968,create_feature_request_failure,"Excision of Left Metacarpal, Percutaneous Approach",performance,hight,8
+969,approve_feature_request_success,"Extirpate of Matter from R Kidney Pelvis, Perc Endo Approach",performance,medium,9
+970,approve_feature_request_failure,"Removal of Synth Sub from L Toe Phalanx, Open Approach",performance,medium,10
+971,reject_feature_request_success,"Reposition Right Hand Tendon, Open Approach",other,low,1
+972,reject_feature_request_failure,"Release Left External Iliac Vein, Perc Endo Approach",other,low,2
+973,create_document_success,"Insertion of Infusion Device into L Carpal Jt, Open Approach",functional,hight,3
+974,create_document_failure,"Drainage of Right Large Intestine, Endo, Diagn",functional,medium,4
+975,edit_document_success,"Replacement of L Brach Vein with Nonaut Sub, Open Approach",other,hight,5
+976,edit_document_failure,"Dilate of R Com Carotid with 4+ Intralum Dev, Open Approach",other,hight,6
+977,delete_document_success,Tomo Nucl Med Imag of Chest & Abd using Fluorine 18,other,low,7
+978,delete_document_failure,"Excision of Lumbar Plexus, Percutaneous Approach, Diagnostic",functional,hight,8
+979,create_invoice_success,"Revision of Drainage Device in Upper Artery, Extern Approach",performance,low,9
+980,create_invoice_failure,"Replacement of L Ext Ear with Nonaut Sub, Extern Approach",performance,low,10
+981,send_invoice_success,"Excision of Right Fallopian Tube, Open Approach",performance,medium,1
+982,send_invoice_failure,"Removal of Drainage Device from Mesentery, Perc Approach",functional,low,2
+983,pay_invoice_success,Muscle Perform Trmt Musculosk Up Back/UE w Assist Equip,performance,low,3
+984,pay_invoice_failure,"Replacement of Skull with Synth Sub, Perc Endo Approach",functional,hight,4
+985,generate_report_success,"Supplement Hepatic Artery with Synth Sub, Perc Approach",functional,medium,5
+986,generate_report_failure,"Excision of Stomach, Percutaneous Endoscopic Approach",other,medium,6
+987,export_report_success,"Revision of Int Fix in Nasal Bone, Perc Endo Approach",performance,low,7
+988,export_report_failure,"Excision of Cerebral Meninges, Percutaneous Approach",performance,hight,8
+989,import_data_success,"Introduction of Oxazolidinones into Joints, Perc Approach",other,hight,9
+990,import_data_failure,"Excision of Bi Carotid Body, Perc Endo Approach, Diagn",performance,hight,10
+991,login_success,"Repair Pons, Percutaneous Approach",functional,low,1
+992,login_failure,"Removal of Ext Fix from R Femur Shaft, Perc Endo Approach",functional,hight,2
+993,signup_success,"Removal of Nonaut Sub from R Toe Phalanx, Open Approach",other,hight,3
+994,signup_failure,"Revision of Autol Sub in R Fibula, Perc Approach",other,low,4
+995,forgot_password_success,"Reposition Right Upper Femur with Int Fix, Perc Approach",performance,medium,5
+996,forgot_password_failure,"Occlusion of Vagina, Endo",performance,medium,6
+997,add_to_cart_success,"Inspection of Right Upper Leg, Perc Endo Approach",other,low,7
+998,add_to_cart_failure,"Occlusion R Int Jugular Vein w Extralum Dev, Perc Endo",performance,hight,8
+999,checkout_success,"Removal of Autol Sub from L Knee Jt, Open Approach",other,low,9
+1000,checkout_failure,"Removal of Intracardiac Pacemaker from Heart, Open Approach",performance,hight,10

@@ -1,0 +1,301 @@
+id,name,priority,description,test_run,project_id
+1,Intuitive directional infrastructure,medium,"Restriction of Superior Mesenteric Vein, Open Approach",19,1
+2,Reduced bifurcated superstructure,low,"Introduction of Local Anesth into Cranial Nrv, Perc Approach",18,2
+3,Ergonomic 4th generation array,medium,"Excision of Right Lesser Saphenous Vein, Open Approach",11,3
+4,Universal human-resource service-desk,high,"Removal of Int Fix from R Clavicle, Perc Approach",19,4
+5,Universal 24/7 Graphic Interface,low,"Bypass R Ext Iliac Art to L Femor A w Synth Sub, Open",1,5
+6,Robust fresh-thinking adapter,low,"Reposition Cervical Spinal Cord, Perc Endo Approach",7,6
+7,Synergistic didactic solution,high,"Excision of Ampulla of Vater, Via Opening",6,7
+8,Networked stable initiative,low,"Repair Female Reproductive System in POC, Endo",9,8
+9,Adaptive 6th generation model,low,"Excision of Pancreatic Duct, Open Approach, Diagnostic",20,9
+10,Digitized modular benchmark,high,"Inspection of Right Shoulder Region, External Approach",4,10
+11,Extended local parallelism,low,"Extraction of Spinal Meninges, Open Approach",7,1
+12,Open-architected fresh-thinking hierarchy,high,"Drainage of Thorax Lymphatic, Percutaneous Approach",16,2
+13,Managed grid-enabled adapter,low,"Dilation of Aortic Valve, Open Approach",8,3
+14,User-centric stable concept,high,"Drainage of Abd Subcu/Fascia with Drain Dev, Perc Approach",4,4
+15,Exclusive methodical synergy,low,"Bypass L Int Iliac Art to B Int Ilia w Autol Vn, Perc Endo",7,5
+16,Multi-channelled discrete internet solution,low,"Extirpate matter from R Hand Bursa/Lig, Perc Endo",10,6
+17,Diverse 3rd generation hub,high,"Bypass R Femor Vein to Low Vein w Nonaut Sub, Perc Endo",10,7
+18,Synchronised maximized challenge,low,"Drain R Metacarpocarp Jt w Drain Dev, Perc Endo",7,8
+19,Multi-lateral clear-thinking standardization,medium,"Plain Radiography of Cervical Spine, Densitometry",14,9
+20,Right-sized attitude-oriented moderator,high,"Bypass L Com Iliac Art to B Ext Ilia w Autol Art, Perc Endo",7,10
+21,Expanded actuating help-desk,medium,"Introduce Electrol/Water Bal in Periph Art, Perc",12,1
+22,Enhanced stable policy,medium,"Restrict of Ileocecal Valve with Intralum Dev, Via Opening",14,2
+23,Multi-lateral responsive local area network,high,"Transplantation of Pancreas, Syngeneic, Open Approach",17,3
+24,Mandatory regional internet solution,medium,"Insertion of Pace Lead into Pericardium, Perc Endo Approach",7,4
+25,Multi-lateral holistic methodology,medium,Removal of Cast on Left Upper Extremity,6,5
+26,Distributed hybrid focus group,high,"Bypass L Com Iliac Art to R Femor A w Autol Vn, Open",19,6
+27,Re-contextualized interactive synergy,low,"Release Right Adrenal Gland, Open Approach",9,7
+28,Advanced empowering access,medium,"Extraction of Right Pleura, Percutaneous Approach, Diagn",4,8
+29,Inverse actuating circuit,low,"Removal of Autol Sub from Skull, Perc Approach",1,9
+30,Sharable 5th generation benchmark,low,"Restrict R Low Extrem Lymph w Extralum Dev, Open",12,10
+31,Integrated homogeneous moderator,medium,"Supplement R Ext Iliac Vein with Synth Sub, Perc Approach",2,1
+32,Polarised intangible encoding,medium,"Replace R Up Arm Subcu/Fascia w Nonaut Sub, Perc",5,2
+33,Inverse high-level utilisation,medium,"Dilate R Int Carotid, Bifurc, w 2 Drug-elut, Perc Endo",2,3
+34,Face to face mobile functionalities,low,"Drainage of Right Neck Muscle, Open Approach, Diagnostic",17,4
+35,Devolved grid-enabled open system,medium,"Restriction of Right Basilic Vein, Percutaneous Approach",8,5
+36,Secured user-facing moratorium,low,"Extirpation of Matter from L Hypogast Vein, Perc Approach",3,6
+37,Secured 5th generation Graphic Interface,high,"Inspection of Right Axilla, Percutaneous Approach",9,7
+38,Devolved web-enabled complexity,low,"Bypass R Ventricle to L Pulm Art w Autol Vn, Perc Endo",8,8
+39,Automated global strategy,medium,"Removal of Drainage Device from Lum Disc, Perc Endo Approach",1,9
+40,Reverse-engineered context-sensitive ability,low,"Repair Left Anterior Tibial Artery, Open Approach",6,10
+41,Robust neutral application,high,"Fragmentation in Jejunum, Percutaneous Approach",7,1
+42,Pre-emptive tertiary collaboration,medium,"Excision of Trigeminal Nerve, Perc Endo Approach",11,2
+43,Extended explicit knowledge base,high,"Replacement of R Popl Art with Nonaut Sub, Open Approach",9,3
+44,Right-sized multi-state access,high,"Release Right Peroneal Artery, Open Approach",8,4
+45,Progressive real-time array,medium,"Release Left Knee Bursa and Ligament, Perc Endo Approach",9,5
+46,Customizable responsive budgetary management,high,"Revision of Infusion Device in Stomach, External Approach",4,6
+47,Focused didactic firmware,low,"Supplement Jejunum with Nonaut Sub, Open Approach",14,7
+48,Operative maximized standardization,low,"Revision of Neuro Lead in Cereb Vent, Perc Approach",9,8
+49,Extended national internet solution,low,"Bypass L Fem Art to Poplit Art with Autol Art, Open Approach",17,9
+50,Enterprise-wide dedicated software,high,"Resection of Perineum Muscle, Perc Endo Approach",4,10
+51,Upgradable incremental Graphical User Interface,medium,"Division of Basal Ganglia, Percutaneous Endoscopic Approach",7,1
+52,Exclusive modular workforce,low,Hearing and Related Disorders Counseling Treatment,9,2
+53,Fundamental logistical paradigm,low,"Removal of Drainage Device from L Knee Jt, Perc Approach",18,3
+54,Persistent disintermediate middleware,high,"Excision of Left Renal Artery, Percutaneous Approach, Diagn",20,4
+55,Face to face secondary Graphical User Interface,medium,"Drainage of L Acromioclav Jt, Perc Endo Approach, Diagn",14,5
+56,Implemented mission-critical neural-net,low,Planar Nucl Med Imag of Liver using Oth Radionuclide,9,6
+57,Mandatory homogeneous matrix,medium,Exercise Trmt Integu Up Back/UE w Electrotherap Equip,13,7
+58,Cross-platform reciprocal hardware,low,"Revision of Nonaut Sub in Hepatobil Duct, Extern Approach",4,8
+59,Mandatory next generation policy,low,"Release Right Upper Leg Muscle, Percutaneous Approach",11,9
+60,Public-key neutral help-desk,high,"Endocrine System, Change",7,10
+61,Networked composite collaboration,low,"Release Right Thorax Muscle, External Approach",15,1
+62,Grass-roots fault-tolerant superstructure,high,"Supplement R Subclav Vein with Nonaut Sub, Perc Approach",6,2
+63,Ergonomic composite flexibility,low,"Supplement Left Hip Tendon with Synth Sub, Open Approach",8,3
+64,User-centric optimal analyzer,high,"Excision of Glossopharyngeal Nerve, Open Approach, Diagn",16,4
+65,Face to face upward-trending instruction set,high,"Removal of Autol Sub from Periph Nrv, Perc Approach",8,5
+66,Business-focused secondary paradigm,high,"Division of Thoracic Spinal Cord, Perc Endo Approach",14,6
+67,Organic bandwidth-monitored artificial intelligence,medium,"Removal of Infusion Device from L Elbow Jt, Open Approach",16,7
+68,Team-oriented high-level interface,medium,"Removal of Synth Sub from Mediastinum, Perc Endo Approach",5,8
+69,Extended fault-tolerant matrices,medium,"Monitoring of Venous Saturation, Portal, Open Approach",16,9
+70,Profound human-resource protocol,high,"Revision of Drainage Device in Male Perineum, Open Approach",4,10
+71,Devolved multi-tasking array,high,Therapeutic Exercise Treatment of Circ Body using Prosthesis,7,1
+72,Distributed empowering functionalities,low,"Revision of Ext Fix in R Hip Jt, Open Approach",20,2
+73,Seamless next generation focus group,low,"Insertion of Radioactive Element into L Lung, Perc Approach",9,3
+74,Re-engineered needs-based matrices,high,"Insertion of Intralum Dev into Lg Intest, Perc Endo Approach",6,4
+75,Multi-tiered solution-oriented collaboration,low,"Removal of Nonaut Sub from Tracheobronc Tree, Endo",18,5
+76,Quality-focused context-sensitive workforce,high,"Supplement Right Cornea with Nonaut Sub, Perc Approach",18,6
+77,Multi-lateral solution-oriented architecture,low,"Bypass L Com Iliac Art to Low Ex Art w Synth Sub, Open",1,7
+78,Ameliorated system-worthy matrix,medium,"Removal of Monitor Dev from Up Intest Tract, Via Opening",19,8
+79,Function-based incremental interface,medium,"Transfer Facial Muscle with Skin, Perc Endo Approach",12,9
+80,Assimilated regional help-desk,medium,"Excision of Peroneal Nerve, Open Approach, Diagnostic",8,10
+81,Optional directional architecture,medium,"Insertion of Infusion Device into L Low Arm, Open Approach",6,1
+82,Function-based national leverage,medium,"Supplement Right Elbow Joint with Nonaut Sub, Open Approach",4,2
+83,Enhanced demand-driven workforce,low,"Extirpation of Matter from L Metacarpophal Jt, Perc Approach",19,3
+84,Profit-focused scalable infrastructure,high,"Bypass Abdominal Aorta to B Com Ilia, Open Approach",6,4
+85,Configurable transitional intranet,low,"Replace R Up Arm Skin w Nonaut Sub, Part Thick, Extern",11,5
+86,Profound intangible architecture,medium,"Radiation Therapy, Gastrointestinal System, Beam Radiation",12,6
+87,Integrated object-oriented forecast,high,"Insertion of Int Fix into L Metacarpal, Perc Approach",15,7
+88,Right-sized global utilisation,low,"Extirpation of Matter from Lingula Bronchus, Open Approach",13,8
+89,Assimilated clear-thinking firmware,low,"Supplement R Femor Vein with Nonaut Sub, Perc Endo Approach",7,9
+90,Fully-configurable attitude-oriented matrix,high,"Removal of Ext Fix from R Finger Phalanx Jt, Perc Approach",11,10
+91,Seamless zero tolerance throughput,low,"Excision of L Foot Subcu/Fascia, Open Approach",5,1
+92,Compatible mobile methodology,medium,Therapeutic Exercise Treatment of Circ Up Back/UE,11,2
+93,Triple-buffered optimizing encoding,medium,"Removal of Infusion Device from Face, Open Approach",6,3
+94,Enterprise-wide grid-enabled firmware,low,"Revision of Nonaut Sub in L Clavicle, Perc Endo Approach",19,4
+95,Re-contextualized logistical framework,medium,"Irrigation of Cran Cav/Brain using Irrigat, Perc Approach",2,5
+96,Re-contextualized asymmetric neural-net,low,"Drainage of L Int Mamm Art, Perc Approach, Diagn",18,6
+97,Optional system-worthy complexity,low,"Dilation of 4+ Cor Art with Drug-elut Intra, Perc Approach",5,7
+98,Synchronised value-added alliance,low,"Excision of Lingula Bronchus, Open Approach, Diagnostic",6,8
+99,Intuitive intangible flexibility,medium,"Supplement Left Ulnar Artery with Synth Sub, Perc Approach",11,9
+100,Switchable full-range alliance,medium,Ultrasonography of Uterus and Ovaries using Other Contrast,11,10
+101,Optional system-worthy open system,low,Removal of Bandage on Left Toe,14,1
+102,Advanced eco-centric system engine,medium,HDR Brachytherapy of Pancreas using Iodine 125,15,2
+103,Proactive local challenge,medium,"Removal of Intraluminal Device from Right Ear, Via Opening",2,3
+104,Customer-focused empowering parallelism,low,"Drainage of Right Frontal Bone, Perc Endo Approach, Diagn",12,4
+105,Digitized scalable archive,medium,"Drainage of Femoral Nerve, Percutaneous Approach, Diagnostic",13,5
+106,Enterprise-wide secondary circuit,low,Comm/Cognit Skill Treatment of Neuro Body,5,6
+107,Customer-focused 5th generation time-frame,high,HDR Brachytherapy of Urethra using Iodine 125,12,7
+108,Horizontal non-volatile access,high,Osteopathic Treatment Lumbar Region w L Velocity H Ampl,11,8
+109,Networked uniform time-frame,high,"Removal of Ext Fix from L Metacarpal, Open Approach",5,9
+110,Pre-emptive zero defect secured line,low,"Restriction of L Foot Vein with Extralum Dev, Perc Approach",12,10
+111,Seamless explicit structure,medium,Sys Nucl Med Therapy of Thyroid using Iodine 131,7,1
+112,Function-based holistic extranet,high,"Insertion of Other Device into Lower Jaw, Perc Endo Approach",19,2
+113,User-centric well-modulated strategy,high,"Drainage of Left Subclavian Vein, Perc Approach, Diagn",18,3
+114,Optimized multi-tasking info-mediaries,high,"Resection of Left Humeral Head, Open Approach",10,4
+115,Total maximized methodology,high,Speech Path Prevent Treatment using AV Equipment,3,5
+116,Multi-tiered radical ability,low,Plaque Radiation of Trachea,3,6
+117,Proactive systemic interface,high,"Replacement of L Peroneal Art with Autol Sub, Open Approach",14,7
+118,Cross-platform even-keeled synergy,low,"Division of Right Hip Bursa and Ligament, Perc Approach",10,8
+119,Function-based object-oriented database,low,"Dilation of Jejunum with Intraluminal Device, Open Approach",3,9
+120,Managed heuristic artificial intelligence,low,MRI of Parathyroid Gland using Oth Contrast,10,10
+121,Cross-platform maximized archive,low,"Excision of Vestibular Gland, Open Approach, Diagnostic",19,1
+122,Ergonomic tangible support,high,"Repair Right Ovary, Percutaneous Approach",13,2
+123,Open-architected 24/7 hub,low,"Change Drainage Device in Peritoneal Cavity, Extern Approach",12,3
+124,Up-sized full-range standardization,low,"Reposition Left Subclavian Vein, Perc Endo Approach",2,4
+125,Monitored uniform challenge,medium,"Hyperthermia, Single",15,5
+126,Centralized tertiary definition,medium,"Supplement Mitral Valve fr L AV Vlv w Autol Sub, Open",19,6
+127,Switchable client-server definition,low,"Dilation of R Int Mamm Art with Intralum Dev, Perc Approach",20,7
+128,Open-source value-added complexity,high,"Division of Right Zygomatic Bone, Open Approach",20,8
+129,Optimized full-range infrastructure,low,"Bypass R Int Iliac Art to R Ext Ilia w Autol Art, Perc Endo",12,9
+130,Enhanced user-facing capacity,medium,HDR Brachytherapy of Abd Lymph using Oth Isotope,18,10
+131,Multi-tiered upward-trending project,medium,"Fusion of 2-7 T Jt, Ant Appr A Col, Open Approach",19,1
+132,Synergistic stable success,medium,"Repair Left Finger Phalangeal Joint, Percutaneous Approach",4,2
+133,Profound multi-state open system,medium,"Transfer Left Trunk Bursa and Ligament, Open Approach",15,3
+134,Managed motivating product,high,"Repair Right Upper Leg, Percutaneous Approach",10,4
+135,Implemented analyzing collaboration,medium,"Occlusion of Cisterna Chyli with Extralum Dev, Perc Approach",8,5
+136,Multi-channelled scalable policy,high,"Supplement L Innom Vein with Synth Sub, Perc Approach",20,6
+137,Monitored context-sensitive access,low,"Transfuse Nonaut Frozen Plasma in Periph Vein, Perc",11,7
+138,Fundamental logistical analyzer,medium,"Excision of L Com Carotid, Perc Endo Approach, Diagn",6,8
+139,Up-sized full-range instruction set,low,"Bypass L Atrium to Pulm Vn Cnfl w Nonaut Sub, Open",12,9
+140,Balanced asymmetric parallelism,high,"Fusion C-thor Jt w Synth Sub, Post Appr A Col, Perc",18,10
+141,Public-key attitude-oriented knowledge user,low,"Repair Left Lower Leg, Percutaneous Endoscopic Approach",19,1
+142,Multi-channelled 3rd generation instruction set,medium,"Removal of Synth Sub from R Humeral Head, Perc Endo Approach",6,2
+143,Optional background approach,high,"Supplement Skull with Synth Sub, Perc Endo Approach",2,3
+144,Mandatory demand-driven project,medium,"Removal of Drain Dev from L Pleural Cav, Perc Endo Approach",16,4
+145,Object-based high-level parallelism,low,"Dilation of L Radial Art with Intralum Dev, Open Approach",9,5
+146,Persevering bandwidth-monitored toolset,medium,CT Scan of Cerv Spine using L Osm Contrast,8,6
+147,Secured secondary throughput,medium,"Extraction of L Abd Bursa/Lig, Perc Endo Approach",8,7
+148,Polarised systematic hardware,low,"Fusion T-lum Jt w Autol Sub, Ant Appr A Col, Open",3,8
+149,Organic bi-directional hardware,low,"Bypass Jejunum to Ascending Colon with Nonaut Sub, Endo",10,9
+150,Down-sized executive access,high,"Removal of Synthetic Substitute from Left Ear, Endo",17,10
+151,Grass-roots bifurcated methodology,low,"Reattachment of Right Lower Leg Tendon, Perc Endo Approach",19,1
+152,Robust clear-thinking matrices,low,"Muscles, Repair",17,2
+153,Innovative composite implementation,low,Fluency Treatment,18,3
+154,Function-based mobile orchestration,high,"Resection of R Low Arm & Wrist Muscle, Perc Endo Approach",18,4
+155,Focused asynchronous firmware,low,"Extirpation of Matter from Left Frontal Bone, Perc Approach",10,5
+156,Pre-emptive foreground implementation,low,"Bypass L Axilla Art to R Low Arm Art w Autol Vn, Open",9,6
+157,Customizable methodical capacity,high,"Release Middle Esophagus, Percutaneous Approach",19,7
+158,Pre-emptive clear-thinking strategy,low,"Bypass Cereb Vent to Intestine with Autol Sub, Perc Approach",6,8
+159,Optimized dedicated pricing structure,low,"Bypass Ascending Colon to Sigmoid Colon with Synth Sub, Endo",15,9
+160,Phased non-volatile process improvement,medium,Immobilization of Right Toe using Brace,18,10
+161,User-friendly stable projection,high,"Occlusion L Fallopian Tube w Extralum Dev, Perc",18,1
+162,Grass-roots solution-oriented circuit,low,"Bypass R Int Iliac Art to R Femor A, Open Approach",12,2
+163,Persevering impactful focus group,medium,"Excision of Abd Subcu/Fascia, Perc Approach, Diagn",18,3
+164,Digitized responsive portal,medium,"Bypass L Fem Art to L Femor A w Synth Sub, Perc Endo",12,4
+165,Persistent coherent budgetary management,medium,"Drainage of L Up Lobe Bronc, Perc Endo Approach, Diagn",18,5
+166,User-friendly full-range application,low,"Insertion of Infusion Dev into R Temporal Art, Perc Approach",20,6
+167,Multi-tiered value-added superstructure,high,"Drainage of Tonsils with Drainage Device, Perc Approach",12,7
+168,Synergistic logistical function,high,"Insertion of Infusion Device into Genitourinary Tract, Endo",1,8
+169,Upgradable 24/7 intranet,medium,"Insertion of Pedcl Stabl Dev into Occip Jt, Open Approach",6,9
+170,Compatible 4th generation success,high,"Extirpation of Matter from Great Omentum, Perc Endo Approach",9,10
+171,Distributed methodical support,medium,"Introduce of High dose IL-2 into Periph Vein, Perc Approach",1,1
+172,Decentralized tertiary time-frame,medium,"Dilate L Verteb Art w 2 Intralum Dev, Perc Endo",18,2
+173,Right-sized 5th generation monitoring,high,"Pharmacotherapy for Substance Abuse Treatment, Naloxone",19,3
+174,Networked 6th generation protocol,medium,"Supplement L Tympanic Membrane with Nonaut Sub, Via Opening",17,4
+175,Multi-lateral client-driven process improvement,low,LDR Brachytherapy of Pineal Body using Oth Isotope,5,5
+176,Programmable systematic challenge,high,"Destruction of Bilateral Carotid Bodies, Open Approach",19,6
+177,Configurable eco-centric parallelism,high,"Drainage of Cervical Plexus, Percutaneous Approach",18,7
+178,Versatile coherent circuit,high,"Removal of Other Device from Cranial Cavity, Open Approach",12,8
+179,Phased zero tolerance artificial intelligence,low,"Remove Int Fix from R Finger Phalanx Jt, Perc Endo",14,9
+180,Balanced bottom-line intranet,medium,"Supplement L Hypogast Vein with Autol Sub, Open Approach",2,10
+181,Implemented actuating customer loyalty,high,"Dilate L Ext Carotid, Bifurc, w 3 Drug-elut, Perc Endo",15,1
+182,Open-source upward-trending architecture,medium,"Dilate L Com Iliac Art, Bifurc, w 2 Drug-elut, Open",1,2
+183,Fundamental global knowledge user,low,"Repair Vagina, External Approach",4,3
+184,Synchronised 6th generation time-frame,low,"Remove Nonaut Sub from L Metacarpophal Jt, Perc Endo",5,4
+185,Vision-oriented intermediate approach,low,"Extraction of Lumbar Plexus, Perc Endo Approach",6,5
+186,Profit-focused composite matrix,medium,"Removal of Synth Sub from T-lum Disc, Open Approach",17,6
+187,Inverse stable workforce,high,"Drainage of L Inqnl Lymph with Drain Dev, Perc Endo Approach",6,7
+188,Organic non-volatile firmware,high,"Insertion of Monitor Dev into Endocrine Gland, Open Approach",10,8
+189,Cloned client-server throughput,medium,"Bypass L Axilla Art to R Extracran Art w Nonaut Sub, Open",9,9
+190,Open-source client-server moratorium,high,"Extirpation of Matter from Left Ovary, Perc Endo Approach",17,10
+191,Intuitive client-server database,low,"Inspection of Left Wrist Region, Perc Endo Approach",17,1
+192,Optional human-resource solution,medium,CT Scan of Pelvic Region using L Osm Contrast,16,2
+193,Object-based transitional moratorium,high,"Ventil, Resp/Circ Assessment of Resp Head, Neck",7,3
+194,Configurable bifurcated website,high,LDR Brachytherapy of Pituitary Gland using Cesium 137,12,4
+195,Ergonomic needs-based hardware,low,"Reposition Right Temporomandibular Joint, External Approach",17,5
+196,Mandatory mobile structure,low,"Insertion of Infusion Device into Scrotum & Tunica, Endo",17,6
+197,Cross-group neutral concept,low,"Dilate Abd Aorta, Bifurc, w Intralum Dev, Open",7,7
+198,Public-key zero administration software,medium,"Excision of Right Lower Arm and Wrist Muscle, Open Approach",3,8
+199,Cross-platform 24/7 infrastructure,low,"Destruction of Tricuspid Valve, Open Approach",11,9
+200,Profit-focused composite approach,low,"Excision of Neck, Percutaneous Endoscopic Approach, Diagn",19,10
+201,Adaptive holistic product,high,"Revision of Nonaut Sub in R Tibia, Extern Approach",14,1
+202,Polarised uniform focus group,medium,"Insertion of Radioact Elem into Pelvic Cav, Perc Approach",10,2
+203,Front-line fresh-thinking internet solution,low,"Transfer Acoust Nrv to Glossophar Nrv, Perc Endo Approach",12,3
+204,Customer-focused context-sensitive approach,medium,"Revision of Autol Sub in Cranial Nrv, Open Approach",3,4
+205,Ameliorated mission-critical capability,medium,"Destruction of Right Lower Eyelid, Percutaneous Approach",20,5
+206,Expanded didactic moratorium,high,"Drainage of Right Internal Iliac Artery, Open Approach",18,6
+207,Streamlined methodical utilisation,medium,"Supplement R Tunica Vaginalis w Autol Sub, Perc Endo",9,7
+208,Upgradable empowering product,low,"Occlusion of Left Hand Vein with Intralum Dev, Perc Approach",2,8
+209,Devolved demand-driven focus group,medium,"Bypass R Com Iliac Art to Abd Aorta w Autol Art, Perc Endo",11,9
+210,Seamless 24 hour analyzer,medium,"Drainage of Right Elbow Joint with Drain Dev, Open Approach",2,10
+211,Organized scalable architecture,low,"Excision of Left Foot Muscle, Perc Endo Approach",11,1
+212,Optimized impactful model,medium,"Destruction of Bilateral Ovaries, Perc Endo Approach",12,2
+213,Face to face local hierarchy,medium,"Bypass 2 Cor Art from Abd Art w Synth Sub, Perc Endo",15,3
+214,Robust web-enabled analyzer,high,"Revision of Synthetic Substitute in Brain, Perc Approach",11,4
+215,Innovative web-enabled migration,low,"Insert of Ext Fix into R Toe Phalanx Jt, Perc Endo Approach",14,5
+216,Expanded global matrix,low,"Excision of Left Vitreous, Percutaneous Approach",10,6
+217,Switchable multi-state encryption,low,"Excision of Right Abdomen Muscle, Perc Approach, Diagn",10,7
+218,Customizable global intranet,medium,"Removal of Autol Sub from R Acromioclav Jt, Perc Approach",11,8
+219,Future-proofed fresh-thinking collaboration,low,"Reposition Right Sternoclavicular Joint, Open Approach",8,9
+220,Optimized incremental product,medium,"Drainage of Left Lower Lung Lobe, Open Approach, Diagnostic",1,10
+221,Fundamental logistical challenge,high,"Measure of Central Nervous Electr Activity, Extern Approach",1,1
+222,Innovative dedicated parallelism,high,"Supplement R Index Finger w Nonaut Sub, Perc Endo",11,2
+223,Integrated multimedia toolset,medium,"Destruction of Left Neck Muscle, Perc Endo Approach",2,3
+224,Proactive regional circuit,low,"Replace L Ext Jugular Vein w Nonaut Sub, Perc Endo",6,4
+225,Re-contextualized didactic local area network,high,"Revision of Autol Sub in Fallopian Tube, Perc Endo Approach",17,5
+226,Universal heuristic parallelism,medium,"Supplement R Verteb Art with Autol Sub, Perc Approach",8,6
+227,Reverse-engineered bottom-line analyzer,low,"Dilate R Post Tib Art, Bifurc, w 4 Drug-elut, Perc",4,7
+228,Persistent system-worthy array,high,"Replacement of Left Nipple with Synth Sub, Perc Approach",1,8
+229,Multi-tiered user-facing capability,low,"Dilate of R Int Mamm Art with 2 Intralum Dev, Perc Approach",1,9
+230,Open-source user-facing moderator,medium,"Repair Right Upper Leg Muscle, Open Approach",19,10
+231,Versatile next generation workforce,medium,Wound Management Treatment of Integu Body using Prosthesis,11,1
+232,Realigned logistical service-desk,low,"Inspection of Right Elbow Region, Open Approach",12,2
+233,Synergistic fault-tolerant task-force,high,"Release Cerebral Hemisphere, Perc Endo Approach",10,3
+234,Extended optimizing migration,medium,"Supplement Inferior Vena Cava with Nonaut Sub, Open Approach",2,4
+235,Compatible neutral frame,low,Beam Radiation of Pelvic Region using Electrons,1,5
+236,Up-sized even-keeled monitoring,medium,"Supplement Urethra with Autol Sub, Via Opening",14,6
+237,Diverse tertiary core,high,"Removal of Autol Sub from Toe Nail, Extern Approach",19,7
+238,Versatile multimedia access,medium,"Insertion of Contraceptive Device into Uterus, Endo",17,8
+239,Switchable high-level capability,high,"Occlusion of Esophagast Junct with Intralum Dev, Endo",7,9
+240,Profound multi-state focus group,low,"Insert Tissue Expander in R Low Leg Subcu/Fascia, Perc",18,10
+241,Reactive disintermediate ability,high,"Supplement Left Tarsal with Autol Sub, Perc Endo Approach",15,1
+242,Public-key needs-based intranet,medium,"Release Trochlear Nerve, Open Approach",10,2
+243,Polarised non-volatile circuit,high,"Removal of Nonaut Sub from Thoracic Duct, Perc Approach",12,3
+244,Inverse client-driven artificial intelligence,high,"Supplement L Shoulder with Autol Sub, Perc Endo Approach",1,4
+245,Re-contextualized executive focus group,high,"Insert Infusion Dev in R Int Jugular Vein, Perc",19,5
+246,Phased heuristic adapter,low,"Occlusion Int Mamm, R Lymph w Extralum Dev, Perc Endo",11,6
+247,Adaptive next generation focus group,medium,"Supplement R Up Leg Muscle with Autol Sub, Open Approach",5,7
+248,User-friendly static flexibility,high,"Restriction of Mid Esophag with Extralum Dev, Perc Approach",3,8
+249,Re-engineered responsive conglomeration,high,"Removal of Synth Sub from L Tibia, Perc Endo Approach",19,9
+250,Face to face maximized hardware,high,Receptive/Expressive Language Assessment using Oth Equip,18,10
+251,Horizontal secondary ability,high,"Dilate of 3 Cor Art, Bifurc, with 4 Drug-elut, Perc Approach",14,1
+252,Balanced background toolset,low,"Excision of Neck, Stoma, External Approach",1,2
+253,Customer-focused impactful throughput,low,"Supplement L Knee Bursa/Lig with Autol Sub, Open Approach",17,3
+254,Inverse composite standardization,medium,Stereotactic Gamma Beam Radiosurgery of Uterus,10,4
+255,Cross-platform full-range infrastructure,medium,"Supplement Bilateral Breast with Nonaut Sub, Perc Approach",8,5
+256,Polarised responsive ability,low,CT Scan of L Pelvic Vein using Oth Contrast,9,6
+257,Object-based clear-thinking encryption,low,"Replace of R Pulm Art with Nonaut Sub, Perc Endo Approach",1,7
+258,Implemented secondary help-desk,low,"Chiropractic Manipulation of Abdomen, Long, Short Lever",11,8
+259,Automated asymmetric project,high,Plain Radiography of R Ext Carotid using L Osm Contrast,14,9
+260,Synergistic impactful service-desk,high,"Reposition Left Elbow Joint with Int Fix, Extern Approach",2,10
+261,Integrated multi-tasking knowledge base,medium,"Division of R Up Arm Subcu/Fascia, Perc Approach",16,1
+262,Vision-oriented real-time extranet,medium,"Insertion of Spacer into L Metatarsotars Jt, Open Approach",5,2
+263,Extended client-driven data-warehouse,low,"Introduction of Liquid Brachy into Fem Reprod, Perc Approach",17,3
+264,Implemented multimedia hardware,low,Fluoroscopy of Left Elbow using High Osmolar Contrast,7,4
+265,Re-engineered homogeneous adapter,high,"Excision of Sigmoid Colon, Perc Endo Approach, Diagn",13,5
+266,Monitored didactic extranet,medium,LDR Brachytherapy of Pancreas using Iridium 192,9,6
+267,Robust needs-based throughput,low,"Restrict R Axilla Art w Extralum Dev, Perc Endo",20,7
+268,Versatile 3rd generation encoding,high,"Ultrasonography of Left Upper Extremity Veins, Guidance",10,8
+269,Digitized multi-tasking hub,low,"Release Left Extraocular Muscle, Percutaneous Approach",7,9
+270,Implemented regional knowledge user,high,"Bypass Esophagus to Ileum with Nonaut Sub, Open Approach",2,10
+271,Focused eco-centric project,high,"Transfer Trigeminal Nerve to Facial Nerve, Open Approach",10,1
+272,Future-proofed system-worthy secured line,medium,"Excision of Right Sternoclavicular Joint, Open Approach",10,2
+273,Pre-emptive multimedia function,medium,"Release Right Frontal Sinus, Percutaneous Approach",10,3
+274,Expanded intangible orchestration,high,"Supplement L Ant Tib Art with Synth Sub, Perc Approach",8,4
+275,Centralized needs-based flexibility,medium,"Drainage of Left Tarsal, Percutaneous Approach",19,5
+276,Self-enabling optimizing ability,medium,"Revision of Synthetic Substitute in Testis, Endo",7,6
+277,De-engineered client-driven function,medium,"Removal of Monitoring Device from Kidney, Perc Approach",1,7
+278,Synchronised contextually-based website,medium,"Release Right Pulmonary Vein, Percutaneous Approach",18,8
+279,Assimilated global service-desk,low,"Replace of L Verteb Vein with Autol Sub, Perc Endo Approach",4,9
+280,Decentralized real-time contingency,low,"Extirpate matter from 2 Cor Art, Bifurc, Perc Endo",15,10
+281,Horizontal fresh-thinking forecast,high,Beam Radiation of Liver using Neutron Capture,8,1
+282,Cloned analyzing complexity,low,"Drainage of Aortic Lymphatic, Open Approach, Diagnostic",11,2
+283,Organic bottom-line pricing structure,high,"Drainage of Hepatic Vein with Drainage Device, Perc Approach",11,3
+284,Mandatory optimal artificial intelligence,high,"Revise of Drain Dev in L Acromioclav Jt, Perc Endo Approach",18,4
+285,Optimized tangible internet solution,high,"Fusion C-thor Jt w Intbd Fus Dev, Ant Appr A Col, Perc Endo",2,5
+286,Total methodical artificial intelligence,low,"Remove Radioact Elem from Tracheobronc Tree, Perc",11,6
+287,Reactive full-range circuit,medium,"Inspection of Coccygeal Joint, Percutaneous Approach",9,7
+288,Seamless real-time help-desk,medium,"Revision of Nonaut Sub in L Acromioclav Jt, Perc Approach",12,8
+289,Centralized system-worthy artificial intelligence,high,"Drainage of Appendix, Endo, Diagn",15,9
+290,Sharable explicit neural-net,low,"Fluoroscopy Spinal Art w L Osm Contrast, Laser Intraop",2,10
+291,Progressive intangible matrix,high,"Extirpation of Matter from Face Art, Bifurc, Perc Approach",9,1
+292,Future-proofed 24/7 algorithm,high,"Release Left Internal Jugular Vein, Open Approach",3,2
+293,Multi-channelled user-facing solution,low,"Revision of Drain Dev in Chest Wall, Perc Endo Approach",5,3
+294,Implemented clear-thinking conglomeration,medium,"Extirpation of Matter from Phrenic Nerve, Open Approach",4,4
+295,Open-source neutral methodology,medium,"Drainage of Right Thyroid Artery, Perc Endo Approach, Diagn",15,5
+296,De-engineered optimizing superstructure,medium,"Removal of Drainage Device from Chest Wall, Extern Approach",4,6
+297,Grass-roots discrete challenge,low,"Division of Left Ovary, Percutaneous Endoscopic Approach",5,7
+298,Monitored well-modulated frame,high,"Insertion of Int Fix into L Pelvic Bone, Open Approach",19,8
+299,Polarised bandwidth-monitored model,low,Beam Radiation of Tongue using Photons <1 MeV,3,9
+300,Proactive client-driven archive,low,"Replace of L Subclav Vein with Synth Sub, Perc Endo Approach",18,10

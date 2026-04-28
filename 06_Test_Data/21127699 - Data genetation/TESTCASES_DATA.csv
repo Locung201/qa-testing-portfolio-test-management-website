@@ -1,0 +1,1001 @@
+moduleId,testPlantId,requirementID,name,description,type,priority,detail,createdAt,updatedAt,deletedAt
+1,1,1,TC088,Verify that the user can edit their shopping cart before proceeding to checkout,functional,medium,Detail 89 for Test Case A,3/29/2024,9/30/2023,7/19/2024
+2,2,2,TC099,Verify that the user can view the company's partnerships and collaborations,functional,medium,Detail 100 for Test Case A,7/2/2024,8/3/2024,5/29/2024
+3,3,3,TC075,Verify that the terms and conditions are easily accessible on the website,usability,medium,Detail 79 for Test Case A,1/30/2024,1/5/2024,6/9/2024
+4,4,4,TC044,Verify that the website has a FAQ section for common customer queries,functional,high,Detail 22 for Test Case A,7/25/2024,8/1/2024,6/23/2024
+5,5,5,TC075,Verify that the website has a section for customer success stories and case studies,non-functional,medium,Detail 69 for Test Case A,8/3/2024,8/18/2024,2/26/2024
+6,6,6,TC073,Verify that the user can update their account information successfully,non-functional,low,Detail 68 for Test Case A,11/2/2023,5/2/2024,8/13/2024
+7,7,7,TC087,Verify that the user can participate in customer feedback surveys and polls,performance,medium,Detail 60 for Test Case A,7/18/2024,6/27/2024,11/25/2023
+8,8,8,TC062,Verify that the website has a section for customer satisfaction surveys and feedback,performance,medium,Detail 30 for Test Case A,12/26/2023,6/8/2024,5/8/2024
+9,9,9,TC091,Verify that the user can opt-in for push notifications on their mobile device,functional,medium,Detail 38 for Test Case A,12/28/2023,12/4/2023,5/15/2024
+10,10,10,TC076,Verify that the website has a section for customer service hours and availability,usability,low,Detail 25 for Test Case A,1/14/2024,8/27/2023,10/26/2023
+11,11,11,TC011,Verify that the website has a clear returns and refunds policy for customers,non-functional,low,Detail 42 for Test Case A,11/22/2023,4/2/2024,3/2/2024
+12,12,12,TC070,Verify that the user can view the company's commitment to ethical sourcing and production,performance,high,Detail 92 for Test Case A,5/4/2024,1/31/2024,11/15/2023
+13,13,13,TC085,Verify that the user can participate in product beta testing and feedback sessions,non-functional,high,Detail 4 for Test Case A,6/16/2024,6/10/2024,4/28/2024
+14,14,14,TC052,Verify that the user can sign up for exclusive offers and promotions,non-functional,medium,Detail 21 for Test Case A,7/18/2024,10/23/2023,8/11/2024
+15,15,15,TC054,Verify that the website has a live chat feature for customer support,functional,high,Detail 1 for Test Case A,8/3/2024,1/8/2024,11/1/2023
+16,16,16,TC088,Verify that the website has a section for product registration and warranty claims,performance,low,Detail 63 for Test Case A,12/26/2023,1/1/2024,8/28/2023
+17,17,17,TC060,Verify that the website has a section for product specifications and technical details,performance,medium,Detail 44 for Test Case A,11/12/2023,7/28/2024,11/22/2023
+18,18,18,TC001,Verify that the website has a section for product registration and warranty claims,non-functional,medium,Detail 74 for Test Case A,4/16/2024,4/26/2024,2/10/2024
+19,19,19,TC060,Verify that the user receives a confirmation email after placing an order,functional,medium,Detail 53 for Test Case A,8/25/2023,8/16/2024,2/8/2024
+20,20,20,TC097,Verify that the user can view the company's commitment to quality and customer satisfaction,functional,high,Detail 35 for Test Case A,3/18/2024,9/4/2023,12/15/2023
+21,21,21,TC034,Verify that the user can participate in contests and giveaways for prizes,performance,low,Detail 91 for Test Case A,10/21/2023,12/19/2023,1/13/2024
+22,22,22,TC018,Verify that the website has a section for customer satisfaction surveys and feedback,performance,medium,Detail 50 for Test Case A,1/9/2024,6/17/2024,10/18/2023
+23,23,23,TC074,Verify that the website has a secure SSL certificate for data encryption,usability,low,Detail 8 for Test Case A,7/31/2024,3/7/2024,4/16/2024
+24,24,24,TC032,Verify that the social media links are working and directing users to the correct pages,functional,medium,Detail 28 for Test Case A,12/17/2023,6/25/2024,7/25/2024
+25,25,25,TC069,Verify that the website has a section for new arrivals and featured products,performance,high,Detail 36 for Test Case A,10/16/2023,5/21/2024,7/10/2024
+26,26,26,TC039,Verify that the website has a section for product specifications and technical details,non-functional,low,Detail 38 for Test Case A,3/23/2024,3/29/2024,5/26/2024
+27,27,27,TC048,Verify that the website has a section for product availability and stock updates,usability,medium,Detail 99 for Test Case A,7/12/2024,3/21/2024,12/11/2023
+28,28,28,TC100,Verify that the user can participate in product beta testing and feedback sessions,usability,low,Detail 79 for Test Case A,12/5/2023,1/11/2024,2/1/2024
+29,29,29,TC011,Verify that the checkout process is smooth and error-free,performance,medium,Detail 51 for Test Case A,8/6/2024,12/10/2023,7/3/2024
+30,30,30,TC033,Verify that the website has a section for product installation and setup guides,non-functional,high,Detail 70 for Test Case A,7/5/2024,2/25/2024,7/13/2024
+31,31,31,TC057,Verify that the website has a section for customer satisfaction surveys and feedback,functional,high,Detail 74 for Test Case A,1/6/2024,8/30/2023,10/9/2023
+32,32,32,TC035,Verify that the user can track their order status on the website,functional,low,Detail 26 for Test Case A,8/29/2023,7/10/2024,5/22/2024
+33,33,33,TC019,Verify that the website has a section for customer satisfaction surveys and feedback,functional,low,Detail 52 for Test Case A,7/26/2024,11/30/2023,2/6/2024
+34,34,34,TC068,Verify that the website has a secure payment gateway for transactions,performance,low,Detail 91 for Test Case A,4/25/2024,8/20/2024,12/29/2023
+35,35,35,TC039,Verify that the login button is displayed on the homepage,functional,medium,Detail 52 for Test Case A,3/19/2024,4/3/2024,11/12/2023
+36,36,36,TC029,Verify that the website has a section for customer satisfaction surveys and feedback,performance,medium,Detail 62 for Test Case A,10/31/2023,3/10/2024,10/23/2023
+37,37,37,TC039,Verify that the website has a section for product comparison and reviews,usability,low,Detail 81 for Test Case A,7/26/2024,7/20/2024,12/19/2023
+38,38,38,TC092,Verify that the user can share their wishlist with friends and family,usability,high,Detail 20 for Test Case A,12/21/2023,8/9/2024,11/30/2023
+39,39,39,TC092,Verify that the product categories are displayed accurately on the navigation menu,functional,low,Detail 65 for Test Case A,9/25/2023,3/1/2024,11/13/2023
+40,40,40,TC045,Verify that the website has a section for customer testimonials and success stories,performance,medium,Detail 20 for Test Case A,4/10/2024,11/22/2023,8/27/2023
+41,41,41,TC089,Verify that the website has a section for customer support resources and FAQs,non-functional,low,Detail 20 for Test Case A,5/20/2024,5/6/2024,12/10/2023
+42,42,42,TC078,Verify that the user can sign up for exclusive offers and promotions,non-functional,high,Detail 90 for Test Case A,7/27/2024,3/20/2024,4/4/2024
+43,43,43,TC004,Verify that the user can participate in customer feedback surveys and polls,non-functional,high,Detail 60 for Test Case A,2/16/2024,4/19/2024,5/17/2024
+44,44,44,TC041,Verify that the website has a section for industry news and updates,functional,high,Detail 10 for Test Case A,5/14/2024,12/29/2023,8/26/2023
+45,45,45,TC090,Verify that the website has a section for educational resources and guides,performance,low,Detail 30 for Test Case A,1/23/2024,7/25/2024,7/6/2024
+46,46,46,TC080,Verify that the website has a secure payment gateway for transactions,non-functional,medium,Detail 58 for Test Case A,6/28/2024,5/25/2024,3/6/2024
+47,47,47,TC097,Verify that the website has a section for customer testimonials and success stories,functional,high,Detail 2 for Test Case A,12/25/2023,5/27/2024,4/26/2024
+48,48,48,TC087,Verify that the website has a section for user-generated content and testimonials,non-functional,low,Detail 48 for Test Case A,3/19/2024,2/28/2024,9/3/2023
+49,49,49,TC073,Verify that the website has a section for customer loyalty rewards and benefits,functional,high,Detail 54 for Test Case A,10/6/2023,2/5/2024,3/5/2024
+50,50,50,TC100,Verify that the user can access their account from multiple devices,functional,high,Detail 41 for Test Case A,12/28/2023,3/10/2024,4/22/2024
+51,51,51,TC024,Verify that the user can save their payment information for faster checkout,performance,low,Detail 26 for Test Case A,12/16/2023,7/15/2024,8/30/2023
+52,52,52,TC057,Verify that the contact form sends inquiries to the customer support team,functional,high,Detail 39 for Test Case A,7/24/2024,12/2/2023,4/3/2024
+53,53,53,TC066,Verify that the user can participate in customer feedback surveys and polls,non-functional,high,Detail 3 for Test Case A,11/18/2023,4/15/2024,4/18/2024
+54,54,54,TC085,Verify that the website has a section for community forums and discussions,performance,medium,Detail 87 for Test Case A,5/18/2024,4/30/2024,8/18/2024
+55,55,55,TC003,Verify that the user can view the company's commitment to social responsibility,usability,low,Detail 19 for Test Case A,5/6/2024,3/30/2024,9/8/2023
+56,56,56,TC013,Verify that the user receives a confirmation email after placing an order,performance,medium,Detail 41 for Test Case A,7/18/2024,3/10/2024,5/1/2024
+57,57,57,TC096,Verify that the website has a section for customer testimonials and success stories,performance,high,Detail 66 for Test Case A,5/25/2024,11/11/2023,10/31/2023
+58,58,58,TC096,Verify that the website has a section for product care instructions and maintenance,performance,low,Detail 61 for Test Case A,9/10/2023,2/19/2024,4/9/2024
+59,59,59,TC049,Verify that the website has a section for new arrivals and featured products,functional,medium,Detail 70 for Test Case A,11/26/2023,6/23/2024,3/3/2024
+60,60,60,TC070,Verify that the user can change the language settings on the website,functional,low,Detail 63 for Test Case A,8/25/2023,10/11/2023,5/19/2024
+61,61,61,TC056,Verify that the user can view the company's commitment to sustainability and environmental stewardship,performance,high,Detail 23 for Test Case A,4/19/2024,1/28/2024,5/16/2024
+62,62,62,TC055,Verify that the user can view the shipping options and delivery times,performance,high,Detail 46 for Test Case A,5/4/2024,4/25/2024,6/26/2024
+63,63,63,TC091,Verify that the discount code is applied correctly at checkout,usability,high,Detail 6 for Test Case A,7/18/2024,6/3/2024,2/8/2024
+64,64,64,TC037,Verify that the website has a section for product specifications and technical details,performance,low,Detail 78 for Test Case A,8/31/2023,12/14/2023,6/23/2024
+65,65,65,TC082,Verify that the social media links are working and directing users to the correct pages,performance,low,Detail 98 for Test Case A,1/11/2024,1/11/2024,5/5/2024
+66,66,66,TC068,Verify that the user can view the company's commitment to quality and customer satisfaction,functional,medium,Detail 87 for Test Case A,11/9/2023,11/6/2023,3/4/2024
+67,67,67,TC067,Verify that the user can update their account information successfully,performance,medium,Detail 84 for Test Case A,11/23/2023,7/7/2024,12/6/2023
+68,68,68,TC074,Verify that the user can view the size guide for clothing and apparel,usability,low,Detail 78 for Test Case A,7/11/2024,1/1/2024,12/29/2023
+69,69,69,TC022,Verify that the login button is displayed on the homepage,usability,high,Detail 63 for Test Case A,6/27/2024,10/3/2023,5/24/2024
+70,70,70,TC063,Verify that the website has a section for product recommendations and personalized suggestions,performance,low,Detail 77 for Test Case A,3/17/2024,7/4/2024,9/27/2023
+71,71,71,TC079,Verify that the website has a section for customer testimonials and success stories,non-functional,high,Detail 27 for Test Case A,1/9/2024,8/30/2023,7/4/2024
+72,72,72,TC058,Verify that the user can participate in surveys and polls for feedback,usability,low,Detail 9 for Test Case A,6/9/2024,8/16/2024,5/1/2024
+73,73,73,TC032,Verify that the website has a section for product registration and warranty claims,functional,low,Detail 74 for Test Case A,7/5/2024,9/1/2023,3/20/2024
+74,74,74,TC096,Verify that the user can participate in product beta testing and feedback sessions,usability,high,Detail 99 for Test Case A,9/28/2023,6/18/2024,8/15/2024
+75,75,75,TC067,Verify that the user can access the website's privacy policy and data protection measures,usability,low,Detail 20 for Test Case A,9/19/2023,9/27/2023,1/23/2024
+76,76,76,TC095,Verify that the user can edit their shopping cart before proceeding to checkout,functional,low,Detail 20 for Test Case A,9/10/2023,4/12/2024,8/18/2024
+77,77,77,TC038,Verify that the user can view the company's social responsibility initiatives,usability,low,Detail 23 for Test Case A,7/18/2024,1/20/2024,7/30/2024
+78,78,78,TC052,Verify that the user can view the company's commitment to quality and customer satisfaction,usability,high,Detail 98 for Test Case A,1/23/2024,11/5/2023,8/10/2024
+79,79,79,TC064,Verify that the website has a live chat feature for customer support,non-functional,low,Detail 51 for Test Case A,6/19/2024,3/31/2024,4/19/2024
+80,80,80,TC044,Verify that the website has a section for customer service hours and availability,functional,low,Detail 13 for Test Case A,12/12/2023,6/10/2024,6/20/2024
+81,81,81,TC061,Verify that the user can save their payment information for faster checkout,performance,medium,Detail 57 for Test Case A,3/17/2024,12/6/2023,2/7/2024
+82,82,82,TC084,Verify that the user can sign up for product launch notifications and updates,usability,medium,Detail 77 for Test Case A,4/30/2024,9/8/2023,2/28/2024
+83,83,83,TC081,Verify that the website loads quickly and efficiently for users,functional,low,Detail 1 for Test Case A,7/25/2024,11/9/2023,12/15/2023
+84,84,84,TC089,Verify that the user can share their wishlist with friends and family,functional,medium,Detail 71 for Test Case A,5/21/2024,7/11/2024,1/31/2024
+85,85,85,TC041,Verify that the website has a section for product comparison and reviews,performance,low,Detail 54 for Test Case A,11/7/2023,9/16/2023,3/4/2024
+86,86,86,TC032,Verify that the website has a section for customer support resources and FAQs,non-functional,high,Detail 23 for Test Case A,3/14/2024,1/17/2024,4/29/2024
+87,87,87,TC025,Verify that the contact form sends inquiries to the customer support team,usability,low,Detail 75 for Test Case A,7/28/2024,9/4/2023,12/3/2023
+88,88,88,TC054,Verify that the website has a section for product specifications and technical details,performance,medium,Detail 74 for Test Case A,4/3/2024,4/21/2024,5/27/2024
+89,89,89,TC047,Verify that the product categories are displayed accurately on the navigation menu,non-functional,low,Detail 42 for Test Case A,6/16/2024,3/18/2024,9/13/2023
+90,90,90,TC083,Verify that the website has a section for customer support contact information,functional,medium,Detail 47 for Test Case A,4/20/2024,2/27/2024,8/8/2024
+91,91,91,TC029,Verify that the website has a section for customer testimonials and reviews,usability,medium,Detail 61 for Test Case A,5/11/2024,8/29/2023,6/20/2024
+92,92,92,TC016,Verify that the website has a section for product recommendations and personalized suggestions,usability,low,Detail 13 for Test Case A,8/5/2024,11/21/2023,8/26/2023
+93,93,93,TC046,Verify that the user can leave a review for a product after making a purchase,performance,low,Detail 24 for Test Case A,12/1/2023,10/21/2023,12/2/2023
+94,94,94,TC083,Verify that the user can access the website's community guidelines and code of conduct,performance,medium,Detail 91 for Test Case A,8/31/2023,7/15/2024,10/25/2023
+95,95,95,TC026,Verify that the product images are displayed correctly on the product page,usability,high,Detail 88 for Test Case A,3/24/2024,1/21/2024,11/11/2023
+96,96,96,TC085,Verify that the user can sign up for exclusive offers and promotions,usability,low,Detail 2 for Test Case A,12/19/2023,6/26/2024,4/22/2024
+97,97,97,TC070,Verify that the user can access the website's community guidelines and code of conduct,usability,low,Detail 60 for Test Case A,7/15/2024,5/16/2024,8/20/2024
+98,98,98,TC006,Verify that the website has a section for customer support resources and FAQs,performance,high,Detail 34 for Test Case A,10/13/2023,8/26/2023,8/10/2024
+99,99,99,TC003,Verify that the website has a section for customer testimonials and reviews,performance,medium,Detail 81 for Test Case A,3/31/2024,6/25/2024,12/25/2023
+100,100,100,TC008,Verify that the website has a section for product warranties and guarantees,non-functional,low,Detail 70 for Test Case A,5/13/2024,2/5/2024,2/11/2024
+101,101,101,TC035,Verify that the user can access the website's cookie policy and data tracking practices,non-functional,high,Detail 3 for Test Case A,5/14/2024,2/19/2024,1/4/2024
+102,102,102,TC022,Verify that the website has a section for new arrivals and featured products,functional,high,Detail 62 for Test Case A,11/7/2023,2/3/2024,10/24/2023
+103,103,103,TC027,Verify that the user can update their account information successfully,performance,low,Detail 62 for Test Case A,3/11/2024,8/2/2024,5/18/2024
+104,104,104,TC008,Verify that the website has a clear returns and refunds policy for customers,performance,medium,Detail 47 for Test Case A,6/25/2024,5/21/2024,4/10/2024
+105,105,105,TC070,Verify that the website has a section for product specifications and technical details,functional,low,Detail 18 for Test Case A,12/9/2023,5/10/2024,2/22/2024
+106,106,106,TC058,Verify that the website has a section for career opportunities and job listings,performance,high,Detail 35 for Test Case A,11/2/2023,10/31/2023,8/19/2024
+107,107,107,TC001,Verify that the user can opt-in for push notifications on their mobile device,usability,medium,Detail 73 for Test Case A,6/3/2024,11/29/2023,5/12/2024
+108,108,108,TC018,Verify that the website has a section for career opportunities and job listings,usability,high,Detail 67 for Test Case A,4/11/2024,8/21/2024,11/25/2023
+109,109,109,TC036,Verify that the user can view the shipping options and delivery times,performance,low,Detail 27 for Test Case A,9/30/2023,7/4/2024,4/5/2024
+110,110,110,TC010,Verify that the website has a section for product recommendations and personalized suggestions,functional,high,Detail 31 for Test Case A,4/25/2024,5/22/2024,9/23/2023
+111,111,111,TC029,Verify that the user can contact customer support through multiple channels,usability,medium,Detail 41 for Test Case A,1/9/2024,4/3/2024,6/14/2024
+112,112,112,TC009,Verify that the website has a section for product registration and warranty claims,performance,high,Detail 51 for Test Case A,3/17/2024,10/8/2023,1/6/2024
+113,113,113,TC071,Verify that the user can create a wishlist of products to purchase later,performance,medium,Detail 10 for Test Case A,1/16/2024,2/9/2024,7/19/2024
+114,114,114,TC050,Verify that the user can participate in customer feedback surveys and polls,performance,medium,Detail 50 for Test Case A,4/21/2024,10/3/2023,10/9/2023
+115,115,115,TC097,Verify that the website has a section for customer satisfaction surveys and feedback,non-functional,medium,Detail 73 for Test Case A,6/9/2024,11/15/2023,3/15/2024
+116,116,116,TC062,Verify that the website has a section for industry awards and recognition,non-functional,low,Detail 34 for Test Case A,9/13/2023,5/3/2024,1/27/2024
+117,117,117,TC088,Verify that the website has a section for product comparison and reviews,non-functional,medium,Detail 3 for Test Case A,2/14/2024,2/1/2024,3/20/2024
+118,118,118,TC055,Verify that the user can view recommended products based on their browsing history,functional,medium,Detail 7 for Test Case A,6/16/2024,5/11/2024,3/15/2024
+119,119,119,TC094,Verify that the user can view the company's commitment to quality and customer satisfaction,non-functional,high,Detail 83 for Test Case A,10/22/2023,9/11/2023,12/8/2023
+120,120,120,TC075,Verify that the user can leave a review for a product after making a purchase,functional,low,Detail 76 for Test Case A,6/2/2024,9/9/2023,8/13/2024
+121,121,121,TC086,Verify that the website has a section for product registration and warranty claims,performance,high,Detail 93 for Test Case A,2/18/2024,8/7/2024,6/10/2024
+122,122,122,TC008,Verify that the user can view the company's mission and values,non-functional,high,Detail 9 for Test Case A,6/7/2024,10/13/2023,8/18/2024
+123,123,123,TC072,Verify that the website has a section for customer service hours and availability,usability,low,Detail 7 for Test Case A,8/8/2024,2/28/2024,9/4/2023
+124,124,124,TC092,Verify that the user can save their payment information for faster checkout,functional,high,Detail 93 for Test Case A,3/28/2024,9/26/2023,4/24/2024
+125,125,125,TC087,Verify that the website has a secure login system for user accounts,functional,low,Detail 8 for Test Case A,12/24/2023,3/10/2024,1/14/2024
+126,126,126,TC005,Verify that the user can access the website's terms of service and legal agreements,non-functional,high,Detail 51 for Test Case A,3/31/2024,8/29/2023,2/20/2024
+127,127,127,TC089,Verify that the user can create a wishlist of products to purchase later,non-functional,low,Detail 60 for Test Case A,9/22/2023,5/24/2024,1/15/2024
+128,128,128,TC083,Verify that the website has a section for customer testimonials and success stories,non-functional,low,Detail 56 for Test Case A,9/22/2023,7/5/2024,3/22/2024
+129,129,129,TC073,Verify that the user can view the company's sustainability and environmental initiatives,performance,high,Detail 86 for Test Case A,2/16/2024,8/3/2024,7/21/2024
+130,130,130,TC061,Verify that the user can access the website's cookie policy and data tracking practices,usability,low,Detail 64 for Test Case A,1/3/2024,8/16/2024,9/22/2023
+131,131,131,TC021,Verify that the user can contact customer support through multiple channels,performance,medium,Detail 10 for Test Case A,6/23/2024,6/19/2024,5/30/2024
+132,132,132,TC014,Verify that the user can sign up for email newsletters and updates,non-functional,low,Detail 5 for Test Case A,1/2/2024,7/25/2024,4/22/2024
+133,133,133,TC056,Verify that the user can track their order status on the website,performance,medium,Detail 96 for Test Case A,6/14/2024,10/25/2023,12/26/2023
+134,134,134,TC023,Verify that the website has a section for customer service contact information,non-functional,medium,Detail 48 for Test Case A,5/4/2024,11/28/2023,8/24/2023
+135,135,135,TC070,Verify that the website loads quickly and efficiently for users,non-functional,high,Detail 66 for Test Case A,9/8/2023,12/30/2023,12/27/2023
+136,136,136,TC027,Verify that the website has a section for product specifications and technical details,functional,medium,Detail 45 for Test Case A,10/16/2023,12/6/2023,4/24/2024
+137,137,137,TC075,Verify that the user can sign up for exclusive offers and promotions,performance,medium,Detail 46 for Test Case A,9/22/2023,10/31/2023,12/11/2023
+138,138,138,TC015,Verify that the website has a section for product availability and stock updates,usability,high,Detail 89 for Test Case A,2/4/2024,5/22/2024,7/27/2024
+139,139,139,TC019,Verify that the user can view the company's commitment to quality and customer satisfaction,performance,low,Detail 68 for Test Case A,2/27/2024,8/9/2024,3/17/2024
+140,140,140,TC003,Verify that the user can sign up for email newsletters and updates,performance,medium,Detail 38 for Test Case A,10/16/2023,1/8/2024,2/1/2024
+141,141,141,TC016,Verify that the website is responsive on different devices,usability,high,Detail 57 for Test Case A,11/7/2023,5/26/2024,8/23/2024
+142,142,142,TC092,Verify that the website has a section for customer service hours and availability,functional,low,Detail 38 for Test Case A,6/16/2024,8/14/2024,1/29/2024
+143,143,143,TC034,Verify that the website has a section for customer feedback and testimonials,functional,medium,Detail 34 for Test Case A,2/13/2024,12/25/2023,10/22/2023
+144,144,144,TC024,Verify that the website has a section for customer satisfaction surveys and feedback,non-functional,medium,Detail 54 for Test Case A,8/14/2024,7/14/2024,2/20/2024
+145,145,145,TC005,Verify that the user can update their account information successfully,non-functional,medium,Detail 51 for Test Case A,7/14/2024,1/22/2024,8/18/2024
+146,146,146,TC080,Verify that the website has a section for product specifications and technical details,performance,high,Detail 62 for Test Case A,5/1/2024,2/9/2024,6/21/2024
+147,147,147,TC056,Verify that the website has a secure payment gateway for transactions,non-functional,medium,Detail 35 for Test Case A,8/22/2024,1/3/2024,12/9/2023
+148,148,148,TC065,Verify that the user can save their payment information for faster checkout,functional,low,Detail 84 for Test Case A,8/2/2024,2/11/2024,3/10/2024
+149,149,149,TC084,Verify that the website has a secure payment gateway for transactions,non-functional,low,Detail 51 for Test Case A,4/12/2024,12/10/2023,7/30/2024
+150,150,150,TC031,Verify that the website has a section for customer satisfaction surveys and feedback,non-functional,medium,Detail 43 for Test Case A,3/22/2024,1/21/2024,1/16/2024
+151,151,151,TC100,Verify that the website has a section for product specifications and technical details,performance,high,Detail 45 for Test Case A,1/12/2024,11/26/2023,4/12/2024
+152,152,152,TC064,Verify that the user can sign up for email newsletters and updates,usability,high,Detail 23 for Test Case A,2/15/2024,5/11/2024,4/24/2024
+153,153,153,TC093,Verify that the user can view their order history on their account page,usability,high,Detail 18 for Test Case A,4/11/2024,11/22/2023,8/27/2023
+154,154,154,TC078,Verify that the user can participate in product beta testing and feedback sessions,usability,high,Detail 18 for Test Case A,4/23/2024,9/1/2023,7/27/2024
+155,155,155,TC089,Verify that the user can access the website's data privacy and security measures,usability,medium,Detail 34 for Test Case A,2/25/2024,3/16/2024,10/10/2023
+156,156,156,TC063,Verify that the login button is displayed on the homepage,performance,high,Detail 100 for Test Case A,12/26/2023,9/20/2023,2/23/2024
+157,157,157,TC100,Verify that the user can successfully add an item to the shopping cart,non-functional,high,Detail 100 for Test Case A,10/4/2023,1/29/2024,5/20/2024
+158,158,158,TC023,Verify that the user can leave a review for a product after making a purchase,non-functional,high,Detail 48 for Test Case A,2/16/2024,7/21/2024,9/26/2023
+159,159,159,TC001,Verify that the website has a section for community forums and discussions,non-functional,low,Detail 29 for Test Case A,4/23/2024,2/18/2024,12/1/2023
+160,160,160,TC045,Verify that the user can access the website's cookie policy and data tracking practices,functional,high,Detail 69 for Test Case A,1/18/2024,10/28/2023,8/13/2024
+161,161,161,TC008,Verify that the user can view the company's commitment to quality and customer satisfaction,usability,high,Detail 30 for Test Case A,2/6/2024,2/26/2024,11/22/2023
+162,162,162,TC046,Verify that the user can sign up for email newsletters and updates,performance,high,Detail 53 for Test Case A,5/11/2024,8/27/2023,12/14/2023
+163,163,163,TC030,Verify that the user can participate in surveys and polls for feedback,functional,low,Detail 92 for Test Case A,12/17/2023,2/20/2024,7/28/2024
+164,164,164,TC017,Verify that the website has a section for customer support contact information,functional,high,Detail 20 for Test Case A,10/18/2023,11/12/2023,6/26/2024
+165,165,165,TC050,Verify that the product categories are displayed accurately on the navigation menu,non-functional,medium,Detail 77 for Test Case A,8/14/2024,4/24/2024,11/12/2023
+166,166,166,TC074,Verify that the website has a section for upcoming events and promotions,functional,medium,Detail 21 for Test Case A,4/1/2024,6/11/2024,10/22/2023
+167,167,167,TC066,Verify that the user can sign up for exclusive offers and promotions,non-functional,low,Detail 38 for Test Case A,1/4/2024,1/16/2024,7/18/2024
+168,168,168,TC067,Verify that the website has a section for customer testimonials and success stories,performance,high,Detail 63 for Test Case A,8/29/2023,2/24/2024,4/2/2024
+169,169,169,TC039,Verify that the user can view the company's social responsibility initiatives,functional,low,Detail 87 for Test Case A,2/21/2024,1/25/2024,12/5/2023
+170,170,170,TC047,Verify that the user can access the website's cookie policy and data tracking practices,non-functional,medium,Detail 34 for Test Case A,1/1/2024,4/12/2024,1/25/2024
+171,171,171,TC074,Verify that the user can access the website's terms of service and legal agreements,non-functional,high,Detail 42 for Test Case A,11/13/2023,12/25/2023,1/23/2024
+172,172,172,TC030,Verify that the user can sign up for a newsletter subscription,functional,medium,Detail 86 for Test Case A,10/31/2023,6/12/2024,3/12/2024
+173,173,173,TC003,Verify that the user can edit their shopping cart before proceeding to checkout,performance,high,Detail 86 for Test Case A,4/8/2024,8/21/2024,12/31/2023
+174,174,174,TC017,Verify that the user can access their account from multiple devices,functional,low,Detail 27 for Test Case A,1/4/2024,11/28/2023,8/11/2024
+175,175,175,TC071,Verify that the user can update their account information successfully,non-functional,high,Detail 2 for Test Case A,9/12/2023,5/13/2024,7/8/2024
+176,176,176,TC089,Verify that the user can participate in product beta testing and feedback sessions,usability,low,Detail 77 for Test Case A,2/3/2024,7/25/2024,3/22/2024
+177,177,177,TC099,Verify that the user can access the website's terms of service and legal agreements,functional,low,Detail 45 for Test Case A,9/11/2023,7/4/2024,11/20/2023
+178,178,178,TC060,Verify that the product categories are displayed accurately on the navigation menu,non-functional,high,Detail 9 for Test Case A,10/5/2023,12/23/2023,12/12/2023
+179,179,179,TC082,Verify that the user can create a personalized account profile,non-functional,high,Detail 56 for Test Case A,6/8/2024,3/30/2024,5/19/2024
+180,180,180,TC031,Verify that the user can view the company's mission and values,usability,low,Detail 69 for Test Case A,10/1/2023,10/3/2023,7/7/2024
+181,181,181,TC019,Verify that the user can create a wishlist of products to purchase later,functional,medium,Detail 94 for Test Case A,4/18/2024,4/11/2024,9/13/2023
+182,182,182,TC064,Verify that the user can participate in customer feedback surveys and polls,functional,medium,Detail 78 for Test Case A,11/12/2023,12/25/2023,4/28/2024
+183,183,183,TC090,Verify that the user can participate in product beta testing and feedback sessions,usability,medium,Detail 1 for Test Case A,9/14/2023,1/1/2024,10/20/2023
+184,184,184,TC001,Verify that the website has a secure login system for user accounts,performance,low,Detail 58 for Test Case A,3/10/2024,2/21/2024,8/22/2024
+185,185,185,TC078,Verify that the website has a section for customer success stories and case studies,performance,high,Detail 45 for Test Case A,2/16/2024,12/29/2023,8/3/2024
+186,186,186,TC064,Verify that the terms and conditions are easily accessible on the website,performance,high,Detail 51 for Test Case A,11/2/2023,7/4/2024,8/20/2024
+187,187,187,TC061,Verify that the user can access the website's terms of service and legal agreements,performance,medium,Detail 64 for Test Case A,11/10/2023,10/26/2023,5/30/2024
+188,188,188,TC077,Verify that the website has a section for customer testimonials and success stories,non-functional,high,Detail 69 for Test Case A,10/7/2023,10/23/2023,12/29/2023
+189,189,189,TC053,Verify that the website loads quickly and efficiently for users,non-functional,low,Detail 75 for Test Case A,8/19/2024,10/9/2023,7/5/2024
+190,190,190,TC017,Verify that the website has a live chat feature for customer support,functional,high,Detail 72 for Test Case A,6/28/2024,3/7/2024,10/7/2023
+191,191,191,TC047,Verify that the website has a section for product warranties and guarantees,non-functional,medium,Detail 5 for Test Case A,4/28/2024,2/19/2024,4/15/2024
+192,192,192,TC088,Verify that the website has a clear returns and refunds policy for customers,performance,medium,Detail 75 for Test Case A,2/19/2024,7/27/2024,9/13/2023
+193,193,193,TC042,Verify that the website has a section for industry news and updates,non-functional,low,Detail 77 for Test Case A,2/23/2024,5/20/2024,11/17/2023
+194,194,194,TC057,Verify that the user can view the company's commitment to quality and customer satisfaction,functional,medium,Detail 8 for Test Case A,10/20/2023,11/6/2023,2/14/2024
+195,195,195,TC046,Verify that the user can participate in product beta testing and feedback sessions,usability,medium,Detail 93 for Test Case A,5/16/2024,1/4/2024,7/15/2024
+196,196,196,TC060,Verify that the user can access the website's community guidelines and code of conduct,functional,medium,Detail 15 for Test Case A,8/27/2023,3/8/2024,9/6/2023
+197,197,197,TC032,Verify that the user can update their account information successfully,non-functional,high,Detail 58 for Test Case A,1/4/2024,5/26/2024,4/16/2024
+198,198,198,TC045,Verify that the user can access the website's data privacy and security measures,performance,medium,Detail 9 for Test Case A,5/21/2024,7/2/2024,3/17/2024
+199,199,199,TC020,Verify that the user can view the company's history and milestones,usability,low,Detail 3 for Test Case A,9/17/2023,3/28/2024,7/28/2024
+200,200,200,TC075,Verify that the website has a section for community forums and discussions,performance,high,Detail 85 for Test Case A,8/20/2024,9/22/2023,2/21/2024
+201,201,201,TC002,Verify that the user can view the company's commitment to ethical sourcing and production,non-functional,high,Detail 71 for Test Case A,11/13/2023,8/20/2024,6/10/2024
+202,202,202,TC016,Verify that the user can access the website's community guidelines and code of conduct,usability,low,Detail 54 for Test Case A,6/21/2024,9/8/2023,5/23/2024
+203,203,203,TC039,Verify that the website has a section for customer support contact information,performance,high,Detail 79 for Test Case A,11/11/2023,12/28/2023,4/9/2024
+204,204,204,TC047,Verify that the website has a user-friendly interface for easy navigation,usability,high,Detail 57 for Test Case A,4/9/2024,7/16/2024,2/8/2024
+205,205,205,TC054,Verify that the user can access the website's data privacy and security measures,performance,medium,Detail 12 for Test Case A,9/24/2023,4/22/2024,4/25/2024
+206,206,206,TC069,Verify that the website has a section for product comparison and reviews,non-functional,low,Detail 41 for Test Case A,3/23/2024,10/29/2023,9/24/2023
+207,207,207,TC008,Verify that the user can view product ratings and reviews from other customers,usability,low,Detail 87 for Test Case A,9/2/2023,4/20/2024,5/2/2024
+208,208,208,TC048,Verify that the website loads quickly and efficiently for users,functional,medium,Detail 2 for Test Case A,4/21/2024,5/22/2024,9/12/2023
+209,209,209,TC087,Verify that the user can access the website's community guidelines and code of conduct,functional,medium,Detail 96 for Test Case A,3/31/2024,12/1/2023,1/10/2024
+210,210,210,TC029,Verify that the user can view the company's commitment to sustainability and environmental stewardship,usability,high,Detail 48 for Test Case A,7/6/2024,3/20/2024,5/16/2024
+211,211,211,TC037,Verify that the user can access the website's terms of use and legal agreements,functional,high,Detail 83 for Test Case A,7/1/2024,4/18/2024,7/11/2024
+212,212,212,TC080,Verify that the product categories are displayed accurately on the navigation menu,functional,high,Detail 84 for Test Case A,10/14/2023,5/26/2024,11/11/2023
+213,213,213,TC047,Verify that the user can view the company's commitment to ethical sourcing and production,usability,low,Detail 65 for Test Case A,11/16/2023,6/12/2024,9/24/2023
+214,214,214,TC003,Verify that the website has a section for career opportunities and job listings,usability,high,Detail 83 for Test Case A,3/18/2024,8/19/2024,1/27/2024
+215,215,215,TC050,Verify that the website has a section for gift cards and vouchers,non-functional,low,Detail 19 for Test Case A,10/30/2023,12/18/2023,8/6/2024
+216,216,216,TC028,Verify that the website has a section for product availability and stock updates,functional,medium,Detail 89 for Test Case A,3/23/2024,10/27/2023,12/18/2023
+217,217,217,TC089,Verify that the user can access the website's community guidelines and code of conduct,usability,medium,Detail 61 for Test Case A,10/22/2023,4/28/2024,7/4/2024
+218,218,218,TC096,Verify that the website has a section for product care instructions and maintenance,usability,high,Detail 23 for Test Case A,12/23/2023,11/26/2023,8/30/2023
+219,219,219,TC066,Verify that the website has a section for product specifications and technical details,non-functional,high,Detail 73 for Test Case A,4/3/2024,2/21/2024,8/12/2024
+220,220,220,TC024,Verify that the user can share their wishlist with friends and family,performance,medium,Detail 63 for Test Case A,1/6/2024,11/15/2023,7/4/2024
+221,221,221,TC036,Verify that the user can view the company's leadership team and key personnel,non-functional,low,Detail 85 for Test Case A,7/31/2024,12/24/2023,4/15/2024
+222,222,222,TC077,Verify that the user can participate in contests and giveaways for prizes,non-functional,low,Detail 98 for Test Case A,8/6/2024,2/12/2024,1/23/2024
+223,223,223,TC085,Verify that the website has a section for product warranties and guarantees,functional,low,Detail 22 for Test Case A,9/5/2023,4/23/2024,8/29/2023
+224,224,224,TC092,Verify that the user can participate in customer feedback surveys and polls,non-functional,high,Detail 4 for Test Case A,9/27/2023,10/18/2023,5/17/2024
+225,225,225,TC077,Verify that the user can sign up for email newsletters and updates,functional,low,Detail 28 for Test Case A,4/17/2024,11/19/2023,7/14/2024
+226,226,226,TC073,Verify that the user can sign up for exclusive offers and promotions,non-functional,low,Detail 40 for Test Case A,2/27/2024,2/22/2024,5/4/2024
+227,227,227,TC032,Verify that the user can share products on social media platforms,usability,low,Detail 36 for Test Case A,4/15/2024,4/1/2024,7/9/2024
+228,228,228,TC037,Verify that the website has a section for product availability and stock updates,performance,low,Detail 38 for Test Case A,6/27/2024,6/25/2024,3/8/2024
+229,229,229,TC001,Verify that the website has a clear returns and refunds policy for customers,usability,low,Detail 23 for Test Case A,7/9/2024,2/12/2024,9/6/2023
+230,230,230,TC066,Verify that the website has a section for customer service hours and availability,non-functional,medium,Detail 35 for Test Case A,12/3/2023,11/6/2023,8/13/2024
+231,231,231,TC013,Verify that the website has a section for product warranties and guarantees,non-functional,high,Detail 67 for Test Case A,4/8/2024,9/9/2023,1/14/2024
+232,232,232,TC036,Verify that the website has a clear returns and refunds policy for customers,usability,medium,Detail 18 for Test Case A,2/29/2024,11/15/2023,3/17/2024
+233,233,233,TC046,Verify that the user can access the website's community guidelines and code of conduct,functional,low,Detail 55 for Test Case A,2/29/2024,10/18/2023,2/11/2024
+234,234,234,TC056,Verify that the website has a section for customer testimonials and success stories,functional,low,Detail 29 for Test Case A,8/9/2024,11/20/2023,3/5/2024
+235,235,235,TC075,Verify that the user can access the website's terms of use and legal agreements,functional,low,Detail 64 for Test Case A,8/9/2024,2/7/2024,7/21/2024
+236,236,236,TC062,Verify that the website has a clear returns and refunds policy for customers,performance,low,Detail 11 for Test Case A,11/20/2023,12/22/2023,4/26/2024
+237,237,237,TC081,Verify that the user can view the company's commitment to diversity and inclusion,functional,medium,Detail 37 for Test Case A,12/17/2023,10/23/2023,9/25/2023
+238,238,238,TC077,Verify that the user can view the company's commitment to ethical sourcing and production,non-functional,medium,Detail 73 for Test Case A,12/22/2023,1/28/2024,1/29/2024
+239,239,239,TC014,Verify that the website has a section for customer testimonials and success stories,performance,high,Detail 72 for Test Case A,9/6/2023,11/28/2023,9/12/2023
+240,240,240,TC077,Verify that the user can view the shipping options and delivery times,usability,medium,Detail 39 for Test Case A,2/25/2024,8/30/2023,8/13/2024
+241,241,241,TC065,Verify that the user can edit their shopping cart before proceeding to checkout,performance,high,Detail 14 for Test Case A,10/23/2023,12/7/2023,3/8/2024
+242,242,242,TC090,Verify that the website has a secure payment gateway for transactions,non-functional,medium,Detail 54 for Test Case A,2/15/2024,9/30/2023,4/27/2024
+243,243,243,TC036,Verify that the user can view the company's history and milestones,functional,high,Detail 51 for Test Case A,10/3/2023,2/20/2024,10/8/2023
+244,244,244,TC100,Verify that the search functionality returns relevant results,non-functional,high,Detail 39 for Test Case A,8/3/2024,11/20/2023,11/8/2023
+245,245,245,TC046,Verify that the website has a blog section with informative articles,non-functional,high,Detail 21 for Test Case A,4/4/2024,9/18/2023,10/24/2023
+246,246,246,TC078,Verify that the website has a section for customer feedback and testimonials,usability,high,Detail 34 for Test Case A,6/20/2024,8/25/2023,4/10/2024
+247,247,247,TC013,Verify that the website has a section for product recommendations and personalized suggestions,functional,high,Detail 78 for Test Case A,12/2/2023,8/10/2024,2/13/2024
+248,248,248,TC020,Verify that the user can sign up for a newsletter subscription,usability,high,Detail 10 for Test Case A,11/2/2023,7/6/2024,5/7/2024
+249,249,249,TC097,Verify that the website has a secure payment gateway for transactions,usability,low,Detail 86 for Test Case A,10/21/2023,3/4/2024,11/7/2023
+250,250,250,TC048,Verify that the discount code is applied correctly at checkout,non-functional,medium,Detail 6 for Test Case A,8/10/2024,6/7/2024,2/14/2024
+251,251,251,TC015,Verify that the user can participate in customer feedback surveys and polls,non-functional,low,Detail 22 for Test Case A,2/2/2024,6/6/2024,1/30/2024
+252,252,252,TC067,Verify that the user can sign up for exclusive offers and promotions,usability,high,Detail 53 for Test Case A,2/13/2024,8/11/2024,7/5/2024
+253,253,253,TC066,Verify that the user can sign up for email newsletters and updates,performance,high,Detail 28 for Test Case A,10/20/2023,1/27/2024,11/12/2023
+254,254,254,TC048,Verify that the website has a clear returns and refunds policy for customers,usability,low,Detail 12 for Test Case A,10/31/2023,9/15/2023,5/4/2024
+255,255,255,TC001,Verify that the user can sign up for email newsletters and updates,performance,low,Detail 14 for Test Case A,12/12/2023,6/2/2024,9/12/2023
+256,256,256,TC088,Verify that the website has a section for upcoming events and promotions,usability,medium,Detail 54 for Test Case A,1/11/2024,1/4/2024,12/15/2023
+257,257,257,TC094,Verify that the user can opt-in for push notifications on their mobile device,non-functional,medium,Detail 95 for Test Case A,3/27/2024,2/6/2024,1/2/2024
+258,258,258,TC023,Verify that the website has a section for customer service contact information,performance,high,Detail 65 for Test Case A,5/25/2024,8/22/2024,2/12/2024
+259,259,259,TC017,Verify that the user can view the company's partnerships and collaborations,non-functional,low,Detail 8 for Test Case A,8/6/2024,9/1/2023,12/9/2023
+260,260,260,TC041,Verify that the user can view the company's commitment to sustainability and environmental stewardship,usability,low,Detail 3 for Test Case A,12/11/2023,5/5/2024,3/16/2024
+261,261,261,TC090,Verify that the user can view the company's commitment to social responsibility,non-functional,low,Detail 29 for Test Case A,7/17/2024,8/27/2023,9/3/2023
+262,262,262,TC035,Verify that the website has a section for community forums and discussions,non-functional,low,Detail 98 for Test Case A,12/21/2023,4/20/2024,5/30/2024
+263,263,263,TC035,Verify that the website has a section for product availability and stock updates,functional,high,Detail 41 for Test Case A,12/3/2023,8/29/2023,6/26/2024
+264,264,264,TC013,Verify that the website has a section for customer service hours and availability,non-functional,low,Detail 80 for Test Case A,6/8/2024,7/1/2024,1/24/2024
+265,265,265,TC094,Verify that the user can sign up for exclusive offers and promotions,non-functional,low,Detail 29 for Test Case A,10/4/2023,12/7/2023,3/31/2024
+266,266,266,TC061,Verify that the website has a section for customer feedback and testimonials,non-functional,low,Detail 40 for Test Case A,8/30/2023,10/23/2023,5/15/2024
+267,267,267,TC008,Verify that the user can provide feedback and suggestions for improvement,non-functional,high,Detail 99 for Test Case A,12/14/2023,2/8/2024,1/13/2024
+268,268,268,TC088,Verify that the website has a section for product registration and warranty claims,usability,medium,Detail 79 for Test Case A,10/14/2023,11/17/2023,11/10/2023
+269,269,269,TC012,Verify that the user can participate in customer feedback surveys and polls,performance,high,Detail 92 for Test Case A,8/8/2024,6/7/2024,12/14/2023
+270,270,270,TC035,Verify that the website has a section for product maintenance and care instructions,usability,low,Detail 58 for Test Case A,10/19/2023,2/25/2024,1/1/2024
+271,271,271,TC028,Verify that the website has a section for customer testimonials and success stories,usability,medium,Detail 64 for Test Case A,3/20/2024,4/19/2024,8/4/2024
+272,272,272,TC014,Verify that the user can save their payment information for faster checkout,functional,high,Detail 26 for Test Case A,4/4/2024,2/5/2024,12/4/2023
+273,273,273,TC025,Verify that the social media links are working and directing users to the correct pages,performance,high,Detail 66 for Test Case A,11/30/2023,5/12/2024,3/25/2024
+274,274,274,TC027,Verify that the user can access the website's data privacy and security measures,usability,medium,Detail 45 for Test Case A,11/29/2023,1/4/2024,11/30/2023
+275,275,275,TC010,Verify that the user can view the shipping options and delivery times,usability,medium,Detail 93 for Test Case A,2/16/2024,1/27/2024,11/2/2023
+276,276,276,TC095,Verify that the website has a section for customer testimonials and success stories,non-functional,low,Detail 67 for Test Case A,11/22/2023,6/17/2024,9/17/2023
+277,277,277,TC027,Verify that the user can view the company's commitment to sustainability and environmental stewardship,non-functional,medium,Detail 80 for Test Case A,9/3/2023,1/21/2024,3/3/2024
+278,278,278,TC066,Verify that the website has a section for product maintenance and care instructions,functional,medium,Detail 80 for Test Case A,2/16/2024,1/19/2024,10/29/2023
+279,279,279,TC042,Verify that the website has a section for customer service hours and availability,usability,low,Detail 5 for Test Case A,4/1/2024,1/18/2024,8/21/2024
+280,280,280,TC032,Verify that the website has a section for product warranties and guarantees,functional,low,Detail 44 for Test Case A,5/26/2024,1/15/2024,10/18/2023
+281,281,281,TC092,Verify that the website is responsive on different devices,functional,high,Detail 46 for Test Case A,10/4/2023,1/25/2024,4/20/2024
+282,282,282,TC083,Verify that the website has a section for customer feedback and testimonials,performance,high,Detail 82 for Test Case A,4/1/2024,5/26/2024,7/7/2024
+283,283,283,TC097,Verify that the user receives a confirmation email after placing an order,non-functional,high,Detail 85 for Test Case A,5/10/2024,7/26/2024,8/13/2024
+284,284,284,TC002,Verify that the search functionality returns relevant results,performance,high,Detail 72 for Test Case A,12/11/2023,3/18/2024,8/4/2024
+285,285,285,TC037,Verify that the website has a section for customer testimonials and success stories,usability,high,Detail 77 for Test Case A,6/18/2024,9/14/2023,4/9/2024
+286,286,286,TC088,Verify that the user can sign up for product launch notifications and updates,performance,low,Detail 15 for Test Case A,11/11/2023,5/12/2024,8/21/2024
+287,287,287,TC086,Verify that the user can sign up for email newsletters and updates,performance,low,Detail 51 for Test Case A,3/30/2024,3/10/2024,10/30/2023
+288,288,288,TC034,Verify that the user can view the company's commitment to social responsibility,functional,medium,Detail 11 for Test Case A,12/12/2023,3/21/2024,12/11/2023
+289,289,289,TC096,Verify that the user can sign up for email newsletters and updates,performance,low,Detail 98 for Test Case A,12/30/2023,2/23/2024,4/23/2024
+290,290,290,TC071,Verify that the website has a section for product installation and setup guides,functional,medium,Detail 27 for Test Case A,9/3/2023,12/27/2023,10/16/2023
+291,291,291,TC066,Verify that the user can edit their shopping cart before proceeding to checkout,usability,medium,Detail 26 for Test Case A,12/23/2023,10/26/2023,9/10/2023
+292,292,292,TC035,Verify that the user can access the website's terms of use and legal agreements,functional,high,Detail 94 for Test Case A,2/25/2024,6/3/2024,6/8/2024
+293,293,293,TC057,Verify that the user can view the company's partnerships and collaborations,non-functional,high,Detail 9 for Test Case A,5/16/2024,4/28/2024,7/2/2024
+294,294,294,TC037,Verify that the user can participate in customer feedback surveys and polls,performance,high,Detail 27 for Test Case A,8/5/2024,10/1/2023,12/4/2023
+295,295,295,TC007,Verify that the user can sign up for exclusive offers and promotions,performance,high,Detail 43 for Test Case A,11/6/2023,10/27/2023,12/30/2023
+296,296,296,TC005,Verify that the user can sign up for email newsletters and updates,performance,low,Detail 19 for Test Case A,11/2/2023,12/22/2023,11/17/2023
+297,297,297,TC058,Verify that the website has a live chat feature for customer support,non-functional,high,Detail 88 for Test Case A,12/21/2023,9/23/2023,9/20/2023
+298,298,298,TC050,Verify that the website has a section for seasonal promotions and discounts,usability,low,Detail 76 for Test Case A,5/30/2024,7/5/2024,1/11/2024
+299,299,299,TC041,Verify that the user can view the shipping options and delivery times,usability,medium,Detail 55 for Test Case A,9/13/2023,4/4/2024,10/12/2023
+300,300,300,TC038,Verify that the user can sign up for email newsletters and updates,functional,low,Detail 5 for Test Case A,12/23/2023,1/29/2024,7/13/2024
+301,301,301,TC085,Verify that the user can contact customer support through multiple channels,usability,medium,Detail 74 for Test Case A,1/17/2024,5/23/2024,6/19/2024
+302,302,302,TC003,Verify that the login button is displayed on the homepage,usability,high,Detail 35 for Test Case A,8/21/2024,4/14/2024,5/31/2024
+303,303,303,TC086,Verify that the terms and conditions are easily accessible on the website,performance,medium,Detail 55 for Test Case A,1/4/2024,11/11/2023,2/26/2024
+304,304,304,TC034,Verify that the user can edit their shopping cart before proceeding to checkout,usability,low,Detail 89 for Test Case A,1/25/2024,12/7/2023,4/1/2024
+305,305,305,TC091,Verify that the product categories are displayed accurately on the navigation menu,non-functional,low,Detail 47 for Test Case A,1/18/2024,6/24/2024,10/6/2023
+306,306,306,TC071,Verify that the website has a section for customer testimonials and success stories,performance,medium,Detail 89 for Test Case A,2/13/2024,6/18/2024,7/3/2024
+307,307,307,TC089,Verify that the website has a section for customer success stories and case studies,non-functional,medium,Detail 24 for Test Case A,11/19/2023,11/9/2023,7/11/2024
+308,308,308,TC060,Verify that the user can sign up for exclusive offers and promotions,usability,medium,Detail 60 for Test Case A,5/15/2024,1/7/2024,9/13/2023
+309,309,309,TC080,Verify that the website has a section for product installation and setup guides,non-functional,high,Detail 62 for Test Case A,9/21/2023,3/2/2024,7/19/2024
+310,310,310,TC057,Verify that the user can sign up for a newsletter subscription,non-functional,medium,Detail 85 for Test Case A,10/22/2023,10/14/2023,10/25/2023
+311,311,311,TC012,Verify that the user can access the website's data privacy and security measures,performance,low,Detail 84 for Test Case A,3/21/2024,5/7/2024,11/9/2023
+312,312,312,TC095,Verify that the user can track their order status on the website,functional,low,Detail 41 for Test Case A,12/5/2023,8/28/2023,11/14/2023
+313,313,313,TC061,Verify that the user can view the company's commitment to ethical sourcing and production,functional,medium,Detail 64 for Test Case A,8/5/2024,6/3/2024,10/9/2023
+314,314,314,TC024,Verify that the user can create a personalized account profile,performance,medium,Detail 8 for Test Case A,9/17/2023,6/24/2024,8/12/2024
+315,315,315,TC037,Verify that the user can sign up for exclusive offers and promotions,performance,medium,Detail 51 for Test Case A,5/14/2024,2/13/2024,3/1/2024
+316,316,316,TC078,Verify that the website has a section for industry awards and recognition,non-functional,medium,Detail 100 for Test Case A,11/26/2023,6/29/2024,6/3/2024
+317,317,317,TC069,Verify that the user can opt-in for push notifications on their mobile device,non-functional,medium,Detail 94 for Test Case A,10/1/2023,12/5/2023,3/22/2024
+318,318,318,TC071,Verify that the search functionality returns relevant results,functional,low,Detail 83 for Test Case A,6/3/2024,10/14/2023,4/3/2024
+319,319,319,TC079,Verify that the user can access the website's privacy policy and data protection measures,non-functional,high,Detail 65 for Test Case A,12/23/2023,8/25/2023,11/5/2023
+320,320,320,TC100,Verify that the user can save their payment information for faster checkout,performance,high,Detail 38 for Test Case A,6/11/2024,7/30/2024,5/30/2024
+321,321,321,TC046,Verify that the website has a section for product registration and warranty claims,non-functional,low,Detail 85 for Test Case A,11/7/2023,11/22/2023,6/14/2024
+322,322,322,TC036,Verify that the website has a section for customer satisfaction surveys and feedback,performance,high,Detail 13 for Test Case A,5/28/2024,8/9/2024,1/19/2024
+323,323,323,TC037,Verify that the user can view the company's commitment to ethical sourcing and production,functional,high,Detail 71 for Test Case A,3/11/2024,10/5/2023,5/8/2024
+324,324,324,TC077,Verify that the user can view the company's commitment to ethical sourcing and production,performance,high,Detail 84 for Test Case A,8/28/2023,3/13/2024,6/14/2024
+325,325,325,TC045,Verify that the user can view recommended products based on their browsing history,usability,low,Detail 29 for Test Case A,7/13/2024,10/12/2023,10/13/2023
+326,326,326,TC046,Verify that the user can view the company's commitment to quality and customer satisfaction,non-functional,low,Detail 88 for Test Case A,3/9/2024,8/27/2023,2/8/2024
+327,327,327,TC052,Verify that the social media links are working and directing users to the correct pages,usability,low,Detail 67 for Test Case A,10/12/2023,8/7/2024,11/13/2023
+328,328,328,TC038,Verify that the website has a section for customer testimonials and reviews,usability,low,Detail 17 for Test Case A,12/13/2023,5/9/2024,10/30/2023
+329,329,329,TC045,Verify that the user can view the company's commitment to social responsibility,performance,medium,Detail 43 for Test Case A,6/20/2024,10/27/2023,12/28/2023
+330,330,330,TC034,Verify that the website is responsive on different devices,functional,low,Detail 94 for Test Case A,1/4/2024,9/30/2023,10/4/2023
+331,331,331,TC025,Verify that the user can sign up for a newsletter subscription,performance,low,Detail 24 for Test Case A,1/4/2024,11/11/2023,2/7/2024
+332,332,332,TC020,Verify that the user can sign up for a newsletter subscription,performance,low,Detail 78 for Test Case A,8/1/2024,12/12/2023,5/21/2024
+333,333,333,TC097,Verify that the user can sign up for exclusive offers and promotions,usability,high,Detail 11 for Test Case A,1/30/2024,6/15/2024,12/15/2023
+334,334,334,TC054,Verify that the user can sign up for product launch notifications and updates,usability,high,Detail 81 for Test Case A,6/20/2024,12/19/2023,3/7/2024
+335,335,335,TC068,Verify that the website has a section for gift cards and vouchers,usability,low,Detail 43 for Test Case A,5/21/2024,2/13/2024,3/15/2024
+336,336,336,TC006,Verify that the website has a section for customer service hours and availability,non-functional,high,Detail 15 for Test Case A,8/5/2024,9/14/2023,3/7/2024
+337,337,337,TC045,Verify that the user can access the website's data privacy and security measures,non-functional,medium,Detail 40 for Test Case A,12/8/2023,9/11/2023,11/29/2023
+338,338,338,TC002,Verify that the user can sign up for email newsletters and updates,usability,low,Detail 3 for Test Case A,8/3/2024,1/15/2024,4/1/2024
+339,339,339,TC029,Verify that the user can filter search results by price range,functional,high,Detail 39 for Test Case A,7/6/2024,7/17/2024,4/21/2024
+340,340,340,TC010,Verify that the user can sign up for email newsletters and updates,performance,medium,Detail 14 for Test Case A,5/7/2024,5/30/2024,3/15/2024
+341,341,341,TC017,Verify that the user can view the company's commitment to sustainability and environmental stewardship,performance,high,Detail 55 for Test Case A,4/27/2024,10/22/2023,3/4/2024
+342,342,342,TC053,Verify that the website has a section for product specifications and technical details,performance,low,Detail 25 for Test Case A,7/27/2024,7/9/2024,3/9/2024
+343,343,343,TC001,Verify that the search functionality returns relevant results,functional,low,Detail 20 for Test Case A,3/30/2024,10/31/2023,7/21/2024
+344,344,344,TC061,Verify that the user can access the website's data privacy and security measures,non-functional,low,Detail 17 for Test Case A,7/10/2024,11/8/2023,11/3/2023
+345,345,345,TC070,Verify that the terms and conditions are easily accessible on the website,non-functional,low,Detail 57 for Test Case A,3/8/2024,3/9/2024,9/7/2023
+346,346,346,TC065,Verify that the website has a section for product registration and warranty claims,functional,high,Detail 34 for Test Case A,9/14/2023,4/12/2024,2/12/2024
+347,347,347,TC098,Verify that the user can share products on social media platforms,performance,high,Detail 25 for Test Case A,11/6/2023,9/3/2023,5/24/2024
+348,348,348,TC050,Verify that the user can view the company's commitment to social responsibility,functional,low,Detail 58 for Test Case A,9/3/2023,11/28/2023,5/28/2024
+349,349,349,TC098,Verify that the website has a section for industry awards and recognition,functional,medium,Detail 68 for Test Case A,6/24/2024,5/22/2024,10/24/2023
+350,350,350,TC011,Verify that the website has a clear returns and refunds policy for customers,usability,medium,Detail 9 for Test Case A,11/12/2023,12/16/2023,10/27/2023
+351,351,351,TC026,Verify that the website has a section for product registration and warranty claims,non-functional,medium,Detail 16 for Test Case A,7/1/2024,1/1/2024,4/2/2024
+352,352,352,TC049,Verify that the website has a section for product availability and stock updates,non-functional,high,Detail 66 for Test Case A,6/18/2024,11/15/2023,9/18/2023
+353,353,353,TC004,Verify that the user can access the website's terms of use and legal agreements,performance,low,Detail 80 for Test Case A,2/23/2024,10/12/2023,9/4/2023
+354,354,354,TC086,Verify that the user can provide feedback and suggestions for improvement,non-functional,high,Detail 75 for Test Case A,5/2/2024,11/22/2023,3/20/2024
+355,355,355,TC090,Verify that the user can view the company's commitment to social responsibility,usability,low,Detail 78 for Test Case A,1/12/2024,9/27/2023,10/25/2023
+356,356,356,TC002,Verify that the user can contact customer support through multiple channels,functional,high,Detail 80 for Test Case A,12/4/2023,2/6/2024,7/14/2024
+357,357,357,TC069,Verify that the website has a section for customer loyalty rewards and benefits,usability,low,Detail 70 for Test Case A,2/26/2024,9/24/2023,11/22/2023
+358,358,358,TC099,Verify that the user can create a wishlist of products to purchase later,usability,low,Detail 46 for Test Case A,7/6/2024,12/8/2023,3/16/2024
+359,359,359,TC082,Verify that the website has a section for customer satisfaction surveys and feedback,functional,low,Detail 10 for Test Case A,6/7/2024,6/14/2024,4/17/2024
+360,360,360,TC008,Verify that the website has a section for customer support contact information,functional,high,Detail 87 for Test Case A,7/12/2024,12/21/2023,11/2/2023
+361,361,361,TC023,Verify that the terms and conditions are easily accessible on the website,non-functional,medium,Detail 2 for Test Case A,9/23/2023,4/9/2024,3/5/2024
+362,362,362,TC041,Verify that the user can leave a review for a product after making a purchase,performance,high,Detail 62 for Test Case A,5/14/2024,1/20/2024,1/5/2024
+363,363,363,TC004,Verify that the product images are displayed correctly on the product page,functional,low,Detail 85 for Test Case A,11/16/2023,9/16/2023,9/19/2023
+364,364,364,TC064,Verify that the website has a section for customer testimonials and reviews,functional,medium,Detail 89 for Test Case A,10/14/2023,10/10/2023,11/7/2023
+365,365,365,TC085,Verify that the user can view the company's commitment to sustainability and environmental stewardship,usability,low,Detail 26 for Test Case A,12/23/2023,5/5/2024,4/14/2024
+366,366,366,TC084,Verify that the website has a section for product installation and setup guides,usability,high,Detail 27 for Test Case A,4/13/2024,5/10/2024,8/19/2024
+367,367,367,TC052,Verify that the website has a section for product installation and setup guides,usability,high,Detail 53 for Test Case A,12/27/2023,1/23/2024,7/4/2024
+368,368,368,TC043,Verify that the website has a section for product installation and setup guides,non-functional,high,Detail 29 for Test Case A,2/23/2024,9/14/2023,2/4/2024
+369,369,369,TC072,Verify that the user can access their account from multiple devices,non-functional,medium,Detail 15 for Test Case A,10/18/2023,3/1/2024,4/12/2024
+370,370,370,TC096,Verify that the website has a section for community forums and discussions,functional,medium,Detail 91 for Test Case A,6/29/2024,11/9/2023,6/29/2024
+371,371,371,TC044,Verify that the user can view the size guide for clothing and apparel,functional,low,Detail 34 for Test Case A,4/2/2024,11/30/2023,2/15/2024
+372,372,372,TC044,Verify that the website has a section for industry awards and recognition,usability,medium,Detail 18 for Test Case A,4/7/2024,10/23/2023,6/29/2024
+373,373,373,TC051,Verify that the website has a section for product care instructions and maintenance,non-functional,low,Detail 18 for Test Case A,8/30/2023,5/2/2024,5/15/2024
+374,374,374,TC098,Verify that the user can participate in customer feedback surveys and polls,functional,low,Detail 39 for Test Case A,3/23/2024,9/12/2023,4/17/2024
+375,375,375,TC080,Verify that the website has a section for customer feedback and testimonials,non-functional,high,Detail 57 for Test Case A,3/4/2024,8/5/2024,1/8/2024
+376,376,376,TC009,Verify that the user can sign up for exclusive offers and promotions,usability,medium,Detail 51 for Test Case A,7/27/2024,7/5/2024,12/5/2023
+377,377,377,TC069,Verify that the user can view the company's commitment to ethical sourcing and production,non-functional,low,Detail 37 for Test Case A,3/20/2024,11/3/2023,9/22/2023
+378,378,378,TC054,Verify that the website has a section for customer support contact information,performance,high,Detail 50 for Test Case A,7/6/2024,11/15/2023,1/5/2024
+379,379,379,TC006,Verify that the website has a section for product comparison and reviews,performance,high,Detail 7 for Test Case A,11/1/2023,4/5/2024,2/11/2024
+380,380,380,TC022,Verify that the login button is displayed on the homepage,functional,high,Detail 50 for Test Case A,4/2/2024,10/8/2023,8/16/2024
+381,381,381,TC080,Verify that the website has a section for customer feedback and testimonials,functional,medium,Detail 61 for Test Case A,12/21/2023,11/23/2023,4/24/2024
+382,382,382,TC072,Verify that the website has a section for customer testimonials and reviews,usability,low,Detail 60 for Test Case A,3/9/2024,1/20/2024,2/4/2024
+383,383,383,TC083,Verify that the website has a section for product registration and warranty claims,functional,low,Detail 55 for Test Case A,3/3/2024,2/16/2024,6/27/2024
+384,384,384,TC093,Verify that the user can participate in surveys and polls for feedback,usability,high,Detail 13 for Test Case A,7/8/2024,8/6/2024,9/3/2023
+385,385,385,TC005,Verify that the user can participate in product beta testing and feedback sessions,functional,medium,Detail 18 for Test Case A,4/3/2024,11/17/2023,10/15/2023
+386,386,386,TC097,Verify that the user can view the size guide for clothing and apparel,performance,high,Detail 27 for Test Case A,5/26/2024,3/31/2024,7/27/2024
+387,387,387,TC075,Verify that the user can view the company's commitment to quality and customer satisfaction,functional,high,Detail 17 for Test Case A,8/27/2023,12/19/2023,7/9/2024
+388,388,388,TC027,Verify that the user can change the language settings on the website,non-functional,low,Detail 28 for Test Case A,9/13/2023,2/8/2024,6/28/2024
+389,389,389,TC003,Verify that the user can update their account information successfully,performance,high,Detail 100 for Test Case A,12/3/2023,1/24/2024,5/24/2024
+390,390,390,TC041,Verify that the website has a secure login system for user accounts,usability,high,Detail 53 for Test Case A,1/24/2024,2/15/2024,7/27/2024
+391,391,391,TC002,Verify that the user can access the website's community guidelines and code of conduct,performance,medium,Detail 33 for Test Case A,1/26/2024,10/1/2023,1/15/2024
+392,392,392,TC004,Verify that the user can participate in customer feedback surveys and polls,usability,low,Detail 1 for Test Case A,3/1/2024,2/23/2024,5/7/2024
+393,393,393,TC015,Verify that the website has a section for customer satisfaction surveys and feedback,performance,low,Detail 39 for Test Case A,11/2/2023,12/12/2023,8/2/2024
+394,394,394,TC004,Verify that the website has a section for press releases and media coverage,usability,high,Detail 35 for Test Case A,11/10/2023,6/6/2024,8/26/2023
+395,395,395,TC008,Verify that the website has a section for product availability and stock updates,functional,high,Detail 17 for Test Case A,10/7/2023,7/19/2024,7/25/2024
+396,396,396,TC038,Verify that the user can create a wishlist of products to purchase later,functional,high,Detail 98 for Test Case A,2/27/2024,4/30/2024,12/21/2023
+397,397,397,TC073,Verify that the user can save their payment information for faster checkout,functional,high,Detail 30 for Test Case A,11/13/2023,9/23/2023,8/23/2024
+398,398,398,TC065,Verify that the website has a section for product availability and stock updates,performance,low,Detail 68 for Test Case A,4/19/2024,12/9/2023,2/22/2024
+399,399,399,TC086,Verify that the website has a section for upcoming events and promotions,non-functional,medium,Detail 72 for Test Case A,3/19/2024,9/24/2023,1/20/2024
+400,400,400,TC085,Verify that the product images are displayed correctly on the product page,performance,medium,Detail 91 for Test Case A,7/26/2024,4/3/2024,3/17/2024
+401,401,401,TC055,Verify that the website has a section for customer satisfaction surveys and feedback,functional,medium,Detail 90 for Test Case A,9/17/2023,5/26/2024,11/27/2023
+402,402,402,TC040,Verify that the user can view the company's commitment to social responsibility,non-functional,low,Detail 100 for Test Case A,5/23/2024,9/8/2023,6/11/2024
+403,403,403,TC042,Verify that the user can access the website's cookie policy and data tracking practices,usability,high,Detail 33 for Test Case A,11/9/2023,11/10/2023,6/1/2024
+404,404,404,TC046,Verify that the website has a section for product warranties and guarantees,usability,medium,Detail 8 for Test Case A,2/9/2024,1/23/2024,6/26/2024
+405,405,405,TC018,Verify that the user can view the company's sustainability and environmental initiatives,non-functional,low,Detail 79 for Test Case A,1/17/2024,6/24/2024,2/29/2024
+406,406,406,TC025,Verify that the website loads quickly and efficiently for users,non-functional,medium,Detail 56 for Test Case A,6/29/2024,2/8/2024,3/11/2024
+407,407,407,TC069,Verify that the user can save their payment information for faster checkout,non-functional,high,Detail 78 for Test Case A,9/19/2023,4/20/2024,5/19/2024
+408,408,408,TC040,Verify that the website has a section for community forums and discussions,non-functional,high,Detail 20 for Test Case A,2/1/2024,10/23/2023,4/27/2024
+409,409,409,TC059,Verify that the website has a section for career opportunities and job listings,non-functional,high,Detail 27 for Test Case A,10/27/2023,9/4/2023,11/1/2023
+410,410,410,TC015,Verify that the user can view their order history on their account page,performance,medium,Detail 41 for Test Case A,4/25/2024,5/9/2024,11/28/2023
+411,411,411,TC092,Verify that the website has a section for user-generated content and testimonials,non-functional,high,Detail 15 for Test Case A,1/9/2024,3/5/2024,9/25/2023
+412,412,412,TC061,Verify that the product images are displayed correctly on the product page,functional,medium,Detail 21 for Test Case A,7/5/2024,9/9/2023,10/23/2023
+413,413,413,TC079,Verify that the user can view product ratings and reviews from other customers,performance,medium,Detail 64 for Test Case A,3/29/2024,8/3/2024,5/22/2024
+414,414,414,TC070,Verify that the user can sign up for exclusive offers and promotions,usability,high,Detail 74 for Test Case A,11/26/2023,3/6/2024,1/1/2024
+415,415,415,TC037,Verify that the website has a section for product availability and stock updates,non-functional,high,Detail 18 for Test Case A,1/14/2024,1/29/2024,12/26/2023
+416,416,416,TC001,Verify that the user can view the company's commitment to ethical sourcing and production,usability,low,Detail 12 for Test Case A,1/31/2024,7/12/2024,10/11/2023
+417,417,417,TC046,Verify that the user can sign up for product launch notifications and updates,performance,medium,Detail 48 for Test Case A,10/13/2023,5/10/2024,4/17/2024
+418,418,418,TC059,Verify that the website has a section for customer testimonials and success stories,usability,low,Detail 11 for Test Case A,10/27/2023,4/20/2024,4/29/2024
+419,419,419,TC029,Verify that the user can sign up for exclusive offers and promotions,usability,high,Detail 66 for Test Case A,5/2/2024,9/3/2023,10/20/2023
+420,420,420,TC100,Verify that the user can view the company's commitment to ethical sourcing and production,usability,high,Detail 6 for Test Case A,11/29/2023,6/12/2024,8/31/2023
+421,421,421,TC092,Verify that the user can participate in contests and giveaways for prizes,functional,low,Detail 88 for Test Case A,12/21/2023,9/25/2023,10/20/2023
+422,422,422,TC084,Verify that the website has a section for product maintenance and care instructions,non-functional,medium,Detail 82 for Test Case A,4/10/2024,8/9/2024,7/20/2024
+423,423,423,TC096,Verify that the user can sign up for product launch notifications and updates,non-functional,low,Detail 46 for Test Case A,7/27/2024,10/21/2023,10/26/2023
+424,424,424,TC064,Verify that the user can sign up for email newsletters and updates,usability,medium,Detail 25 for Test Case A,9/2/2023,3/25/2024,3/19/2024
+425,425,425,TC051,Verify that the website has a loyalty program for returning customers,non-functional,medium,Detail 32 for Test Case A,12/13/2023,2/1/2024,9/5/2023
+426,426,426,TC001,Verify that the user can access the website's cookie policy and data tracking practices,usability,high,Detail 74 for Test Case A,12/31/2023,3/24/2024,11/8/2023
+427,427,427,TC075,Verify that the user can access the website's data privacy and security measures,functional,low,Detail 35 for Test Case A,3/30/2024,10/13/2023,12/4/2023
+428,428,428,TC077,Verify that the user can view the company's commitment to ethical sourcing and production,usability,low,Detail 32 for Test Case A,9/6/2023,8/12/2024,12/21/2023
+429,429,429,TC030,Verify that the user can view their order history on their account page,non-functional,medium,Detail 8 for Test Case A,8/13/2024,5/11/2024,3/28/2024
+430,430,430,TC048,Verify that the user can access the website's community guidelines and code of conduct,usability,low,Detail 8 for Test Case A,9/11/2023,9/2/2023,11/5/2023
+431,431,431,TC029,Verify that the user can view their order history on their account page,performance,high,Detail 32 for Test Case A,12/16/2023,7/21/2024,11/5/2023
+432,432,432,TC013,Verify that the user can view the company's history and milestones,usability,high,Detail 40 for Test Case A,7/11/2024,3/29/2024,3/25/2024
+433,433,433,TC057,Verify that the user can participate in product beta testing and feedback sessions,usability,low,Detail 64 for Test Case A,3/14/2024,2/22/2024,9/17/2023
+434,434,434,TC034,Verify that the user can share products on social media platforms,usability,low,Detail 8 for Test Case A,10/16/2023,12/23/2023,11/24/2023
+435,435,435,TC034,Verify that the user can access the website's privacy policy and data protection measures,non-functional,high,Detail 63 for Test Case A,8/29/2023,5/17/2024,11/23/2023
+436,436,436,TC006,Verify that the website has a section for customer service hours and availability,non-functional,low,Detail 68 for Test Case A,4/12/2024,4/5/2024,1/20/2024
+437,437,437,TC071,Verify that the terms and conditions are easily accessible on the website,non-functional,low,Detail 73 for Test Case A,3/25/2024,10/31/2023,8/11/2024
+438,438,438,TC069,Verify that the user can view their order history on their account page,usability,medium,Detail 35 for Test Case A,8/5/2024,4/7/2024,12/3/2023
+439,439,439,TC093,Verify that the website has a section for customer support contact information,usability,high,Detail 79 for Test Case A,3/1/2024,12/28/2023,6/8/2024
+440,440,440,TC012,Verify that the website has a section for gift cards and vouchers,performance,high,Detail 59 for Test Case A,7/21/2024,9/8/2023,5/18/2024
+441,441,441,TC065,Verify that the website has a section for customer satisfaction surveys and feedback,usability,medium,Detail 90 for Test Case A,5/27/2024,6/23/2024,5/16/2024
+442,442,442,TC072,Verify that the website has a section for customer service hours and availability,performance,medium,Detail 45 for Test Case A,5/28/2024,7/10/2024,11/29/2023
+443,443,443,TC041,Verify that the user can view the company's leadership team and key personnel,functional,low,Detail 45 for Test Case A,2/14/2024,7/8/2024,9/17/2023
+444,444,444,TC072,Verify that the user can sign up for exclusive offers and promotions,non-functional,low,Detail 90 for Test Case A,5/14/2024,2/10/2024,4/13/2024
+445,445,445,TC010,Verify that the product images are displayed correctly on the product page,usability,high,Detail 84 for Test Case A,9/18/2023,8/2/2024,9/25/2023
+446,446,446,TC070,Verify that the user can access the website's community guidelines and code of conduct,performance,low,Detail 49 for Test Case A,7/17/2024,2/29/2024,12/7/2023
+447,447,447,TC049,Verify that the website has a section for press releases and media coverage,performance,medium,Detail 69 for Test Case A,12/18/2023,6/15/2024,10/16/2023
+448,448,448,TC065,Verify that the website has a section for customer support contact information,functional,medium,Detail 60 for Test Case A,9/18/2023,5/1/2024,10/13/2023
+449,449,449,TC084,Verify that the website has a blog section with informative articles,non-functional,low,Detail 57 for Test Case A,8/14/2024,9/4/2023,8/31/2023
+450,450,450,TC047,Verify that the website has a section for customer testimonials and success stories,functional,low,Detail 97 for Test Case A,8/25/2023,12/5/2023,11/24/2023
+451,451,451,TC064,Verify that the website has a live chat feature for customer support,performance,medium,Detail 83 for Test Case A,4/11/2024,4/14/2024,3/25/2024
+452,452,452,TC055,Verify that the product descriptions are accurate and informative,usability,medium,Detail 27 for Test Case A,3/3/2024,11/18/2023,11/2/2023
+453,453,453,TC080,Verify that the user can filter search results by price range,performance,medium,Detail 54 for Test Case A,6/11/2024,10/4/2023,2/27/2024
+454,454,454,TC058,Verify that the website is responsive on different devices,usability,high,Detail 81 for Test Case A,7/29/2024,1/6/2024,8/3/2024
+455,455,455,TC043,Verify that the website has a section for product maintenance and care instructions,usability,low,Detail 37 for Test Case A,3/30/2024,5/20/2024,9/9/2023
+456,456,456,TC079,Verify that the user can contact customer support through multiple channels,usability,low,Detail 40 for Test Case A,12/17/2023,12/15/2023,4/7/2024
+457,457,457,TC075,Verify that the website has a section for product installation and setup guides,performance,medium,Detail 3 for Test Case A,3/21/2024,5/9/2024,5/28/2024
+458,458,458,TC040,Verify that the user can access the website's community guidelines and code of conduct,non-functional,medium,Detail 51 for Test Case A,9/6/2023,6/8/2024,8/27/2023
+459,459,459,TC077,Verify that the login button is displayed on the homepage,usability,medium,Detail 97 for Test Case A,7/18/2024,9/19/2023,6/23/2024
+460,460,460,TC087,Verify that the user can view the company's history and milestones,functional,medium,Detail 88 for Test Case A,2/2/2024,11/23/2023,5/11/2024
+461,461,461,TC006,Verify that the website has a section for customer testimonials and success stories,non-functional,medium,Detail 18 for Test Case A,6/15/2024,9/25/2023,11/20/2023
+462,462,462,TC035,Verify that the user can sign up for a newsletter subscription,functional,high,Detail 47 for Test Case A,8/30/2023,3/9/2024,6/9/2024
+463,463,463,TC005,Verify that the website has a section for product specifications and technical details,functional,high,Detail 68 for Test Case A,7/7/2024,12/18/2023,6/11/2024
+464,464,464,TC097,Verify that the user can access the website's terms of use and legal agreements,functional,medium,Detail 12 for Test Case A,3/29/2024,10/4/2023,11/25/2023
+465,465,465,TC052,Verify that the website has a section for product warranties and guarantees,non-functional,low,Detail 4 for Test Case A,6/20/2024,2/11/2024,11/7/2023
+466,466,466,TC098,Verify that the discount code is applied correctly at checkout,usability,high,Detail 48 for Test Case A,4/3/2024,2/16/2024,4/28/2024
+467,467,467,TC077,Verify that the user can contact customer support through multiple channels,functional,medium,Detail 32 for Test Case A,10/6/2023,10/16/2023,9/27/2023
+468,468,468,TC069,Verify that the website has a section for industry news and updates,usability,low,Detail 28 for Test Case A,11/14/2023,5/14/2024,3/15/2024
+469,469,469,TC055,Verify that the user can participate in customer feedback surveys and polls,performance,high,Detail 66 for Test Case A,1/8/2024,6/1/2024,8/17/2024
+470,470,470,TC065,Verify that the website has a live chat feature for customer support,non-functional,high,Detail 30 for Test Case A,3/13/2024,2/14/2024,12/25/2023
+471,471,471,TC071,Verify that the website has a section for product availability and stock updates,performance,high,Detail 58 for Test Case A,11/24/2023,7/2/2024,6/14/2024
+472,472,472,TC096,Verify that the contact form sends inquiries to the customer support team,functional,low,Detail 78 for Test Case A,5/19/2024,10/29/2023,12/4/2023
+473,473,473,TC052,Verify that the user can sign up for exclusive offers and promotions,usability,medium,Detail 14 for Test Case A,1/26/2024,5/28/2024,8/15/2024
+474,474,474,TC056,Verify that the website has a secure payment gateway for transactions,usability,high,Detail 86 for Test Case A,3/12/2024,11/17/2023,10/28/2023
+475,475,475,TC100,Verify that the user can sign up for a newsletter subscription,performance,high,Detail 82 for Test Case A,4/15/2024,5/23/2024,7/17/2024
+476,476,476,TC033,Verify that the website has a section for product comparison and reviews,functional,high,Detail 86 for Test Case A,1/21/2024,10/31/2023,5/30/2024
+477,477,477,TC066,Verify that the user can view recommended products based on their browsing history,functional,low,Detail 47 for Test Case A,5/20/2024,5/31/2024,9/5/2023
+478,478,478,TC081,Verify that the user can sign up for email newsletters and updates,functional,medium,Detail 53 for Test Case A,11/14/2023,12/29/2023,3/25/2024
+479,479,479,TC038,Verify that the user can view the company's commitment to social responsibility,performance,medium,Detail 2 for Test Case A,9/2/2023,11/5/2023,4/4/2024
+480,480,480,TC050,Verify that the user can participate in contests and giveaways for prizes,non-functional,low,Detail 82 for Test Case A,6/8/2024,1/31/2024,2/12/2024
+481,481,481,TC095,Verify that the user can view the company's commitment to quality and customer satisfaction,usability,high,Detail 27 for Test Case A,8/24/2023,5/3/2024,12/9/2023
+482,482,482,TC092,Verify that the user can view product ratings and reviews from other customers,performance,high,Detail 56 for Test Case A,5/23/2024,11/4/2023,9/4/2023
+483,483,483,TC042,Verify that the website has a section for customer testimonials and reviews,non-functional,medium,Detail 45 for Test Case A,2/4/2024,5/5/2024,10/16/2023
+484,484,484,TC040,Verify that the website has a section for product specifications and technical details,non-functional,medium,Detail 91 for Test Case A,7/9/2024,5/29/2024,5/14/2024
+485,485,485,TC031,Verify that the user can participate in product beta testing and feedback sessions,performance,high,Detail 12 for Test Case A,12/5/2023,2/10/2024,5/19/2024
+486,486,486,TC087,Verify that the user can opt-in for push notifications on their mobile device,non-functional,medium,Detail 18 for Test Case A,7/10/2024,9/6/2023,9/3/2023
+487,487,487,TC052,Verify that the user can view the company's commitment to social responsibility,functional,low,Detail 55 for Test Case A,4/8/2024,5/17/2024,7/21/2024
+488,488,488,TC030,Verify that the user can participate in surveys and polls for feedback,functional,medium,Detail 72 for Test Case A,2/4/2024,11/16/2023,11/17/2023
+489,489,489,TC086,Verify that the user can change the language settings on the website,usability,low,Detail 20 for Test Case A,12/22/2023,3/19/2024,11/22/2023
+490,490,490,TC008,Verify that the user can sign up for email newsletters and updates,functional,high,Detail 64 for Test Case A,2/28/2024,8/23/2024,8/18/2024
+491,491,491,TC013,Verify that the website has a section for customer support resources and FAQs,non-functional,high,Detail 38 for Test Case A,9/21/2023,1/19/2024,1/15/2024
+492,492,492,TC035,Verify that the website has a section for customer service hours and availability,functional,low,Detail 50 for Test Case A,7/9/2024,10/30/2023,1/13/2024
+493,493,493,TC022,Verify that the user can sign up for email newsletters and updates,performance,medium,Detail 11 for Test Case A,12/6/2023,11/3/2023,11/8/2023
+494,494,494,TC056,Verify that the website has a secure payment gateway for transactions,non-functional,medium,Detail 5 for Test Case A,8/10/2024,6/24/2024,10/2/2023
+495,495,495,TC037,Verify that the contact form sends inquiries to the customer support team,functional,low,Detail 68 for Test Case A,8/6/2024,5/1/2024,11/4/2023
+496,496,496,TC002,Verify that the search functionality returns relevant results,performance,low,Detail 62 for Test Case A,8/14/2024,3/7/2024,1/5/2024
+497,497,497,TC071,Verify that the website has a section for seasonal promotions and discounts,non-functional,low,Detail 96 for Test Case A,8/13/2024,10/10/2023,1/5/2024
+498,498,498,TC048,Verify that the user can participate in customer feedback surveys and polls,performance,low,Detail 87 for Test Case A,8/31/2023,6/12/2024,4/6/2024
+499,499,499,TC048,Verify that the website has a section for product warranties and guarantees,usability,high,Detail 20 for Test Case A,6/28/2024,5/7/2024,4/12/2024
+500,500,500,TC057,Verify that the user can view the company's mission and values,performance,low,Detail 70 for Test Case A,6/24/2024,12/19/2023,5/7/2024
+501,501,501,TC070,Verify that the user can sign up for email newsletters and updates,performance,medium,Detail 96 for Test Case A,10/11/2023,8/31/2023,9/30/2023
+502,502,502,TC050,Verify that the website has a section for customer satisfaction surveys and feedback,non-functional,medium,Detail 7 for Test Case A,5/21/2024,5/24/2024,10/20/2023
+503,503,503,TC064,Verify that the user can access the website's data privacy and security measures,performance,low,Detail 40 for Test Case A,5/27/2024,7/26/2024,4/11/2024
+504,504,504,TC057,Verify that the user can contact customer support through multiple channels,functional,medium,Detail 89 for Test Case A,8/3/2024,11/12/2023,9/23/2023
+505,505,505,TC047,Verify that the user can unsubscribe from marketing emails,non-functional,medium,Detail 66 for Test Case A,5/9/2024,7/8/2024,1/11/2024
+506,506,506,TC041,Verify that the website has a section for customer support resources and FAQs,non-functional,high,Detail 26 for Test Case A,3/5/2024,8/24/2023,10/7/2023
+507,507,507,TC058,Verify that the user can view the company's sustainability and environmental initiatives,performance,high,Detail 94 for Test Case A,4/30/2024,7/23/2024,9/8/2023
+508,508,508,TC056,Verify that the website has a section for product maintenance and care instructions,usability,high,Detail 39 for Test Case A,10/15/2023,12/3/2023,9/21/2023
+509,509,509,TC087,Verify that the website has a section for product availability and stock updates,non-functional,high,Detail 100 for Test Case A,12/21/2023,6/25/2024,4/21/2024
+510,510,510,TC024,Verify that the website has a section for customer satisfaction surveys and feedback,functional,high,Detail 54 for Test Case A,5/13/2024,1/23/2024,6/27/2024
+511,511,511,TC018,Verify that the website has a section for career opportunities and job listings,performance,low,Detail 98 for Test Case A,11/20/2023,11/20/2023,2/16/2024
+512,512,512,TC098,Verify that the website has a mobile app for convenient shopping on the go,non-functional,low,Detail 95 for Test Case A,10/2/2023,5/6/2024,12/2/2023
+513,513,513,TC012,Verify that the website has a section for customer satisfaction surveys and feedback,functional,medium,Detail 12 for Test Case A,8/30/2023,6/27/2024,8/12/2024
+514,514,514,TC095,Verify that the user can view the company's partnerships and collaborations,usability,high,Detail 62 for Test Case A,10/13/2023,5/6/2024,2/11/2024
+515,515,515,TC010,Verify that the website has a section for customer feedback and testimonials,usability,low,Detail 34 for Test Case A,4/20/2024,8/13/2024,5/28/2024
+516,516,516,TC076,Verify that the website has a section for customer service hours and availability,performance,low,Detail 2 for Test Case A,9/15/2023,6/14/2024,10/9/2023
+517,517,517,TC091,Verify that the website has a user-friendly interface for easy navigation,performance,medium,Detail 12 for Test Case A,1/9/2024,2/20/2024,4/15/2024
+518,518,518,TC021,Verify that the user can participate in contests and giveaways for prizes,usability,high,Detail 3 for Test Case A,4/7/2024,4/6/2024,9/19/2023
+519,519,519,TC019,Verify that the user can change the language settings on the website,usability,high,Detail 21 for Test Case A,5/28/2024,8/14/2024,3/11/2024
+520,520,520,TC072,Verify that the website has a live chat feature for customer support,functional,low,Detail 85 for Test Case A,4/21/2024,5/7/2024,1/8/2024
+521,521,521,TC094,Verify that the user can view the company's commitment to ethical sourcing and production,usability,medium,Detail 17 for Test Case A,4/7/2024,8/31/2023,9/13/2023
+522,522,522,TC075,Verify that the user can participate in contests and giveaways for prizes,functional,medium,Detail 16 for Test Case A,5/26/2024,2/13/2024,7/29/2024
+523,523,523,TC047,Verify that the user can sign up for product launch notifications and updates,functional,medium,Detail 15 for Test Case A,3/13/2024,12/23/2023,7/28/2024
+524,524,524,TC054,Verify that the user can access the website's terms of service and legal agreements,functional,medium,Detail 23 for Test Case A,10/2/2023,7/7/2024,7/8/2024
+525,525,525,TC095,Verify that the website has a section for customer service contact information,non-functional,medium,Detail 76 for Test Case A,2/22/2024,7/24/2024,12/7/2023
+526,526,526,TC038,Verify that the website has a section for customer testimonials and reviews,non-functional,high,Detail 89 for Test Case A,10/23/2023,2/2/2024,10/7/2023
+527,527,527,TC018,Verify that the search functionality returns relevant results,performance,medium,Detail 56 for Test Case A,10/6/2023,2/15/2024,12/25/2023
+528,528,528,TC039,Verify that the website has a secure SSL certificate for data encryption,non-functional,low,Detail 34 for Test Case A,7/29/2024,8/24/2023,3/28/2024
+529,529,529,TC041,Verify that the user can view the company's commitment to ethical sourcing and production,non-functional,low,Detail 76 for Test Case A,9/30/2023,3/30/2024,3/13/2024
+530,530,530,TC097,Verify that the user can participate in customer feedback surveys and polls,functional,high,Detail 83 for Test Case A,12/12/2023,12/17/2023,6/6/2024
+531,531,531,TC006,Verify that the user can sign up for email newsletters and updates,functional,low,Detail 39 for Test Case A,7/23/2024,7/30/2024,6/20/2024
+532,532,532,TC058,Verify that the website has a secure login system for user accounts,performance,low,Detail 62 for Test Case A,9/13/2023,1/12/2024,7/14/2024
+533,533,533,TC029,Verify that the user can access the website's community guidelines and code of conduct,non-functional,medium,Detail 100 for Test Case A,7/8/2024,9/8/2023,8/10/2024
+534,534,534,TC055,Verify that the website has a clear returns and refunds policy for customers,functional,low,Detail 88 for Test Case A,6/6/2024,5/29/2024,5/5/2024
+535,535,535,TC042,Verify that the website is responsive on different devices,non-functional,high,Detail 3 for Test Case A,4/21/2024,10/21/2023,12/29/2023
+536,536,536,TC022,Verify that the website has a section for industry awards and recognition,usability,high,Detail 39 for Test Case A,5/2/2024,10/20/2023,5/31/2024
+537,537,537,TC003,Verify that the website has a section for customer service contact information,non-functional,medium,Detail 38 for Test Case A,12/9/2023,6/1/2024,8/14/2024
+538,538,538,TC005,Verify that the website is responsive on different devices,performance,low,Detail 38 for Test Case A,6/5/2024,2/16/2024,8/6/2024
+539,539,539,TC007,Verify that the product categories are displayed accurately on the navigation menu,performance,low,Detail 67 for Test Case A,2/24/2024,10/17/2023,6/23/2024
+540,540,540,TC059,Verify that the user can view the company's commitment to ethical sourcing and production,usability,medium,Detail 91 for Test Case A,3/20/2024,11/19/2023,5/11/2024
+541,541,541,TC024,Verify that the website has a section for product installation and setup guides,performance,medium,Detail 29 for Test Case A,12/22/2023,6/11/2024,7/16/2024
+542,542,542,TC032,Verify that the website has a section for community forums and discussions,performance,medium,Detail 54 for Test Case A,10/31/2023,6/28/2024,8/28/2023
+543,543,543,TC044,Verify that the user can access the website's community guidelines and code of conduct,functional,medium,Detail 23 for Test Case A,9/13/2023,5/25/2024,10/7/2023
+544,544,544,TC084,Verify that the user can access the website's community guidelines and code of conduct,non-functional,high,Detail 91 for Test Case A,6/22/2024,3/11/2024,5/4/2024
+545,545,545,TC064,Verify that the website has a section for customer testimonials and success stories,functional,low,Detail 7 for Test Case A,1/30/2024,12/26/2023,3/22/2024
+546,546,546,TC020,Verify that the user can view the company's commitment to quality and customer satisfaction,non-functional,high,Detail 85 for Test Case A,9/27/2023,1/25/2024,5/2/2024
+547,547,547,TC036,Verify that the website has a section for product registration and warranty claims,performance,high,Detail 10 for Test Case A,1/26/2024,2/11/2024,3/26/2024
+548,548,548,TC013,Verify that the user can access the website's terms of use and legal agreements,performance,low,Detail 71 for Test Case A,12/16/2023,10/17/2023,3/15/2024
+549,549,549,TC061,Verify that the website has a section for customer support contact information,usability,medium,Detail 77 for Test Case A,10/18/2023,7/7/2024,10/5/2023
+550,550,550,TC025,Verify that the search functionality returns relevant results,performance,high,Detail 61 for Test Case A,8/9/2024,3/21/2024,11/13/2023
+551,551,551,TC056,Verify that the website has a section for customer satisfaction surveys and feedback,functional,low,Detail 52 for Test Case A,10/22/2023,7/9/2024,2/4/2024
+552,552,552,TC064,Verify that the user can view the shipping options and delivery times,functional,medium,Detail 73 for Test Case A,3/25/2024,9/28/2023,3/22/2024
+553,553,553,TC092,Verify that the user can access the website's community guidelines and code of conduct,usability,medium,Detail 77 for Test Case A,11/6/2023,11/25/2023,8/23/2024
+554,554,554,TC069,Verify that the user can view the company's commitment to social responsibility,functional,low,Detail 88 for Test Case A,11/23/2023,7/20/2024,6/15/2024
+555,555,555,TC052,Verify that the user can view the company's commitment to quality and customer satisfaction,usability,medium,Detail 26 for Test Case A,11/24/2023,6/20/2024,7/17/2024
+556,556,556,TC071,Verify that the website has a section for product specifications and technical details,non-functional,high,Detail 92 for Test Case A,4/15/2024,3/23/2024,5/5/2024
+557,557,557,TC025,Verify that the user can view the company's commitment to social responsibility,non-functional,medium,Detail 90 for Test Case A,9/2/2023,12/9/2023,2/9/2024
+558,558,558,TC080,Verify that the website has a loyalty program for returning customers,non-functional,high,Detail 56 for Test Case A,7/27/2024,8/13/2024,7/25/2024
+559,559,559,TC021,Verify that the product images are displayed correctly on the product page,non-functional,low,Detail 12 for Test Case A,5/28/2024,7/27/2024,3/15/2024
+560,560,560,TC081,Verify that the user can view their order history on their account page,performance,low,Detail 39 for Test Case A,6/17/2024,7/18/2024,12/10/2023
+561,561,561,TC057,Verify that the user can participate in customer feedback surveys and polls,functional,high,Detail 72 for Test Case A,11/5/2023,11/12/2023,9/26/2023
+562,562,562,TC069,Verify that the website has a section for product recommendations and personalized suggestions,non-functional,high,Detail 40 for Test Case A,10/4/2023,1/11/2024,5/18/2024
+563,563,563,TC002,Verify that the user can view recommended products based on their browsing history,non-functional,medium,Detail 57 for Test Case A,7/8/2024,11/30/2023,9/3/2023
+564,564,564,TC008,Verify that the website has a section for product warranties and guarantees,usability,high,Detail 20 for Test Case A,8/5/2024,8/3/2024,10/22/2023
+565,565,565,TC072,Verify that the user can sign up for product launch notifications and updates,non-functional,low,Detail 67 for Test Case A,10/1/2023,12/9/2023,6/5/2024
+566,566,566,TC054,Verify that the website has a section for customer feedback and testimonials,performance,medium,Detail 30 for Test Case A,8/2/2024,10/12/2023,10/28/2023
+567,567,567,TC059,Verify that the user can access their account from multiple devices,performance,high,Detail 61 for Test Case A,4/18/2024,6/21/2024,6/6/2024
+568,568,568,TC077,Verify that the website has a section for customer testimonials and success stories,performance,low,Detail 29 for Test Case A,6/20/2024,5/4/2024,7/5/2024
+569,569,569,TC100,Verify that the user can opt-in for push notifications on their mobile device,performance,medium,Detail 59 for Test Case A,2/7/2024,4/16/2024,10/5/2023
+570,570,570,TC013,Verify that the website is responsive on different devices,functional,high,Detail 22 for Test Case A,11/17/2023,10/17/2023,7/5/2024
+571,571,571,TC055,Verify that the website has a section for customer service contact information,functional,low,Detail 5 for Test Case A,6/27/2024,11/7/2023,1/14/2024
+572,572,572,TC010,Verify that the website has a user-friendly interface for easy navigation,functional,low,Detail 61 for Test Case A,3/23/2024,6/16/2024,5/15/2024
+573,573,573,TC079,Verify that the user can access the website's community guidelines and code of conduct,performance,medium,Detail 48 for Test Case A,12/25/2023,3/31/2024,2/24/2024
+574,574,574,TC025,Verify that the user can view the company's commitment to social responsibility,non-functional,medium,Detail 100 for Test Case A,11/18/2023,5/14/2024,7/18/2024
+575,575,575,TC082,Verify that the user can participate in product beta testing and feedback sessions,non-functional,low,Detail 28 for Test Case A,7/30/2024,10/2/2023,8/14/2024
+576,576,576,TC079,Verify that the user can access the website's data privacy and security measures,performance,low,Detail 46 for Test Case A,7/8/2024,10/6/2023,1/9/2024
+577,577,577,TC079,Verify that the user can view the company's commitment to ethical sourcing and production,non-functional,medium,Detail 47 for Test Case A,1/22/2024,11/28/2023,11/2/2023
+578,578,578,TC093,Verify that the user can participate in customer feedback surveys and polls,non-functional,low,Detail 80 for Test Case A,3/29/2024,7/11/2024,1/4/2024
+579,579,579,TC021,Verify that the website has a section for product availability and stock updates,usability,high,Detail 60 for Test Case A,4/22/2024,12/14/2023,4/23/2024
+580,580,580,TC030,Verify that the user can view the company's commitment to social responsibility,performance,low,Detail 3 for Test Case A,5/23/2024,12/15/2023,10/21/2023
+581,581,581,TC016,Verify that the user can leave a review for a product after making a purchase,functional,high,Detail 89 for Test Case A,11/25/2023,1/24/2024,5/30/2024
+582,582,582,TC045,Verify that the website has a section for customer service hours and availability,performance,high,Detail 31 for Test Case A,2/15/2024,8/18/2024,4/29/2024
+583,583,583,TC047,Verify that the website has a section for press releases and media coverage,usability,high,Detail 51 for Test Case A,7/8/2024,12/20/2023,3/15/2024
+584,584,584,TC095,Verify that the website has a section for customer testimonials and reviews,functional,low,Detail 84 for Test Case A,9/25/2023,9/20/2023,11/4/2023
+585,585,585,TC044,Verify that the user can view the company's commitment to sustainability and environmental stewardship,performance,medium,Detail 26 for Test Case A,9/20/2023,8/30/2023,11/23/2023
+586,586,586,TC030,Verify that the website has a section for customer support resources and FAQs,non-functional,medium,Detail 36 for Test Case A,10/20/2023,7/1/2024,1/19/2024
+587,587,587,TC008,Verify that the website has a section for customer satisfaction surveys and feedback,functional,medium,Detail 7 for Test Case A,11/15/2023,4/8/2024,9/19/2023
+588,588,588,TC095,Verify that the user can view the company's commitment to sustainability and environmental stewardship,usability,low,Detail 32 for Test Case A,7/12/2024,11/14/2023,8/1/2024
+589,589,589,TC056,Verify that the website has a section for career opportunities and job listings,functional,medium,Detail 33 for Test Case A,11/12/2023,11/3/2023,7/16/2024
+590,590,590,TC016,Verify that the search functionality returns relevant results,usability,high,Detail 4 for Test Case A,1/26/2024,2/19/2024,5/15/2024
+591,591,591,TC095,Verify that the user can create a wishlist of products to purchase later,performance,medium,Detail 9 for Test Case A,4/25/2024,10/4/2023,9/1/2023
+592,592,592,TC073,Verify that the user can participate in surveys and polls for feedback,non-functional,high,Detail 86 for Test Case A,11/20/2023,5/14/2024,9/29/2023
+593,593,593,TC042,Verify that the user can track their order status on the website,performance,high,Detail 51 for Test Case A,1/2/2024,8/20/2024,1/22/2024
+594,594,594,TC069,Verify that the user can view product ratings and reviews from other customers,usability,low,Detail 65 for Test Case A,4/8/2024,2/22/2024,9/5/2023
+595,595,595,TC019,Verify that the website has a section for customer testimonials and reviews,usability,medium,Detail 99 for Test Case A,9/12/2023,5/12/2024,12/3/2023
+596,596,596,TC093,Verify that the user can view the size guide for clothing and apparel,usability,medium,Detail 38 for Test Case A,4/4/2024,1/26/2024,2/5/2024
+597,597,597,TC004,Verify that the website has a section for upcoming events and promotions,functional,high,Detail 5 for Test Case A,1/2/2024,5/10/2024,7/23/2024
+598,598,598,TC051,Verify that the user can participate in surveys and polls for feedback,functional,high,Detail 1 for Test Case A,5/2/2024,1/2/2024,1/6/2024
+599,599,599,TC001,Verify that the website has a section for customer satisfaction surveys and feedback,usability,medium,Detail 92 for Test Case A,7/3/2024,3/29/2024,7/10/2024
+600,600,600,TC099,Verify that the website has a section for seasonal promotions and discounts,functional,low,Detail 41 for Test Case A,10/5/2023,4/12/2024,9/18/2023
+601,601,601,TC044,Verify that the user can access their account from multiple devices,performance,medium,Detail 58 for Test Case A,7/4/2024,7/13/2024,1/5/2024
+602,602,602,TC019,Verify that the user can access the website's terms of use and legal agreements,performance,low,Detail 21 for Test Case A,5/30/2024,8/22/2024,7/7/2024
+603,603,603,TC056,Verify that the user can participate in product beta testing and feedback sessions,non-functional,low,Detail 16 for Test Case A,7/16/2024,4/11/2024,10/12/2023
+604,604,604,TC016,Verify that the user can access the website's community guidelines and code of conduct,functional,low,Detail 81 for Test Case A,2/14/2024,12/10/2023,2/28/2024
+605,605,605,TC100,Verify that the website has a secure SSL certificate for data encryption,performance,high,Detail 52 for Test Case A,1/23/2024,1/5/2024,5/5/2024
+606,606,606,TC062,Verify that the website has a section for product installation and setup guides,non-functional,low,Detail 82 for Test Case A,5/27/2024,12/31/2023,8/1/2024
+607,607,607,TC016,Verify that the user can participate in customer feedback surveys and polls,performance,medium,Detail 82 for Test Case A,8/14/2024,6/12/2024,8/6/2024
+608,608,608,TC029,Verify that the user can sign up for a newsletter subscription,performance,medium,Detail 73 for Test Case A,9/22/2023,12/1/2023,7/2/2024
+609,609,609,TC032,Verify that the website has a section for customer testimonials and reviews,usability,medium,Detail 93 for Test Case A,6/13/2024,3/17/2024,8/21/2024
+610,610,610,TC054,Verify that the website has a section for customer loyalty rewards and benefits,non-functional,low,Detail 65 for Test Case A,4/19/2024,8/2/2024,3/20/2024
+611,611,611,TC011,Verify that the website has a section for customer loyalty rewards and benefits,usability,low,Detail 71 for Test Case A,4/14/2024,11/23/2023,3/1/2024
+612,612,612,TC083,Verify that the website has a live chat feature for customer support,non-functional,low,Detail 45 for Test Case A,4/21/2024,1/16/2024,2/18/2024
+613,613,613,TC086,Verify that the website has a section for product installation and setup guides,functional,low,Detail 84 for Test Case A,4/25/2024,4/5/2024,10/25/2023
+614,614,614,TC070,Verify that the user can successfully add an item to the shopping cart,usability,high,Detail 45 for Test Case A,1/11/2024,10/3/2023,5/29/2024
+615,615,615,TC012,Verify that the terms and conditions are easily accessible on the website,functional,medium,Detail 4 for Test Case A,3/11/2024,3/22/2024,2/15/2024
+616,616,616,TC009,Verify that the user can sign up for exclusive offers and promotions,functional,low,Detail 1 for Test Case A,12/25/2023,4/7/2024,6/24/2024
+617,617,617,TC056,Verify that the website has a section for product registration and warranty claims,usability,high,Detail 12 for Test Case A,7/17/2024,2/11/2024,7/3/2024
+618,618,618,TC071,Verify that the website has a section for community forums and discussions,performance,high,Detail 43 for Test Case A,8/6/2024,9/10/2023,11/15/2023
+619,619,619,TC016,Verify that the website has a section for industry awards and recognition,functional,medium,Detail 6 for Test Case A,1/8/2024,12/8/2023,6/19/2024
+620,620,620,TC089,Verify that the website has a clear returns and refunds policy for customers,functional,low,Detail 99 for Test Case A,11/10/2023,2/20/2024,1/14/2024
+621,621,621,TC039,Verify that the checkout process is smooth and error-free,non-functional,medium,Detail 77 for Test Case A,7/26/2024,1/29/2024,10/1/2023
+622,622,622,TC011,Verify that the user can create a wishlist of products to purchase later,performance,high,Detail 68 for Test Case A,4/30/2024,1/24/2024,4/29/2024
+623,623,623,TC095,Verify that the website has a user-friendly interface for easy navigation,usability,medium,Detail 20 for Test Case A,9/23/2023,9/23/2023,2/23/2024
+624,624,624,TC071,Verify that the website has a section for industry awards and recognition,non-functional,medium,Detail 10 for Test Case A,3/1/2024,10/15/2023,12/28/2023
+625,625,625,TC073,Verify that the website has a section for customer feedback and testimonials,functional,high,Detail 21 for Test Case A,6/25/2024,7/22/2024,3/13/2024
+626,626,626,TC036,Verify that the user can successfully add an item to the shopping cart,performance,medium,Detail 17 for Test Case A,5/8/2024,11/25/2023,5/17/2024
+627,627,627,TC089,Verify that the user can access the website's privacy policy and data protection measures,non-functional,high,Detail 100 for Test Case A,8/26/2023,9/12/2023,9/9/2023
+628,628,628,TC012,Verify that the user can sign up for exclusive offers and promotions,functional,high,Detail 59 for Test Case A,1/31/2024,11/12/2023,5/23/2024
+629,629,629,TC082,Verify that the website has a section for new arrivals and featured products,usability,low,Detail 45 for Test Case A,3/1/2024,2/22/2024,5/9/2024
+630,630,630,TC081,Verify that the website has a clear returns and refunds policy for customers,non-functional,medium,Detail 92 for Test Case A,4/11/2024,5/20/2024,5/13/2024
+631,631,631,TC018,Verify that the website is responsive on different devices,functional,medium,Detail 7 for Test Case A,1/8/2024,2/4/2024,5/18/2024
+632,632,632,TC067,Verify that the website has a section for product registration and warranty claims,usability,low,Detail 86 for Test Case A,1/11/2024,5/14/2024,3/13/2024
+633,633,633,TC052,Verify that the user can participate in surveys and polls for feedback,non-functional,medium,Detail 100 for Test Case A,9/11/2023,7/21/2024,5/12/2024
+634,634,634,TC075,Verify that the user can create a wishlist of products to purchase later,non-functional,medium,Detail 80 for Test Case A,2/25/2024,11/29/2023,4/5/2024
+635,635,635,TC023,Verify that the user can view the company's commitment to social responsibility,usability,low,Detail 9 for Test Case A,2/26/2024,4/16/2024,6/21/2024
+636,636,636,TC080,Verify that the user can sign up for exclusive offers and promotions,non-functional,low,Detail 27 for Test Case A,2/13/2024,8/18/2024,12/2/2023
+637,637,637,TC070,Verify that the user can opt-in for push notifications on their mobile device,usability,low,Detail 98 for Test Case A,2/9/2024,7/7/2024,4/6/2024
+638,638,638,TC093,Verify that the user can share products on social media platforms,usability,high,Detail 91 for Test Case A,12/18/2023,2/20/2024,12/26/2023
+639,639,639,TC082,Verify that the user can access the website's terms of use and legal agreements,performance,medium,Detail 67 for Test Case A,7/29/2024,10/21/2023,2/26/2024
+640,640,640,TC030,Verify that the website has a section for product maintenance and care instructions,usability,high,Detail 48 for Test Case A,4/16/2024,9/2/2023,5/5/2024
+641,641,641,TC062,Verify that the product categories are displayed accurately on the navigation menu,usability,low,Detail 9 for Test Case A,2/17/2024,11/12/2023,12/30/2023
+642,642,642,TC011,Verify that the website has a section for product maintenance and care instructions,non-functional,low,Detail 48 for Test Case A,1/3/2024,7/24/2024,3/30/2024
+643,643,643,TC022,Verify that the website has a clear returns and refunds policy for customers,functional,high,Detail 72 for Test Case A,2/1/2024,10/3/2023,12/14/2023
+644,644,644,TC032,Verify that the website has a section for customer support resources and FAQs,functional,low,Detail 55 for Test Case A,11/9/2023,7/30/2024,9/10/2023
+645,645,645,TC057,Verify that the website has a secure payment gateway for transactions,functional,medium,Detail 52 for Test Case A,4/18/2024,10/27/2023,6/5/2024
+646,646,646,TC081,Verify that the user can view the company's social responsibility initiatives,non-functional,medium,Detail 58 for Test Case A,7/23/2024,9/19/2023,3/5/2024
+647,647,647,TC029,Verify that the website has a section for educational resources and guides,usability,medium,Detail 8 for Test Case A,3/6/2024,11/9/2023,4/30/2024
+648,648,648,TC040,Verify that the user can view the company's commitment to quality and customer satisfaction,functional,high,Detail 77 for Test Case A,5/5/2024,8/7/2024,10/29/2023
+649,649,649,TC035,Verify that the website has a section for customer support contact information,performance,high,Detail 56 for Test Case A,6/23/2024,4/5/2024,12/30/2023
+650,650,650,TC062,Verify that the website has a section for customer support contact information,functional,low,Detail 91 for Test Case A,4/19/2024,12/28/2023,7/7/2024
+651,651,651,TC045,Verify that the website has a section for customer feedback and testimonials,non-functional,low,Detail 45 for Test Case A,9/26/2023,4/26/2024,3/1/2024
+652,652,652,TC040,Verify that the social media links are working and directing users to the correct pages,functional,high,Detail 20 for Test Case A,3/20/2024,4/1/2024,10/25/2023
+653,653,653,TC068,Verify that the website has a section for customer satisfaction surveys and feedback,usability,high,Detail 10 for Test Case A,11/17/2023,7/20/2024,5/30/2024
+654,654,654,TC083,Verify that the website has a section for product specifications and technical details,performance,medium,Detail 26 for Test Case A,5/8/2024,2/29/2024,2/12/2024
+655,655,655,TC023,Verify that the user can change the language settings on the website,performance,high,Detail 2 for Test Case A,2/11/2024,7/28/2024,4/14/2024
+656,656,656,TC033,Verify that the discount code is applied correctly at checkout,performance,high,Detail 9 for Test Case A,11/24/2023,3/16/2024,6/4/2024
+657,657,657,TC028,Verify that the user can sign up for email newsletters and updates,performance,medium,Detail 1 for Test Case A,12/24/2023,9/28/2023,4/9/2024
+658,658,658,TC014,Verify that the website has a clear returns and refunds policy for customers,functional,low,Detail 19 for Test Case A,4/13/2024,4/16/2024,9/23/2023
+659,659,659,TC088,Verify that the user can unsubscribe from marketing emails,usability,high,Detail 95 for Test Case A,11/10/2023,10/23/2023,2/21/2024
+660,660,660,TC041,Verify that the website has a section for product registration and warranty claims,functional,high,Detail 38 for Test Case A,2/9/2024,5/10/2024,4/10/2024
+661,661,661,TC051,Verify that the user can successfully add an item to the shopping cart,non-functional,low,Detail 58 for Test Case A,5/5/2024,7/22/2024,2/27/2024
+662,662,662,TC064,Verify that the user can access the website's terms of service and legal agreements,non-functional,low,Detail 82 for Test Case A,8/26/2023,12/30/2023,11/25/2023
+663,663,663,TC043,Verify that the website has a section for product warranties and guarantees,functional,low,Detail 87 for Test Case A,3/16/2024,3/30/2024,10/22/2023
+664,664,664,TC040,Verify that the website has a section for product availability and stock updates,functional,low,Detail 27 for Test Case A,5/17/2024,5/13/2024,2/17/2024
+665,665,665,TC009,Verify that the user can access the website's cookie policy and data tracking practices,functional,medium,Detail 88 for Test Case A,12/4/2023,5/18/2024,5/9/2024
+666,666,666,TC100,Verify that the user can sign up for a newsletter subscription,functional,medium,Detail 84 for Test Case A,1/25/2024,9/5/2023,11/10/2023
+667,667,667,TC085,Verify that the website has a section for customer satisfaction surveys and feedback,performance,medium,Detail 65 for Test Case A,1/30/2024,6/27/2024,9/28/2023
+668,668,668,TC038,Verify that the user can sign up for exclusive offers and promotions,usability,low,Detail 58 for Test Case A,10/11/2023,4/7/2024,4/13/2024
+669,669,669,TC085,Verify that the user can access the website's terms of use and legal agreements,functional,low,Detail 7 for Test Case A,6/3/2024,2/28/2024,10/22/2023
+670,670,670,TC001,Verify that the user can view the company's mission and values,non-functional,low,Detail 23 for Test Case A,12/16/2023,9/18/2023,6/19/2024
+671,671,671,TC046,Verify that the user can view the company's partnerships and collaborations,performance,medium,Detail 1 for Test Case A,4/2/2024,12/8/2023,4/23/2024
+672,672,672,TC018,Verify that the user can view the company's sustainability and environmental initiatives,functional,high,Detail 50 for Test Case A,11/21/2023,9/10/2023,5/2/2024
+673,673,673,TC032,Verify that the user can view the company's leadership team and key personnel,non-functional,high,Detail 24 for Test Case A,12/30/2023,4/6/2024,4/22/2024
+674,674,674,TC023,Verify that the user can participate in product beta testing and feedback sessions,functional,low,Detail 96 for Test Case A,2/2/2024,9/8/2023,9/21/2023
+675,675,675,TC049,Verify that the website has a section for product maintenance and care instructions,performance,high,Detail 41 for Test Case A,9/27/2023,9/6/2023,2/20/2024
+676,676,676,TC062,Verify that the website has a section for customer service contact information,usability,low,Detail 55 for Test Case A,8/28/2023,12/3/2023,9/12/2023
+677,677,677,TC038,Verify that the website has a section for customer success stories and case studies,usability,high,Detail 64 for Test Case A,4/29/2024,4/15/2024,11/10/2023
+678,678,678,TC031,Verify that the user can view the company's mission and values,non-functional,high,Detail 53 for Test Case A,10/25/2023,2/16/2024,5/19/2024
+679,679,679,TC053,Verify that the product descriptions are accurate and informative,performance,medium,Detail 84 for Test Case A,2/17/2024,12/12/2023,8/13/2024
+680,680,680,TC051,Verify that the user can view the company's commitment to social responsibility,usability,high,Detail 36 for Test Case A,10/14/2023,3/26/2024,12/18/2023
+681,681,681,TC053,Verify that the user can access their account from multiple devices,usability,medium,Detail 91 for Test Case A,1/28/2024,11/25/2023,11/2/2023
+682,682,682,TC057,Verify that the website has a secure SSL certificate for data encryption,functional,high,Detail 95 for Test Case A,6/28/2024,5/22/2024,5/15/2024
+683,683,683,TC096,Verify that the user can save their payment information for faster checkout,usability,high,Detail 2 for Test Case A,4/24/2024,9/10/2023,7/1/2024
+684,684,684,TC074,Verify that the website has a section for customer support contact information,functional,high,Detail 24 for Test Case A,9/28/2023,9/14/2023,12/16/2023
+685,685,685,TC005,Verify that the search functionality returns relevant results,non-functional,high,Detail 60 for Test Case A,10/1/2023,8/2/2024,3/22/2024
+686,686,686,TC044,Verify that the login button is displayed on the homepage,non-functional,medium,Detail 25 for Test Case A,11/20/2023,2/17/2024,4/23/2024
+687,687,687,TC023,Verify that the product images are displayed correctly on the product page,performance,low,Detail 39 for Test Case A,1/13/2024,3/5/2024,10/30/2023
+688,688,688,TC046,Verify that the website has a section for product warranties and guarantees,non-functional,low,Detail 28 for Test Case A,1/13/2024,8/6/2024,4/7/2024
+689,689,689,TC043,Verify that the website has a section for customer support contact information,functional,medium,Detail 73 for Test Case A,2/1/2024,5/30/2024,1/12/2024
+690,690,690,TC032,Verify that the website has a mobile app for convenient shopping on the go,functional,high,Detail 39 for Test Case A,8/6/2024,5/14/2024,11/1/2023
+691,691,691,TC021,Verify that the user can access their account from multiple devices,non-functional,low,Detail 32 for Test Case A,10/9/2023,3/7/2024,8/29/2023
+692,692,692,TC003,Verify that the user can update their communication preferences for marketing,functional,low,Detail 62 for Test Case A,12/7/2023,3/22/2024,7/8/2024
+693,693,693,TC029,Verify that the user can create a personalized account profile,functional,low,Detail 86 for Test Case A,4/13/2024,5/8/2024,12/5/2023
+694,694,694,TC045,Verify that the website is responsive on different devices,performance,medium,Detail 15 for Test Case A,10/23/2023,7/12/2024,4/23/2024
+695,695,695,TC061,Verify that the website has a section for product specifications and technical details,functional,low,Detail 13 for Test Case A,8/16/2024,12/14/2023,11/7/2023
+696,696,696,TC078,Verify that the website has a section for product specifications and technical details,performance,medium,Detail 87 for Test Case A,1/4/2024,6/14/2024,1/2/2024
+697,697,697,TC045,Verify that the website has a section for product warranties and guarantees,non-functional,low,Detail 9 for Test Case A,10/12/2023,3/7/2024,6/13/2024
+698,698,698,TC003,Verify that the user can access the website's community guidelines and code of conduct,non-functional,low,Detail 25 for Test Case A,11/27/2023,5/1/2024,2/20/2024
+699,699,699,TC011,Verify that the website has a section for customer testimonials and reviews,usability,low,Detail 49 for Test Case A,7/12/2024,7/27/2024,6/10/2024
+700,700,700,TC025,Verify that the website has a section for customer support contact information,usability,low,Detail 93 for Test Case A,12/13/2023,4/8/2024,1/31/2024
+701,701,701,TC095,Verify that the user can access the website's community guidelines and code of conduct,functional,low,Detail 50 for Test Case A,8/11/2024,7/16/2024,3/31/2024
+702,702,702,TC089,Verify that the user can view the company's social responsibility initiatives,usability,medium,Detail 29 for Test Case A,7/8/2024,6/2/2024,2/7/2024
+703,703,703,TC052,Verify that the website has a section for customer support contact information,performance,low,Detail 93 for Test Case A,3/31/2024,2/13/2024,8/25/2023
+704,704,704,TC088,Verify that the user can participate in surveys and polls for feedback,non-functional,high,Detail 19 for Test Case A,5/7/2024,7/28/2024,4/6/2024
+705,705,705,TC096,Verify that the user can sign up for exclusive offers and promotions,non-functional,low,Detail 38 for Test Case A,3/15/2024,6/29/2024,11/25/2023
+706,706,706,TC098,Verify that the website has a clear returns and refunds policy for customers,functional,medium,Detail 23 for Test Case A,8/31/2023,12/12/2023,3/23/2024
+707,707,707,TC020,Verify that the user can participate in customer feedback surveys and polls,functional,high,Detail 14 for Test Case A,8/27/2023,12/27/2023,3/20/2024
+708,708,708,TC011,Verify that the user can view the company's social responsibility initiatives,performance,low,Detail 17 for Test Case A,4/16/2024,2/1/2024,5/29/2024
+709,709,709,TC056,Verify that the website has a section for product comparison and reviews,usability,low,Detail 12 for Test Case A,9/6/2023,1/30/2024,4/17/2024
+710,710,710,TC023,Verify that the user can view the company's commitment to social responsibility,performance,medium,Detail 63 for Test Case A,2/6/2024,6/1/2024,4/18/2024
+711,711,711,TC058,Verify that the user can view the company's commitment to ethical sourcing and production,usability,medium,Detail 40 for Test Case A,10/13/2023,6/9/2024,3/6/2024
+712,712,712,TC042,Verify that the user receives a confirmation email after placing an order,usability,high,Detail 93 for Test Case A,7/10/2024,2/26/2024,10/26/2023
+713,713,713,TC039,Verify that the website has a section for community forums and discussions,usability,low,Detail 22 for Test Case A,10/27/2023,10/6/2023,12/4/2023
+714,714,714,TC005,Verify that the checkout process is smooth and error-free,performance,medium,Detail 94 for Test Case A,11/19/2023,10/7/2023,3/9/2024
+715,715,715,TC027,Verify that the login button is displayed on the homepage,functional,low,Detail 68 for Test Case A,6/15/2024,11/11/2023,8/29/2023
+716,716,716,TC074,Verify that the user can participate in customer feedback surveys and polls,non-functional,medium,Detail 81 for Test Case A,3/7/2024,12/4/2023,5/10/2024
+717,717,717,TC004,Verify that the website has a section for product maintenance and care instructions,usability,high,Detail 64 for Test Case A,5/23/2024,9/26/2023,7/23/2024
+718,718,718,TC078,Verify that the website has a section for customer loyalty rewards and benefits,non-functional,medium,Detail 48 for Test Case A,7/5/2024,9/21/2023,8/1/2024
+719,719,719,TC044,Verify that the user can leave a review for a product after making a purchase,performance,low,Detail 26 for Test Case A,4/2/2024,2/5/2024,5/30/2024
+720,720,720,TC087,Verify that the user can view the company's mission and values,usability,high,Detail 96 for Test Case A,11/7/2023,6/17/2024,8/25/2023
+721,721,721,TC010,Verify that the login button is displayed on the homepage,non-functional,high,Detail 23 for Test Case A,3/16/2024,11/18/2023,10/13/2023
+722,722,722,TC043,Verify that the website has a FAQ section for common customer queries,functional,high,Detail 91 for Test Case A,6/18/2024,12/1/2023,7/8/2024
+723,723,723,TC064,Verify that the user can create a personalized account profile,functional,medium,Detail 28 for Test Case A,6/21/2024,9/8/2023,5/13/2024
+724,724,724,TC053,Verify that the website has a section for educational resources and guides,performance,low,Detail 59 for Test Case A,10/3/2023,6/5/2024,7/25/2024
+725,725,725,TC065,Verify that the user can participate in surveys and polls for feedback,usability,medium,Detail 71 for Test Case A,7/11/2024,2/21/2024,11/11/2023
+726,726,726,TC011,Verify that the user can sign up for email newsletters and updates,non-functional,low,Detail 57 for Test Case A,1/7/2024,5/8/2024,5/27/2024
+727,727,727,TC040,Verify that the user can view product ratings and reviews from other customers,performance,medium,Detail 84 for Test Case A,6/12/2024,6/18/2024,12/4/2023
+728,728,728,TC041,Verify that the website has a section for product installation and setup guides,performance,medium,Detail 6 for Test Case A,2/26/2024,4/17/2024,10/4/2023
+729,729,729,TC061,Verify that the website has a live chat feature for customer support,performance,low,Detail 83 for Test Case A,10/29/2023,3/1/2024,4/2/2024
+730,730,730,TC072,Verify that the user can view the company's commitment to quality and customer satisfaction,performance,medium,Detail 13 for Test Case A,10/7/2023,10/29/2023,7/25/2024
+731,731,731,TC081,Verify that the user can view the company's commitment to ethical sourcing and production,usability,low,Detail 31 for Test Case A,12/10/2023,2/12/2024,12/31/2023
+732,732,732,TC058,Verify that the website has a section for product installation and setup guides,performance,high,Detail 26 for Test Case A,3/11/2024,7/13/2024,8/22/2024
+733,733,733,TC030,Verify that the website has a section for product specifications and technical details,usability,high,Detail 52 for Test Case A,4/19/2024,4/12/2024,8/11/2024
+734,734,734,TC052,Verify that the user can view the shipping options and delivery times,non-functional,low,Detail 6 for Test Case A,12/7/2023,1/16/2024,7/17/2024
+735,735,735,TC034,Verify that the website is responsive on different devices,performance,high,Detail 79 for Test Case A,7/9/2024,9/7/2023,3/5/2024
+736,736,736,TC007,Verify that the website has a section for product availability and stock updates,non-functional,high,Detail 82 for Test Case A,4/24/2024,8/24/2023,2/9/2024
+737,737,737,TC038,Verify that the website has a section for customer satisfaction surveys and feedback,performance,medium,Detail 29 for Test Case A,5/1/2024,12/14/2023,9/20/2023
+738,738,738,TC007,Verify that the website has a section for customer service hours and availability,functional,medium,Detail 12 for Test Case A,2/24/2024,1/22/2024,3/15/2024
+739,739,739,TC032,Verify that the website has a section for customer satisfaction surveys and feedback,functional,medium,Detail 79 for Test Case A,8/20/2024,4/7/2024,10/23/2023
+740,740,740,TC089,Verify that the website has a section for product availability and stock updates,functional,medium,Detail 13 for Test Case A,4/11/2024,4/29/2024,4/14/2024
+741,741,741,TC021,Verify that the user can access the website's data privacy and security measures,non-functional,low,Detail 28 for Test Case A,3/12/2024,10/20/2023,11/30/2023
+742,742,742,TC065,Verify that the website has a FAQ section for common customer queries,performance,medium,Detail 47 for Test Case A,10/16/2023,12/8/2023,3/5/2024
+743,743,743,TC015,Verify that the user can participate in product beta testing and feedback sessions,non-functional,low,Detail 89 for Test Case A,2/19/2024,6/16/2024,10/8/2023
+744,744,744,TC055,Verify that the user can view the company's commitment to quality and customer satisfaction,non-functional,high,Detail 44 for Test Case A,4/20/2024,6/19/2024,2/27/2024
+745,745,745,TC055,Verify that the user can update their communication preferences for marketing,functional,medium,Detail 28 for Test Case A,5/4/2024,7/8/2024,8/23/2024
+746,746,746,TC093,Verify that the contact form sends inquiries to the customer support team,functional,low,Detail 100 for Test Case A,2/27/2024,3/19/2024,5/4/2024
+747,747,747,TC051,Verify that the user can access the website's community guidelines and code of conduct,performance,high,Detail 74 for Test Case A,3/13/2024,5/12/2024,7/8/2024
+748,748,748,TC017,Verify that the website has a section for product warranties and guarantees,non-functional,low,Detail 65 for Test Case A,11/16/2023,3/18/2024,11/17/2023
+749,749,749,TC022,Verify that the user can view the company's commitment to social responsibility,non-functional,medium,Detail 26 for Test Case A,5/6/2024,9/1/2023,9/26/2023
+750,750,750,TC010,Verify that the website has a section for industry news and updates,functional,medium,Detail 61 for Test Case A,11/20/2023,11/14/2023,8/27/2023
+751,751,751,TC071,Verify that the user can sign up for email newsletters and updates,performance,medium,Detail 18 for Test Case A,12/6/2023,10/4/2023,1/13/2024
+752,752,752,TC012,Verify that the user can view the company's commitment to sustainability and environmental stewardship,non-functional,medium,Detail 82 for Test Case A,7/11/2024,1/11/2024,2/8/2024
+753,753,753,TC024,Verify that the user can view the company's commitment to social responsibility,performance,high,Detail 45 for Test Case A,11/16/2023,3/15/2024,6/21/2024
+754,754,754,TC057,Verify that the user can view the company's partnerships and collaborations,functional,medium,Detail 99 for Test Case A,11/17/2023,3/21/2024,1/1/2024
+755,755,755,TC056,Verify that the website has a section for career opportunities and job listings,usability,high,Detail 78 for Test Case A,5/17/2024,5/25/2024,11/11/2023
+756,756,756,TC049,Verify that the website has a section for customer support contact information,functional,low,Detail 47 for Test Case A,4/14/2024,2/12/2024,5/12/2024
+757,757,757,TC058,Verify that the user can access the website's data privacy and security measures,usability,low,Detail 77 for Test Case A,7/25/2024,1/9/2024,2/11/2024
+758,758,758,TC015,Verify that the user can sign up for exclusive offers and promotions,usability,high,Detail 23 for Test Case A,9/23/2023,5/28/2024,6/18/2024
+759,759,759,TC100,Verify that the terms and conditions are easily accessible on the website,performance,high,Detail 55 for Test Case A,3/12/2024,9/17/2023,4/11/2024
+760,760,760,TC099,Verify that the user can view the company's commitment to ethical sourcing and production,functional,low,Detail 26 for Test Case A,2/10/2024,6/26/2024,6/22/2024
+761,761,761,TC066,Verify that the user can access the website's community guidelines and code of conduct,functional,medium,Detail 42 for Test Case A,6/8/2024,2/17/2024,10/5/2023
+762,762,762,TC012,Verify that the website has a section for product maintenance and care instructions,usability,high,Detail 9 for Test Case A,11/21/2023,8/10/2024,11/28/2023
+763,763,763,TC003,Verify that the terms and conditions are easily accessible on the website,non-functional,medium,Detail 36 for Test Case A,1/1/2024,10/10/2023,9/19/2023
+764,764,764,TC010,Verify that the user can participate in product beta testing and feedback sessions,functional,low,Detail 68 for Test Case A,5/17/2024,8/19/2024,2/16/2024
+765,765,765,TC001,Verify that the user can opt-in for push notifications on their mobile device,functional,medium,Detail 55 for Test Case A,11/8/2023,1/1/2024,6/20/2024
+766,766,766,TC024,Verify that the user can view the company's commitment to sustainability and environmental stewardship,non-functional,low,Detail 66 for Test Case A,3/20/2024,11/18/2023,1/19/2024
+767,767,767,TC020,Verify that the login button is displayed on the homepage,non-functional,high,Detail 29 for Test Case A,8/31/2023,8/20/2024,5/3/2024
+768,768,768,TC041,Verify that the user can participate in product beta testing and feedback sessions,functional,medium,Detail 2 for Test Case A,3/22/2024,11/26/2023,8/20/2024
+769,769,769,TC022,Verify that the website has a clear returns and refunds policy for customers,usability,medium,Detail 27 for Test Case A,7/31/2024,1/2/2024,11/30/2023
+770,770,770,TC022,Verify that the website has a section for community forums and discussions,non-functional,high,Detail 54 for Test Case A,11/26/2023,12/7/2023,3/8/2024
+771,771,771,TC046,Verify that the website has a section for customer loyalty rewards and benefits,non-functional,medium,Detail 35 for Test Case A,1/18/2024,4/22/2024,5/4/2024
+772,772,772,TC039,Verify that the website has a section for customer support contact information,non-functional,high,Detail 29 for Test Case A,11/1/2023,6/5/2024,1/15/2024
+773,773,773,TC035,Verify that the website has a section for product availability and stock updates,usability,low,Detail 32 for Test Case A,1/15/2024,1/31/2024,7/27/2024
+774,774,774,TC066,Verify that the discount code is applied correctly at checkout,functional,high,Detail 6 for Test Case A,5/19/2024,4/17/2024,2/2/2024
+775,775,775,TC020,Verify that the website has a section for product availability and stock updates,functional,low,Detail 59 for Test Case A,12/17/2023,12/15/2023,7/23/2024
+776,776,776,TC069,Verify that the user can unsubscribe from marketing emails,performance,medium,Detail 94 for Test Case A,4/2/2024,7/17/2024,11/24/2023
+777,777,777,TC090,Verify that the user can access the website's community guidelines and code of conduct,non-functional,low,Detail 27 for Test Case A,8/18/2024,5/23/2024,10/25/2023
+778,778,778,TC089,Verify that the contact form sends inquiries to the customer support team,functional,low,Detail 47 for Test Case A,2/24/2024,5/16/2024,10/6/2023
+779,779,779,TC021,Verify that the website has a section for product specifications and technical details,performance,low,Detail 62 for Test Case A,10/15/2023,2/7/2024,1/19/2024
+780,780,780,TC013,Verify that the website has a blog section with informative articles,non-functional,low,Detail 98 for Test Case A,7/30/2024,8/20/2024,1/2/2024
+781,781,781,TC091,Verify that the website has a section for product registration and warranty claims,functional,high,Detail 47 for Test Case A,11/27/2023,3/9/2024,6/5/2024
+782,782,782,TC019,Verify that the user can sign up for a newsletter subscription,performance,medium,Detail 55 for Test Case A,6/10/2024,9/12/2023,2/7/2024
+783,783,783,TC083,Verify that the website has a section for customer testimonials and success stories,functional,medium,Detail 63 for Test Case A,3/29/2024,5/9/2024,7/3/2024
+784,784,784,TC070,Verify that the user can access the website's terms of service and legal agreements,usability,high,Detail 93 for Test Case A,9/6/2023,12/2/2023,1/28/2024
+785,785,785,TC021,Verify that the user can access the website's community guidelines and code of conduct,performance,high,Detail 19 for Test Case A,8/31/2023,8/14/2024,11/11/2023
+786,786,786,TC090,Verify that the website has a loyalty program for returning customers,non-functional,low,Detail 58 for Test Case A,12/15/2023,8/26/2023,5/16/2024
+787,787,787,TC011,Verify that the user can sign up for product launch notifications and updates,performance,medium,Detail 51 for Test Case A,2/25/2024,7/12/2024,10/20/2023
+788,788,788,TC070,Verify that the terms and conditions are easily accessible on the website,performance,high,Detail 84 for Test Case A,5/27/2024,4/5/2024,2/19/2024
+789,789,789,TC019,Verify that the website has a section for customer support contact information,functional,high,Detail 76 for Test Case A,4/28/2024,1/15/2024,12/30/2023
+790,790,790,TC061,Verify that the user can view the company's history and milestones,functional,high,Detail 59 for Test Case A,1/3/2024,5/30/2024,9/26/2023
+791,791,791,TC006,Verify that the social media links are working and directing users to the correct pages,non-functional,low,Detail 6 for Test Case A,4/3/2024,5/9/2024,1/25/2024
+792,792,792,TC008,Verify that the website has a section for customer service hours and availability,performance,high,Detail 23 for Test Case A,3/7/2024,8/12/2024,6/30/2024
+793,793,793,TC033,Verify that the user can participate in customer feedback surveys and polls,performance,medium,Detail 48 for Test Case A,12/1/2023,5/1/2024,8/27/2023
+794,794,794,TC028,Verify that the website loads quickly and efficiently for users,functional,medium,Detail 26 for Test Case A,3/25/2024,5/21/2024,2/10/2024
+795,795,795,TC001,Verify that the user can sign up for product launch notifications and updates,usability,medium,Detail 60 for Test Case A,8/15/2024,8/29/2023,12/5/2023
+796,796,796,TC074,Verify that the website has a mobile app for convenient shopping on the go,functional,low,Detail 29 for Test Case A,5/15/2024,12/15/2023,2/1/2024
+797,797,797,TC024,Verify that the website has a section for customer service hours and availability,performance,low,Detail 83 for Test Case A,12/3/2023,7/17/2024,10/15/2023
+798,798,798,TC083,Verify that the user can view the size guide for clothing and apparel,usability,low,Detail 6 for Test Case A,6/18/2024,4/19/2024,9/22/2023
+799,799,799,TC085,Verify that the user can participate in customer feedback surveys and polls,functional,medium,Detail 9 for Test Case A,5/23/2024,1/16/2024,4/13/2024
+800,800,800,TC001,Verify that the user receives a confirmation email after placing an order,performance,low,Detail 85 for Test Case A,11/14/2023,12/12/2023,9/3/2023
+801,801,801,TC064,Verify that the user can view the company's leadership team and key personnel,usability,low,Detail 64 for Test Case A,7/6/2024,4/26/2024,11/11/2023
+802,802,802,TC059,Verify that the website is responsive on different devices,performance,high,Detail 97 for Test Case A,11/14/2023,1/18/2024,1/9/2024
+803,803,803,TC040,Verify that the website has a secure login system for user accounts,non-functional,high,Detail 76 for Test Case A,3/2/2024,5/8/2024,3/19/2024
+804,804,804,TC002,Verify that the user can share products on social media platforms,non-functional,high,Detail 23 for Test Case A,12/23/2023,1/30/2024,7/30/2024
+805,805,805,TC078,Verify that the website has a section for educational resources and guides,non-functional,medium,Detail 68 for Test Case A,12/30/2023,3/18/2024,3/22/2024
+806,806,806,TC002,Verify that the website has a section for customer satisfaction surveys and feedback,usability,low,Detail 99 for Test Case A,7/15/2024,3/22/2024,8/31/2023
+807,807,807,TC032,Verify that the website has a section for community forums and discussions,non-functional,medium,Detail 90 for Test Case A,10/25/2023,1/19/2024,1/31/2024
+808,808,808,TC053,Verify that the user can view the company's commitment to quality and customer satisfaction,non-functional,high,Detail 11 for Test Case A,3/11/2024,7/16/2024,12/1/2023
+809,809,809,TC086,Verify that the website has a section for product availability and stock updates,usability,high,Detail 58 for Test Case A,6/10/2024,3/13/2024,8/31/2023
+810,810,810,TC013,Verify that the product images are displayed correctly on the product page,non-functional,medium,Detail 60 for Test Case A,11/11/2023,11/22/2023,11/25/2023
+811,811,811,TC097,Verify that the user can save their payment information for faster checkout,usability,medium,Detail 14 for Test Case A,10/6/2023,3/4/2024,5/6/2024
+812,812,812,TC001,Verify that the user can participate in product beta testing and feedback sessions,non-functional,medium,Detail 13 for Test Case A,10/27/2023,9/17/2023,2/18/2024
+813,813,813,TC093,Verify that the website has a section for user-generated content and testimonials,functional,low,Detail 54 for Test Case A,2/22/2024,7/19/2024,5/7/2024
+814,814,814,TC099,Verify that the website has a section for customer success stories and case studies,performance,high,Detail 96 for Test Case A,2/16/2024,6/13/2024,10/1/2023
+815,815,815,TC087,Verify that the user can filter search results by price range,performance,low,Detail 84 for Test Case A,8/8/2024,8/16/2024,11/12/2023
+816,816,816,TC042,Verify that the user can edit their shopping cart before proceeding to checkout,non-functional,medium,Detail 21 for Test Case A,7/27/2024,5/29/2024,11/28/2023
+817,817,817,TC063,Verify that the website has a section for customer feedback and testimonials,non-functional,high,Detail 80 for Test Case A,10/3/2023,12/5/2023,4/8/2024
+818,818,818,TC056,Verify that the user can update their communication preferences for marketing,performance,medium,Detail 70 for Test Case A,3/30/2024,2/13/2024,6/20/2024
+819,819,819,TC099,Verify that the website has a section for seasonal promotions and discounts,non-functional,medium,Detail 81 for Test Case A,4/12/2024,4/3/2024,1/19/2024
+820,820,820,TC044,Verify that the website has a section for product installation and setup guides,performance,medium,Detail 71 for Test Case A,9/20/2023,3/17/2024,7/26/2024
+821,821,821,TC054,Verify that the user can view the shipping options and delivery times,usability,low,Detail 87 for Test Case A,10/10/2023,8/14/2024,7/3/2024
+822,822,822,TC038,Verify that the user can participate in product beta testing and feedback sessions,functional,high,Detail 32 for Test Case A,8/5/2024,7/16/2024,7/28/2024
+823,823,823,TC016,Verify that the website has a section for product registration and warranty claims,usability,high,Detail 79 for Test Case A,12/7/2023,2/7/2024,7/27/2024
+824,824,824,TC092,Verify that the website has a section for customer service contact information,non-functional,low,Detail 53 for Test Case A,11/2/2023,1/6/2024,3/23/2024
+825,825,825,TC067,Verify that the user can view the size guide for clothing and apparel,performance,low,Detail 9 for Test Case A,11/13/2023,6/1/2024,5/11/2024
+826,826,826,TC042,Verify that the website has a section for career opportunities and job listings,non-functional,low,Detail 2 for Test Case A,2/20/2024,2/16/2024,7/2/2024
+827,827,827,TC019,Verify that the website has a section for career opportunities and job listings,functional,low,Detail 85 for Test Case A,9/12/2023,4/1/2024,5/27/2024
+828,828,828,TC024,Verify that the user can view the company's commitment to diversity and inclusion,performance,high,Detail 23 for Test Case A,7/23/2024,3/24/2024,5/11/2024
+829,829,829,TC048,Verify that the website has a section for seasonal promotions and discounts,performance,high,Detail 57 for Test Case A,3/20/2024,12/28/2023,10/3/2023
+830,830,830,TC076,Verify that the user can participate in product beta testing and feedback sessions,functional,medium,Detail 21 for Test Case A,5/3/2024,11/18/2023,10/8/2023
+831,831,831,TC016,Verify that the user can leave a review for a product after making a purchase,performance,medium,Detail 38 for Test Case A,10/5/2023,9/29/2023,5/7/2024
+832,832,832,TC083,Verify that the search functionality returns relevant results,usability,high,Detail 13 for Test Case A,12/22/2023,6/7/2024,3/12/2024
+833,833,833,TC075,Verify that the website has a section for customer service hours and availability,non-functional,low,Detail 15 for Test Case A,2/24/2024,2/18/2024,2/26/2024
+834,834,834,TC076,Verify that the user can participate in customer feedback surveys and polls,performance,low,Detail 34 for Test Case A,12/8/2023,11/25/2023,4/27/2024
+835,835,835,TC033,Verify that the user can access the website's community guidelines and code of conduct,non-functional,low,Detail 87 for Test Case A,12/8/2023,11/4/2023,7/7/2024
+836,836,836,TC087,Verify that the user can access the website's data privacy and security measures,usability,high,Detail 3 for Test Case A,2/2/2024,12/15/2023,9/23/2023
+837,837,837,TC003,Verify that the user can access the website's community guidelines and code of conduct,usability,high,Detail 44 for Test Case A,12/4/2023,8/1/2024,4/9/2024
+838,838,838,TC027,Verify that the user can participate in product beta testing and feedback sessions,non-functional,low,Detail 62 for Test Case A,9/18/2023,12/9/2023,11/9/2023
+839,839,839,TC038,Verify that the website has a section for press releases and media coverage,non-functional,low,Detail 59 for Test Case A,8/27/2023,11/2/2023,4/4/2024
+840,840,840,TC046,Verify that the user can sign up for email newsletters and updates,performance,low,Detail 5 for Test Case A,9/14/2023,5/2/2024,10/1/2023
+841,841,841,TC054,Verify that the user can participate in product beta testing and feedback sessions,performance,low,Detail 37 for Test Case A,2/14/2024,2/16/2024,5/16/2024
+842,842,842,TC022,Verify that the website has a section for customer satisfaction surveys and feedback,performance,low,Detail 79 for Test Case A,4/24/2024,8/19/2024,8/30/2023
+843,843,843,TC010,Verify that the website has a section for community forums and discussions,performance,low,Detail 58 for Test Case A,7/13/2024,2/8/2024,2/17/2024
+844,844,844,TC052,Verify that the website has a section for product maintenance and care instructions,non-functional,medium,Detail 72 for Test Case A,4/8/2024,2/14/2024,2/24/2024
+845,845,845,TC061,Verify that the user can opt-in for push notifications on their mobile device,performance,high,Detail 24 for Test Case A,9/25/2023,9/13/2023,11/5/2023
+846,846,846,TC047,Verify that the website has a secure payment gateway for transactions,performance,high,Detail 97 for Test Case A,3/27/2024,3/5/2024,6/19/2024
+847,847,847,TC022,Verify that the user can view the company's commitment to ethical sourcing and production,performance,medium,Detail 26 for Test Case A,12/26/2023,10/8/2023,5/19/2024
+848,848,848,TC016,Verify that the website has a mobile app for convenient shopping on the go,performance,medium,Detail 45 for Test Case A,6/7/2024,11/9/2023,3/25/2024
+849,849,849,TC079,Verify that the user can participate in customer feedback surveys and polls,functional,high,Detail 49 for Test Case A,4/3/2024,4/14/2024,5/9/2024
+850,850,850,TC017,Verify that the user can access the website's community guidelines and code of conduct,usability,medium,Detail 8 for Test Case A,10/6/2023,3/19/2024,6/1/2024
+851,851,851,TC058,Verify that the website has a section for customer testimonials and reviews,functional,medium,Detail 89 for Test Case A,5/9/2024,12/22/2023,7/25/2024
+852,852,852,TC048,Verify that the website has a section for industry news and updates,usability,medium,Detail 92 for Test Case A,7/1/2024,12/15/2023,7/17/2024
+853,853,853,TC034,Verify that the website has a section for product installation and setup guides,performance,low,Detail 27 for Test Case A,11/10/2023,2/2/2024,10/3/2023
+854,854,854,TC091,Verify that the user can view product ratings and reviews from other customers,non-functional,low,Detail 42 for Test Case A,3/17/2024,3/27/2024,5/22/2024
+855,855,855,TC031,Verify that the user can participate in product beta testing and feedback sessions,performance,low,Detail 82 for Test Case A,6/28/2024,2/4/2024,9/5/2023
+856,856,856,TC100,Verify that the website has a section for gift cards and vouchers,functional,high,Detail 39 for Test Case A,6/4/2024,5/15/2024,3/7/2024
+857,857,857,TC098,Verify that the website has a section for customer satisfaction surveys and feedback,usability,high,Detail 60 for Test Case A,4/10/2024,1/6/2024,8/29/2023
+858,858,858,TC016,Verify that the user can share their wishlist with friends and family,non-functional,high,Detail 22 for Test Case A,8/12/2024,8/26/2023,7/21/2024
+859,859,859,TC098,Verify that the website has a user-friendly interface for easy navigation,performance,high,Detail 72 for Test Case A,1/13/2024,5/18/2024,10/9/2023
+860,860,860,TC016,Verify that the website has a section for new arrivals and featured products,non-functional,low,Detail 10 for Test Case A,3/29/2024,8/7/2024,8/20/2024
+861,861,861,TC041,Verify that the user can access the website's terms of use and legal agreements,usability,low,Detail 78 for Test Case A,3/31/2024,9/9/2023,4/21/2024
+862,862,862,TC050,Verify that the website has a section for customer testimonials and success stories,non-functional,low,Detail 12 for Test Case A,1/5/2024,3/24/2024,10/19/2023
+863,863,863,TC049,Verify that the website has a loyalty program for returning customers,performance,high,Detail 61 for Test Case A,11/26/2023,1/14/2024,12/23/2023
+864,864,864,TC059,Verify that the user can leave a review for a product after making a purchase,functional,high,Detail 73 for Test Case A,1/6/2024,9/20/2023,3/19/2024
+865,865,865,TC018,Verify that the user can view the company's commitment to quality and customer satisfaction,functional,high,Detail 82 for Test Case A,10/24/2023,5/16/2024,3/5/2024
+866,866,866,TC023,Verify that the user can participate in product beta testing and feedback sessions,performance,medium,Detail 6 for Test Case A,7/11/2024,4/5/2024,7/18/2024
+867,867,867,TC077,Verify that the user can sign up for email newsletters and updates,usability,medium,Detail 10 for Test Case A,3/3/2024,12/3/2023,5/1/2024
+868,868,868,TC098,Verify that the website has a section for product availability and stock updates,functional,medium,Detail 22 for Test Case A,10/14/2023,11/10/2023,3/24/2024
+869,869,869,TC019,Verify that the user can successfully add an item to the shopping cart,functional,medium,Detail 29 for Test Case A,4/20/2024,7/20/2024,3/20/2024
+870,870,870,TC093,Verify that the user can access the website's privacy policy and data protection measures,usability,high,Detail 49 for Test Case A,10/12/2023,5/5/2024,2/27/2024
+871,871,871,TC088,Verify that the user can filter search results by price range,non-functional,medium,Detail 42 for Test Case A,4/16/2024,12/9/2023,6/22/2024
+872,872,872,TC065,Verify that the website has a FAQ section for common customer queries,non-functional,medium,Detail 98 for Test Case A,11/18/2023,1/6/2024,12/5/2023
+873,873,873,TC056,Verify that the user can access the website's privacy policy and data protection measures,functional,low,Detail 69 for Test Case A,9/28/2023,9/25/2023,12/26/2023
+874,874,874,TC018,Verify that the website has a section for customer support contact information,functional,high,Detail 91 for Test Case A,2/26/2024,9/21/2023,4/23/2024
+875,875,875,TC023,Verify that the checkout process is smooth and error-free,functional,high,Detail 71 for Test Case A,8/20/2024,11/6/2023,8/20/2024
+876,876,876,TC034,Verify that the website has a section for customer support contact information,performance,medium,Detail 95 for Test Case A,1/29/2024,7/28/2024,9/27/2023
+877,877,877,TC074,Verify that the user can view the company's commitment to quality and customer satisfaction,usability,high,Detail 31 for Test Case A,10/24/2023,10/4/2023,12/3/2023
+878,878,878,TC012,Verify that the user can view the company's commitment to quality and customer satisfaction,usability,high,Detail 96 for Test Case A,6/24/2024,2/21/2024,12/27/2023
+879,879,879,TC001,Verify that the website has a section for product care instructions and maintenance,usability,medium,Detail 52 for Test Case A,10/12/2023,6/19/2024,3/5/2024
+880,880,880,TC014,Verify that the website has a section for customer feedback and testimonials,functional,high,Detail 88 for Test Case A,6/27/2024,1/26/2024,12/11/2023
+881,881,881,TC085,Verify that the user can view the company's commitment to diversity and inclusion,functional,low,Detail 96 for Test Case A,5/5/2024,2/12/2024,7/26/2024
+882,882,882,TC091,Verify that the user can leave a review for a product after making a purchase,functional,high,Detail 14 for Test Case A,2/26/2024,11/9/2023,10/5/2023
+883,883,883,TC054,Verify that the website has a section for product recommendations and personalized suggestions,performance,high,Detail 68 for Test Case A,10/13/2023,1/27/2024,12/10/2023
+884,884,884,TC072,Verify that the contact form sends inquiries to the customer support team,performance,high,Detail 92 for Test Case A,10/2/2023,1/25/2024,7/18/2024
+885,885,885,TC038,Verify that the login button is displayed on the homepage,usability,low,Detail 70 for Test Case A,8/28/2023,1/12/2024,11/17/2023
+886,886,886,TC041,Verify that the website has a section for customer support contact information,performance,high,Detail 75 for Test Case A,1/1/2024,2/14/2024,7/30/2024
+887,887,887,TC083,Verify that the user can access the website's data privacy and security measures,usability,low,Detail 20 for Test Case A,10/23/2023,5/21/2024,6/5/2024
+888,888,888,TC019,Verify that the user can participate in customer feedback surveys and polls,non-functional,low,Detail 23 for Test Case A,12/5/2023,2/10/2024,7/12/2024
+889,889,889,TC046,Verify that the website has a section for product maintenance and care instructions,non-functional,high,Detail 86 for Test Case A,1/18/2024,1/11/2024,3/6/2024
+890,890,890,TC068,Verify that the user can track their order status on the website,usability,medium,Detail 87 for Test Case A,12/30/2023,9/17/2023,10/1/2023
+891,891,891,TC033,Verify that the user can view the company's commitment to social responsibility,functional,low,Detail 96 for Test Case A,11/25/2023,11/14/2023,1/25/2024
+892,892,892,TC024,Verify that the website has a section for customer support resources and FAQs,non-functional,medium,Detail 77 for Test Case A,4/26/2024,2/5/2024,3/24/2024
+893,893,893,TC065,Verify that the website has a section for product maintenance and care instructions,non-functional,high,Detail 45 for Test Case A,5/20/2024,2/7/2024,11/25/2023
+894,894,894,TC092,Verify that the user can participate in contests and giveaways for prizes,performance,high,Detail 47 for Test Case A,6/7/2024,1/14/2024,10/30/2023
+895,895,895,TC023,Verify that the website has a section for product installation and setup guides,usability,high,Detail 70 for Test Case A,2/20/2024,1/10/2024,9/10/2023
+896,896,896,TC025,Verify that the website has a section for customer testimonials and reviews,usability,high,Detail 23 for Test Case A,4/21/2024,6/24/2024,5/7/2024
+897,897,897,TC063,Verify that the website has a section for customer service contact information,usability,low,Detail 11 for Test Case A,5/29/2024,1/7/2024,6/20/2024
+898,898,898,TC070,Verify that the website has a section for product maintenance and care instructions,non-functional,medium,Detail 43 for Test Case A,6/13/2024,12/2/2023,6/14/2024
+899,899,899,TC002,Verify that the website has a section for customer satisfaction surveys and feedback,non-functional,low,Detail 7 for Test Case A,7/30/2024,11/7/2023,5/29/2024
+900,900,900,TC044,Verify that the user can sign up for email newsletters and updates,functional,medium,Detail 50 for Test Case A,2/1/2024,3/4/2024,9/24/2023
+901,901,901,TC037,Verify that the user can provide feedback and suggestions for improvement,non-functional,medium,Detail 39 for Test Case A,11/12/2023,11/20/2023,8/8/2024
+902,902,902,TC058,Verify that the website has a secure payment gateway for transactions,usability,high,Detail 2 for Test Case A,6/16/2024,8/25/2023,2/5/2024
+903,903,903,TC049,Verify that the website has a section for product availability and stock updates,performance,medium,Detail 95 for Test Case A,2/4/2024,10/2/2023,6/15/2024
+904,904,904,TC073,Verify that the user can access the website's terms of use and legal agreements,usability,low,Detail 64 for Test Case A,10/18/2023,11/13/2023,7/22/2024
+905,905,905,TC005,Verify that the user can access their account from multiple devices,performance,low,Detail 1 for Test Case A,8/11/2024,4/20/2024,12/30/2023
+906,906,906,TC018,Verify that the user can sign up for email newsletters and updates,non-functional,high,Detail 22 for Test Case A,11/9/2023,3/23/2024,6/19/2024
+907,907,907,TC009,Verify that the user can save their payment information for faster checkout,non-functional,medium,Detail 34 for Test Case A,10/10/2023,9/8/2023,12/24/2023
+908,908,908,TC013,Verify that the user can participate in product beta testing and feedback sessions,non-functional,low,Detail 34 for Test Case A,9/28/2023,9/24/2023,11/12/2023
+909,909,909,TC078,Verify that the website has a section for customer service hours and availability,functional,low,Detail 14 for Test Case A,9/11/2023,8/29/2023,12/5/2023
+910,910,910,TC082,Verify that the website has a section for customer service contact information,usability,high,Detail 88 for Test Case A,11/10/2023,1/17/2024,4/8/2024
+911,911,911,TC067,Verify that the website has a secure login system for user accounts,non-functional,high,Detail 64 for Test Case A,1/7/2024,11/26/2023,12/26/2023
+912,912,912,TC095,Verify that the user receives a confirmation email after placing an order,usability,medium,Detail 83 for Test Case A,8/15/2024,4/24/2024,8/20/2024
+913,913,913,TC025,Verify that the website has a section for customer support contact information,non-functional,low,Detail 67 for Test Case A,4/8/2024,8/1/2024,5/15/2024
+914,914,914,TC061,Verify that the user can successfully add an item to the shopping cart,non-functional,low,Detail 29 for Test Case A,7/8/2024,11/22/2023,8/18/2024
+915,915,915,TC075,Verify that the user can view the company's commitment to quality and customer satisfaction,usability,medium,Detail 42 for Test Case A,1/28/2024,5/13/2024,7/13/2024
+916,916,916,TC015,Verify that the user can access the website's data privacy and security measures,performance,low,Detail 9 for Test Case A,5/7/2024,12/1/2023,1/10/2024
+917,917,917,TC058,Verify that the user can sign up for email newsletters and updates,performance,medium,Detail 22 for Test Case A,11/25/2023,4/25/2024,1/31/2024
+918,918,918,TC100,Verify that the user can sign up for exclusive offers and promotions,usability,medium,Detail 74 for Test Case A,6/14/2024,5/24/2024,7/14/2024
+919,919,919,TC057,Verify that the website has a section for industry awards and recognition,performance,medium,Detail 72 for Test Case A,3/14/2024,6/8/2024,9/22/2023
+920,920,920,TC016,Verify that the user can access the website's terms of use and legal agreements,usability,medium,Detail 10 for Test Case A,7/1/2024,5/29/2024,3/30/2024
+921,921,921,TC089,Verify that the website has a section for customer service hours and availability,functional,medium,Detail 73 for Test Case A,6/6/2024,9/11/2023,7/10/2024
+922,922,922,TC040,Verify that the user can participate in customer feedback surveys and polls,usability,low,Detail 34 for Test Case A,8/16/2024,2/28/2024,7/17/2024
+923,923,923,TC079,Verify that the user can contact customer support through multiple channels,usability,medium,Detail 5 for Test Case A,12/15/2023,6/11/2024,11/17/2023
+924,924,924,TC067,Verify that the user can filter search results by price range,functional,medium,Detail 97 for Test Case A,7/22/2024,3/31/2024,2/24/2024
+925,925,925,TC035,Verify that the website has a section for industry news and updates,functional,medium,Detail 28 for Test Case A,10/23/2023,5/1/2024,6/28/2024
+926,926,926,TC079,Verify that the contact form sends inquiries to the customer support team,usability,high,Detail 16 for Test Case A,4/24/2024,12/1/2023,5/26/2024
+927,927,927,TC084,Verify that the website has a clear returns and refunds policy for customers,usability,low,Detail 71 for Test Case A,5/11/2024,12/24/2023,8/28/2023
+928,928,928,TC044,Verify that the website has a section for customer support resources and FAQs,performance,high,Detail 80 for Test Case A,12/8/2023,8/23/2024,9/15/2023
+929,929,929,TC042,Verify that the website has a section for customer service hours and availability,usability,low,Detail 37 for Test Case A,7/26/2024,10/5/2023,6/27/2024
+930,930,930,TC072,Verify that the website has a section for press releases and media coverage,non-functional,high,Detail 3 for Test Case A,4/28/2024,9/7/2023,7/26/2024
+931,931,931,TC058,Verify that the user can view the company's history and milestones,non-functional,medium,Detail 78 for Test Case A,5/1/2024,4/29/2024,12/9/2023
+932,932,932,TC028,Verify that the user can share products on social media platforms,usability,medium,Detail 6 for Test Case A,3/8/2024,3/14/2024,11/1/2023
+933,933,933,TC076,Verify that the website has a section for product specifications and technical details,usability,medium,Detail 9 for Test Case A,7/7/2024,10/15/2023,2/7/2024
+934,934,934,TC071,Verify that the user can participate in customer feedback surveys and polls,non-functional,high,Detail 39 for Test Case A,11/11/2023,8/14/2024,11/4/2023
+935,935,935,TC026,Verify that the website has a section for customer testimonials and success stories,functional,medium,Detail 27 for Test Case A,11/3/2023,12/4/2023,4/7/2024
+936,936,936,TC063,Verify that the website has a section for product availability and stock updates,non-functional,high,Detail 43 for Test Case A,10/8/2023,11/2/2023,1/29/2024
+937,937,937,TC100,Verify that the website has a section for press releases and media coverage,performance,high,Detail 5 for Test Case A,11/11/2023,6/6/2024,7/30/2024
+938,938,938,TC095,Verify that the user can view the company's commitment to social responsibility,usability,low,Detail 82 for Test Case A,10/16/2023,8/22/2024,1/16/2024
+939,939,939,TC019,Verify that the user can provide feedback and suggestions for improvement,functional,medium,Detail 94 for Test Case A,2/9/2024,10/23/2023,1/23/2024
+940,940,940,TC055,Verify that the website has a secure SSL certificate for data encryption,performance,high,Detail 1 for Test Case A,12/9/2023,3/31/2024,10/23/2023
+941,941,941,TC081,Verify that the website has a section for customer service hours and availability,non-functional,low,Detail 10 for Test Case A,2/2/2024,9/29/2023,11/12/2023
+942,942,942,TC008,Verify that the website has a user-friendly interface for easy navigation,non-functional,low,Detail 59 for Test Case A,12/1/2023,4/25/2024,7/29/2024
+943,943,943,TC085,Verify that the website has a section for customer support contact information,usability,medium,Detail 7 for Test Case A,2/18/2024,5/27/2024,3/18/2024
+944,944,944,TC028,Verify that the user can access the website's data privacy and security measures,performance,low,Detail 72 for Test Case A,6/8/2024,12/28/2023,12/23/2023
+945,945,945,TC029,Verify that the checkout process is smooth and error-free,performance,medium,Detail 90 for Test Case A,6/16/2024,4/30/2024,1/25/2024
+946,946,946,TC077,Verify that the website has a section for upcoming events and promotions,performance,medium,Detail 30 for Test Case A,7/23/2024,12/25/2023,1/31/2024
+947,947,947,TC098,Verify that the user can view the company's commitment to quality and customer satisfaction,usability,low,Detail 76 for Test Case A,10/28/2023,8/14/2024,11/2/2023
+948,948,948,TC056,Verify that the user can reset their password using the forgot password feature,usability,medium,Detail 25 for Test Case A,3/28/2024,7/27/2024,5/2/2024
+949,949,949,TC007,Verify that the user can access the website's terms of use and legal agreements,functional,low,Detail 92 for Test Case A,5/5/2024,1/7/2024,7/18/2024
+950,950,950,TC055,Verify that the user can participate in product beta testing and feedback sessions,usability,low,Detail 26 for Test Case A,1/29/2024,7/31/2024,4/20/2024
+951,951,951,TC076,Verify that the user can unsubscribe from marketing emails,usability,medium,Detail 17 for Test Case A,8/29/2023,7/5/2024,9/20/2023
+952,952,952,TC033,Verify that the website has a mobile app for convenient shopping on the go,usability,high,Detail 91 for Test Case A,4/7/2024,6/2/2024,12/1/2023
+953,953,953,TC004,Verify that the user can participate in customer feedback surveys and polls,functional,medium,Detail 27 for Test Case A,6/13/2024,7/12/2024,10/21/2023
+954,954,954,TC041,Verify that the website has a secure login system for user accounts,performance,high,Detail 16 for Test Case A,10/24/2023,6/20/2024,7/27/2024
+955,955,955,TC034,Verify that the user can view the company's commitment to quality and customer satisfaction,non-functional,medium,Detail 9 for Test Case A,9/30/2023,10/1/2023,8/20/2024
+956,956,956,TC001,Verify that the user can view the company's commitment to social responsibility,non-functional,high,Detail 58 for Test Case A,7/17/2024,4/21/2024,11/7/2023
+957,957,957,TC035,Verify that the user can leave a review for a product after making a purchase,non-functional,low,Detail 33 for Test Case A,4/20/2024,9/19/2023,7/24/2024
+958,958,958,TC040,Verify that the website has a section for customer feedback and testimonials,usability,high,Detail 53 for Test Case A,7/21/2024,2/15/2024,1/18/2024
+959,959,959,TC038,Verify that the website has a section for press releases and media coverage,usability,low,Detail 29 for Test Case A,6/6/2024,9/3/2023,4/29/2024
+960,960,960,TC055,Verify that the website has a section for product warranties and guarantees,non-functional,medium,Detail 48 for Test Case A,12/31/2023,7/24/2024,11/19/2023
+961,961,961,TC018,Verify that the user can update their account information successfully,performance,low,Detail 62 for Test Case A,8/15/2024,3/31/2024,11/4/2023
+962,962,962,TC097,Verify that the social media links are working and directing users to the correct pages,usability,medium,Detail 78 for Test Case A,11/7/2023,8/21/2024,6/1/2024
+963,963,963,TC019,Verify that the user can sign up for exclusive offers and promotions,usability,low,Detail 100 for Test Case A,10/23/2023,4/20/2024,12/15/2023
+964,964,964,TC064,Verify that the user can view the company's commitment to quality and customer satisfaction,performance,medium,Detail 72 for Test Case A,1/25/2024,7/15/2024,7/23/2024
+965,965,965,TC090,Verify that the website has a section for product specifications and technical details,functional,high,Detail 11 for Test Case A,9/3/2023,12/9/2023,11/14/2023
+966,966,966,TC020,Verify that the website has a secure payment gateway for transactions,functional,medium,Detail 80 for Test Case A,6/8/2024,3/29/2024,5/18/2024
+967,967,967,TC015,Verify that the user can view the company's social responsibility initiatives,functional,high,Detail 6 for Test Case A,8/22/2024,6/8/2024,6/5/2024
+968,968,968,TC006,Verify that the website has a secure login system for user accounts,non-functional,high,Detail 15 for Test Case A,1/28/2024,12/13/2023,6/22/2024
+969,969,969,TC023,Verify that the website has a blog section with informative articles,usability,medium,Detail 1 for Test Case A,2/11/2024,4/26/2024,7/11/2024
+970,970,970,TC077,Verify that the website has a section for product warranties and guarantees,usability,medium,Detail 8 for Test Case A,11/19/2023,10/22/2023,5/23/2024
+971,971,971,TC056,Verify that the user can track their order status on the website,usability,high,Detail 31 for Test Case A,9/4/2023,3/27/2024,12/29/2023
+972,972,972,TC074,Verify that the terms and conditions are easily accessible on the website,performance,medium,Detail 49 for Test Case A,4/27/2024,9/29/2023,12/19/2023
+973,973,973,TC005,Verify that the user can participate in customer feedback surveys and polls,functional,low,Detail 22 for Test Case A,6/2/2024,10/2/2023,1/2/2024
+974,974,974,TC030,Verify that the website has a section for gift cards and vouchers,performance,low,Detail 83 for Test Case A,3/11/2024,10/9/2023,11/2/2023
+975,975,975,TC061,Verify that the website has a section for customer testimonials and success stories,usability,high,Detail 23 for Test Case A,8/19/2024,1/6/2024,9/6/2023
+976,976,976,TC071,Verify that the website has a section for new arrivals and featured products,non-functional,low,Detail 15 for Test Case A,8/5/2024,10/2/2023,11/2/2023
+977,977,977,TC052,Verify that the user can access the website's data privacy and security measures,non-functional,low,Detail 74 for Test Case A,3/21/2024,12/9/2023,3/5/2024
+978,978,978,TC072,Verify that the user can participate in product beta testing and feedback sessions,performance,low,Detail 64 for Test Case A,8/16/2024,1/6/2024,8/30/2023
+979,979,979,TC089,Verify that the website is responsive on different devices,usability,high,Detail 84 for Test Case A,11/12/2023,2/3/2024,10/17/2023
+980,980,980,TC085,Verify that the website has a section for customer feedback and testimonials,functional,medium,Detail 97 for Test Case A,6/11/2024,7/7/2024,11/8/2023
+981,981,981,TC005,Verify that the website has a section for customer testimonials and reviews,non-functional,medium,Detail 37 for Test Case A,3/24/2024,5/30/2024,11/3/2023
+982,982,982,TC024,Verify that the website has a user-friendly interface for easy navigation,performance,medium,Detail 59 for Test Case A,8/27/2023,3/26/2024,6/12/2024
+983,983,983,TC038,Verify that the user can sign up for email newsletters and updates,non-functional,medium,Detail 12 for Test Case A,4/21/2024,1/2/2024,12/11/2023
+984,984,984,TC015,Verify that the checkout process is smooth and error-free,usability,low,Detail 33 for Test Case A,11/10/2023,7/14/2024,11/21/2023
+985,985,985,TC100,Verify that the website is responsive on different devices,performance,low,Detail 64 for Test Case A,11/29/2023,12/26/2023,4/19/2024
+986,986,986,TC007,Verify that the website has a section for customer testimonials and reviews,non-functional,low,Detail 17 for Test Case A,10/17/2023,4/23/2024,1/9/2024
+987,987,987,TC007,Verify that the website has a secure login system for user accounts,non-functional,high,Detail 85 for Test Case A,10/13/2023,12/12/2023,11/9/2023
+988,988,988,TC063,Verify that the website has a section for product warranties and guarantees,performance,high,Detail 15 for Test Case A,4/10/2024,5/14/2024,12/6/2023
+989,989,989,TC030,Verify that the user can view the company's leadership team and key personnel,usability,medium,Detail 6 for Test Case A,3/17/2024,7/17/2024,6/16/2024
+990,990,990,TC087,Verify that the user can access the website's data privacy and security measures,usability,medium,Detail 13 for Test Case A,9/15/2023,9/23/2023,6/30/2024
+991,991,991,TC049,Verify that the website has a section for product specifications and technical details,functional,high,Detail 38 for Test Case A,9/13/2023,4/25/2024,8/25/2023
+992,992,992,TC066,Verify that the user can participate in contests and giveaways for prizes,usability,high,Detail 23 for Test Case A,5/7/2024,1/22/2024,11/13/2023
+993,993,993,TC079,Verify that the website has a secure login system for user accounts,performance,low,Detail 28 for Test Case A,8/14/2024,2/5/2024,7/27/2024
+994,994,994,TC095,Verify that the website has a section for customer service hours and availability,non-functional,low,Detail 3 for Test Case A,1/1/2024,6/25/2024,10/29/2023
+995,995,995,TC079,Verify that the user can access the website's data privacy and security measures,usability,high,Detail 44 for Test Case A,7/29/2024,12/22/2023,8/20/2024
+996,996,996,TC067,Verify that the website has a secure payment gateway for transactions,usability,low,Detail 39 for Test Case A,2/19/2024,8/19/2024,11/6/2023
+997,997,997,TC057,Verify that the website has a section for customer service contact information,functional,high,Detail 83 for Test Case A,9/28/2023,7/13/2024,4/12/2024
+998,998,998,TC069,Verify that the user can participate in contests and giveaways for prizes,usability,high,Detail 59 for Test Case A,6/18/2024,12/13/2023,5/10/2024
+999,999,999,TC048,Verify that the user can access the website's terms of use and legal agreements,performance,low,Detail 32 for Test Case A,7/1/2024,1/18/2024,10/15/2023
+1000,1000,1000,TC066,Verify that the user can filter search results by price range,performance,medium,Detail 21 for Test Case A,1/31/2024,7/16/2024,12/12/2023
