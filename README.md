@@ -11,8 +11,8 @@
 | No. | Student ID | Full Name | Main Responsibility |
 |---|---|---|---|
 | 1 | 21127699 | Lo Thuy Tien | Test cases, test execution, documentation |
-| 2 | 21127360 | Member Name | Domain testing, test data, documentation |
-| 3 | 21127365 | Member Name | GUI testing, API testing, bug tracking |
+| 2 | 21127360 | Pham Van Minh | Domain testing, test data, documentation |
+| 3 | 21127365 | Phan Phuoc Hai Nam | GUI testing, API testing, bug tracking |
 
 ## Overview
 This repository contains testing documents for a Test Management Website project.  
